@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --font2: "Commissioner", sans-serif;
+}
+/* General styles */
+.cases-section {
+
+    color: #fff;
+  }
+  
+  .cases-section-bg .section-title {
+    font-size: 3.9rem !important;
+    font-weight: 500 !important;
+    text-align: center;
+    color: white;
+    font-family: var(--font-Commissioner);
+    line-height: 1.2;
+    margin-bottom: 30px;
+  }
+
+  
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .cases-section-bg .section-title {
+    font-size: 3.5rem !important;
+  }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .cases-section-bg .section-title {
+    font-size: 3rem !important;
+    margin-bottom: 25px;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  .cases-section-bg .section-title {
+    font-size: 2.5rem !important;
+    margin-bottom: 20px;
+  }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .cases-section-bg .section-title {
+    font-size: 2rem !important;
+    margin-bottom: 15px;
+  }
+}
+
+/* Very small devices (phones, less than 400px) */
+@media (max-width: 399.98px) {
+  .cases-section-bg .section-title {
+    font-size: 2.1rem !important;
+  }
+}
+
+  
+  /* Case item layout */
+  .case-item {
+    text-align: start;
+    padding: 15px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  
+  /* Case images */
+  .case-image {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    border: 1px solid #383838;
+    object-position: center;
+    border-radius: 10px;
+  }
+  
+  /* Title */
+  .case-title {
+    font-size: 2rem;
+    margin-top: 10px;
+    font-weight: 500 !important;
+    color: white;
+    font-family: var(--font2);
+  }
+  
+  /* Description */
+  .case-description {
+    font-size: 1rem;
+    color: #ddd;
+    margin-top: 5px;
+  }
+  
+  /* Tags */
+  .case-tags {
+    margin-top: 10px;
+    
+  }
+  .cases-section-bg{
+    background-color: #010101;
+  }
+  .case-tag {
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    background-color: #171714;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid #e2e2e2;
+  }
+
+  .cases-section-bg a{
+    color: transparent;
+  }
+  
+  .case-tag:hover {
+    background-color: #171714;
+    color: white;
+    border: 1px solid #e2e2e2;
+  }
+  
+  .bottom-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%; /* Ensures full width */
+  }
+   /* View More Button */
+  .view-more-btn {
+    background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 17px 39px;
+    border-radius: 30px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .view-more-btn:hover {
+    background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+    color: black !important;
+  }
+  
+  
+  
+  /* Responsive Design */
+  @media (max-width: 992px) {
+    .case-title {
+      font-size: 1.3rem;
+    }
+  
+    .case-description {
+      font-size: 0.9rem;
+    }
+  
+    .case-item {
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+
+  
+    .case-title {
+      font-size: 1.2rem;
+    }
+  
+    .case-description {
+      font-size: 0.85rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .case-item {
+      text-align: left;
+    }
+  
+    .case-title {
+      font-size: 1.1rem;
+    }
+  
+    .case-description {
+      font-size: 0.8rem;
+    }
+  
+    .case-tag {
+      font-size: 0.8rem;
+      padding: 5px 10px;
+    }
+  
+    .view-more-btn {
+      font-size: 0.9rem;
+      padding: 8px 16px;
+    }
+  
+  }
+  

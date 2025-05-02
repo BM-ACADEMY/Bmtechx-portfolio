@@ -1,0 +1,85 @@
+
+.about-section-bg{
+  background:
+  /* Top-right yellow fade */
+  radial-gradient(circle at top right, rgba(255, 221, 0, 0.3) 0%, transparent 40%),
+
+  /* Middle-right yellow glow */
+  radial-gradient(circle at 10% 70%, rgba(255, 221, 0, 0.15) 0%, rgba(255, 221, 0, 0.08) 10%, transparent 90%),
+
+  /* Base background: black */
+  black !important;
+}
+
+.about-section {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.about-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 30px;
+  width: 38%;
+  height: 100%;
+  background-image: url('/Banners/download.png') !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center right;
+  opacity: 1;
+  z-index: 0;
+}
+
+/* Content stays above */
+.logo-box,
+.aboutpage-text {
+  position: relative;
+  z-index: 1;
+}
+
+.aboutpage-text {
+  position: relative;
+  z-index: 1;
+  text-align: start !important;
+  font-size: 1.1rem;     /* ✅ Default font size */
+}
+
+
+.about-btn {
+  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+  color: black;
+  font-weight: bold;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 30px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  transition: background 0.3s ease-in-out;
+}
+
+.about-btn:hover {
+  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  color: black !important;
+}
+
+/* Adjust font size on smaller screens */
+@media (max-width: 768px) {
+  .about-section::before {
+    display: none;
+  }
+
+  .aboutpage-text {
+    font-size: 1rem;     /* ✅ Smaller font on mobile */
+    padding: 0 15px;     /* Optional: Add some side padding for better layout */
+  }
+
+  .logo-box h2 {
+    font-size: 3rem !important; /* ✅ Adjust heading on small screen */
+  }
+}

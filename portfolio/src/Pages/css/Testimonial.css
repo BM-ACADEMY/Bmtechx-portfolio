@@ -1,0 +1,253 @@
+.testimonial-section{
+    background-color: #010101;
+}
+.testimonial-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+  
+.testimonial-card {
+    width: 40rem;
+    min-height: 430px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #1c1c1c;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border: 1px solid #b1ada1;
+    position: relative; /* Enables absolute positioning inside */
+    overflow: hidden; /* Ensures content doesn't overflow */
+}
+
+/* Overlay Image */
+.testimonial-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('image/dotbutton.png') top/contain no-repeat;
+    opacity: 0.1;
+    z-index: 0;
+    pointer-events: none; /* Prevents blocking interactions */
+}
+
+.testimonial-text, .testimonial-user {
+    position: relative;
+    z-index: 1;
+}
+
+  .testimonial-rating span{
+    border: 1.2px solid white;
+    padding: 8px;
+    border-radius: 20px;
+  }
+/* Quote text */
+.testimonial-text {
+    font-size: 1.2rem;
+    color: #ddd;
+    line-height: 1.6;
+    text-align:  start;
+    
+}
+
+  
+/* User info section */
+.testimonial-user {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.testimonial-user-img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: 2px solid #e0d3a9; /* Accent color */
+}
+  
+.testimonial-user-info {
+    margin-left: 15px;
+}
+  
+.testimonial-user-info h5 {
+    margin: 0;
+    font-size: 1.1rem;
+}
+  
+.testimonial-user-info small {
+    color: #bbb;
+}
+
+/* Navigation buttons */
+.testimonial-buttons {
+    display: flex;
+    justify-content: end; /* Align buttons to the right */
+    gap: 15px; /* Add space between buttons */
+    margin-top: 15px; /* Add margin for spacing */
+    z-index: 2; /* Ensure buttons stay on top */
+    position: relative;
+}
+
+.testimonial-buttons button {
+    background: none;
+    border: 1.2px solid white; /* White border to create the circle */
+    color: white;
+    cursor: pointer;
+    padding: 10px; /* Ensure even spacing inside the button */
+    border-radius: 50%; /* Makes the button circular */
+    width: 40px; /* Set fixed width */
+    height: 40px; /* Set fixed height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.testimonial-section .testimonial-top-text {
+    font-size: 3.9rem !important;
+    font-weight: 500 !important;
+    text-align: center;
+    color: white;
+    font-family: var(--font-Commissioner);
+    line-height: 1.2;
+    margin-bottom: 30px;
+  }
+
+  /* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+.testimonial-section .testimonial-top-text {
+      font-size: 3.5rem !important;
+    }
+    }
+    
+    /* Medium devices (tablets, less than 992px) */
+    @media (max-width: 991.98px) {
+.testimonial-section .testimonial-top-text {
+      font-size: 3rem !important;
+      margin-bottom: 25px;
+    }
+    }
+    
+    /* Small devices (landscape phones, less than 768px) */
+    @media (max-width: 767.98px) {
+.testimonial-section .testimonial-top-text {
+      font-size: 2.5rem !important;
+      margin-bottom: 20px;
+    }
+    }
+    
+    /* Extra small devices (portrait phones, less than 576px) */
+    @media (max-width: 575.98px) {
+.testimonial-section .testimonial-top-text {
+      font-size: 2rem !important;
+      margin-bottom: 15px;
+    }
+    }
+    
+    /* Very small devices (phones, less than 400px) */
+    @media (max-width: 399.98px) {
+.testimonial-section .testimonial-top-text {
+      font-size: 2rem !important;
+    }
+    }
+
+
+@media (max-width: 1024px) {
+    .testimonial-card {
+        width: 40rem; /* Reduce width */
+        padding: 25px;
+    }
+    .testimonial-card {
+        width: 90%;
+        min-height: 400px;
+    }
+    .testimonial-text {
+        font-size: 1.1rem; /* Slightly smaller text */
+    }
+
+    .testimonial-user-img {
+        width: 50px; /* Smaller profile image */
+        height: 50px;
+    }
+
+    .testimonial-buttons button {
+        width: 35px; /* Reduce button size */
+        height: 35px;
+    }
+}
+
+
+
+/* Mobile devices (max-width: 768px) */
+@media (max-width: 768px) {
+    .testimonial-card {
+        width: 90%;
+        min-height: 400px;
+    }
+
+    .testimonial-text {
+        font-size: 1rem; /* Reduce text size */
+    }
+
+
+    .testimonial-user-img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .testimonial-user-info {
+        margin-left: 0;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .testimonial-buttons {
+        justify-content: end; /* Center buttons on small screens */
+    }
+
+    .testimonial-buttons button {
+        width: 30px; /* Smaller buttons */
+        height: 30px;
+    }
+}
+
+/* Extra small devices (max-width: 576px) */
+@media (max-width: 576px) {
+    .testimonial-card {
+        width: 90%;
+        min-height: 400px;
+    }
+
+    .testimonial-text {
+        font-size: 0.95rem;
+        line-height: 1.4;
+    }
+    .testimonial-user-img {
+        width: 40px;
+        height: 40px;
+    }
+    .testimonial-user-info{
+        padding-left: 2px;
+    }
+    .testimonial-user-info h2, small{
+        font-size: 10px !important;
+    }
+    
+    .testimonial-buttons {
+        gap: 10px;
+    }
+
+    .testimonial-buttons button {
+        width: 32px;
+        height: 32px;
+    }
+}

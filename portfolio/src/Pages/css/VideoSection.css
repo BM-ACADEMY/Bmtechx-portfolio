@@ -1,0 +1,195 @@
+/* Video Section */
+.Videosection .video-large {
+  width: 100%;
+  max-width: 2500px !important; /* Increase max width */
+  height: auto;
+  background: none;
+  border-radius: 25px !important;
+  display: block;
+  object-fit: cover; /* Ensures video fills the container */
+}
+
+/* Make sure the parent container allows large video size */
+.Videosection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: var(--font-Commissioner);
+  /* background: 
+  linear-gradient(to bottom, rgba(85, 65, 6, 0), transparent 60%), 
+  radial-gradient(circle at top left, rgba(182, 158, 6, 0.397) 0%, rgba(255, 221, 0, 0.11) 30%, transparent 60%)
+  black; */
+}
+
+/* Main Container */
+
+
+
+
+.Videosection .video-card {
+  min-height: 500px; /* Increase height */
+  display: flex;
+  align-items: center; /* Center content vertically */
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  background-color: #222222;
+  border-radius: 25px;
+}
+
+.Videosection .bottom-left-image {
+  position: absolute;
+  bottom: -10px;
+  left: -40px;
+  width: 30%; /* Reduce size */
+  height: auto;
+  opacity: 1; /* Ensure visibility */
+  transform: translate(20px, -20px); /* Move it slightly up and right */
+
+  /* Apply a smooth gradient mask to fade the top and right */
+  mask-image: linear-gradient(to bottom left, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0) 100%) !important;
+  -webkit-mask-image: linear-gradient(to bottom left, rgba(0, 0, 0, 0.212) 40%, rgba(0, 0, 0, 0) 100%) !important;
+
+  /* Slight dimming effect */
+  filter: brightness(0.8);
+}
+
+
+
+
+/* Heading Styles */
+.Videosection h2 {
+  font-size: 48px !important;
+  font-weight: 500 !important;
+  font-family: var(--font-Commissioner);
+  color: white;
+}
+
+.Videosection .text-warning {
+  color: #ffc107 !important;
+}
+
+/* Profile Images & Avatar Group */
+.Videosection .MuiAvatar-root {
+  width: 50px !important; /* Increased avatar size */
+  height: 50px !important;
+  border: 2px solid #ffc107 !important;
+  transition: transform 0.3s ease-in-out;
+}
+
+.Videosection .MuiAvatar-root:hover {
+  transform: scale(1.1);
+}
+
+
+.Videosection .MuiAvatarGroup-root {
+  justify-content: end;
+}
+
+/* Stats Section */
+.Videosection .card-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Videosection .stats-box {
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  background-color: #262626;
+  min-width: 250px; /* Ensure consistency */
+  z-index: 999;
+}
+.text-secondary-video{
+  color: #cdcdcd !important;
+}
+@media (max-width: 1024px) {
+  .Videosection .video-card {
+    min-height: 400px;
+    padding: 20px;
+  }
+
+  .Videosection h2 {
+    font-size: 2.5rem !important;
+  }
+
+  .Videosection .stats-box {
+    min-width: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .Videosection .video-large {
+    max-width: 100% !important;
+    border-radius: 20px !important;
+  }
+
+  .Videosection h2 {
+    font-size: 2rem !important;
+    text-align: start;
+  }
+  .text-secondary-video{
+    text-align: start;
+  }
+
+  .Videosection .stats-box {
+    min-width: 180px;
+    padding: 15px;
+  }
+
+  .Videosection .MuiAvatar-root {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+}
+
+@media (max-width: 480px) {
+  .Videosection .video-card {
+    min-height: 350px;
+    padding: 15px;
+  }
+
+  .Videosection h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .Videosection .stats-box {
+    min-width: 150px;
+    padding: 10px;
+  }
+
+  .Videosection .MuiAvatar-root {
+    width: 35px !important;
+    height: 35px !important;
+  }
+
+
+}
+
+@media (max-width: 375px) {
+  .Videosection .video-card {
+    min-height: 350px;
+    padding: 15px;
+  }
+
+  .Videosection h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .Videosection .stats-box {
+    min-width: 150px;
+    padding: 10px;
+  }
+
+  .Videosection .MuiAvatar-root {
+    width: 35px !important;
+    height: 35px !important;
+  }
+
+
+}
+

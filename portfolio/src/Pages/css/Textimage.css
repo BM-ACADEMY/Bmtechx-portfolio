@@ -1,0 +1,99 @@
+
+
+.hero-section {
+  background-color: #010101;
+  font-family: var(--font-Commissioner);
+  color: white;
+  padding: 60px 0;
+}
+
+.brand-btn {
+  background: #111111;
+  border: none;
+  color: white;
+  border: 2px solid #515151;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 30px;
+  margin-bottom: 15px;
+}
+.brand-btn:hover{
+  background: #111111 !important;
+  border: none;
+  color: white;
+  border: 2px solid #515151 !important;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 30px;
+  margin-bottom: 15px;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero-section .highlight {
+  color: #ffd700;
+  /* Yellow */
+}
+
+.hero-section p {
+  max-width: 500px;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: justify;
+  color: grey; /* Initial grey color */
+  transition: color 0.5s ease-in-out; /* Smooth color transition */
+}
+
+.hero-section p:hover {
+  color: white; /* Changes to white on hover */
+}
+
+
+.image-section {
+  text-align: right;
+}
+
+.hero-image {
+  max-width: 70%;
+  height: auto;
+  filter: drop-shadow(0px 0px 10px rgba(255, 221, 0, 0.5));
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .hero-section {
+    text-align: center;
+  }
+
+  .image-section {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .hero-image {
+    max-width: 60%;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+  .hero-section p{
+    font-size: 18px;
+  }
+
+  .hero-image {
+    max-width: 70%;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-image {
+    max-width: 60%;
+  }
+}

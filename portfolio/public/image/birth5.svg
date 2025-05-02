@@ -1,0 +1,36 @@
+<svg width="366" height="366" viewBox="0 0 366 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="214" height="366" rx="32" fill="#222222"/>
+<rect x="0.5" y="0.5" width="213" height="365" rx="31.5" stroke="white" stroke-opacity="0.1"/>
+<g opacity="0.05">
+<circle cx="25" cy="21" r="5" fill="white"/>
+<circle cx="41" cy="21" r="5" fill="white"/>
+<circle cx="57" cy="21" r="5" fill="white"/>
+</g>
+<rect opacity="0.1" x="20" y="38" width="175" height="38" rx="3" fill="white"/>
+<rect opacity="0.1" x="20" y="92" width="53" height="38" rx="3" fill="white"/>
+<rect opacity="0.1" x="81" y="92" width="53" height="38" rx="3" fill="white"/>
+<rect opacity="0.1" x="142" y="92" width="53" height="38" rx="3" fill="white"/>
+<rect opacity="0.05" x="20" y="146" width="175" height="38" rx="3" fill="white"/>
+<rect opacity="0.1" width="114" height="38" rx="3" transform="matrix(-1 0 0 1 195 200)" fill="white"/>
+<rect opacity="0.05" width="53" height="38" rx="3" transform="matrix(-1 0 0 1 73 200)" fill="white"/>
+<rect opacity="0.1" x="20" y="254" width="53" height="38" rx="3" fill="white"/>
+<rect opacity="0.1" x="81" y="254" width="53" height="38" rx="3" fill="white"/>
+<rect opacity="0.05" x="142" y="254" width="53" height="38" rx="3" fill="white"/>
+<rect x="20" y="308" width="82" height="38" rx="19" fill="#FED500"/>
+<rect x="238" width="128" height="273" rx="32" fill="#222222"/>
+<rect x="238.5" y="0.5" width="127" height="272" rx="31.5" stroke="white" stroke-opacity="0.1"/>
+<g opacity="0.05">
+<rect x="258" y="16" width="88" height="10" rx="3" fill="white"/>
+</g>
+<rect opacity="0.1" x="258" y="38" width="88" height="24" rx="3" fill="white"/>
+<rect opacity="0.05" x="258" y="102" width="88" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="258" y="134" width="88" height="24" rx="3" fill="white"/>
+<rect opacity="0.05" x="258" y="166" width="40" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="306" y="166" width="40" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="258" y="198" width="40" height="24" rx="3" fill="white"/>
+<rect opacity="0.05" x="306" y="198" width="40" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="258" y="70" width="24" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="290" y="70" width="24" height="24" rx="3" fill="white"/>
+<rect opacity="0.1" x="322" y="70" width="24" height="24" rx="3" fill="white"/>
+<rect x="258" y="237" width="40" height="16" rx="8" fill="#FED500"/>
+</svg>

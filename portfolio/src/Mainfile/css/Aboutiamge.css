@@ -1,0 +1,32 @@
+
+.fullscreen-container {
+    height: auto; /* Full viewport height */
+    width: 100%; /* Full width */
+    padding: 0;
+    margin: 0;
+    overflow: hidden; /* Prevent scrolling */
+    position: relative; /* For positioning children */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Image styling for desktop - larger size */
+  .fullscreen-image {
+   
+    width: 100%; /* Maintain aspect ratio */
+    height: 150%; /* Maintain aspect ratio */
+  }
+  
+  /* Medium screen (md) rectangular styling */
+  @media (max-width: 991.98px) { /* Bootstrap's md breakpoint */
+    .fullscreen-container {
+      height: auto; /* Rectangular height */
+    }
+    
+    .fullscreen-image {
+      max-width: 100%; /* Slightly larger on medium screens */
+      max-height: 100%;
+    }
+  }
+  

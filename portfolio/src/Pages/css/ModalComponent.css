@@ -1,0 +1,149 @@
+/* Increase Modal Width */
+.contact-modal .modal-dialog {
+
+  width: 100%;
+}
+
+/* Modal Styling */
+.contact-modal .modal-content {
+  background-color: #191919;
+  border: 1px solid rgba(255, 255, 255, 0.53);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Modal Body */
+.contact-modal .modal-body {
+  text-align: start;
+  color: #fff;
+}
+
+/* Heading */
+.contact-modal h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: white;
+}
+
+/* Paragraph Styling */
+.contact-modal p,
+.para {
+  font-size: 14px;
+  margin-bottom: 15px;
+  max-width: 400px;
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+/* Close Button */
+.contact-modal .btn-light {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.contact-modal .btn-light:hover {
+  opacity: 0.7;
+}
+
+/* Form Inputs */
+.contact-modal .form-control {
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background-color: #121212;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.contact-modal .form-control:focus {
+  box-shadow: none;
+}
+
+/* Placeholder Text */
+.contact-modal .form-control::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Textarea */
+.contact-modal textarea {
+  resize: none;
+}
+
+/* Privacy Policy Link */
+.contact-modal .text-muted a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #f4c430;
+}
+
+.contact-modal .text-muted a:hover {
+  text-decoration: underline;
+}
+
+/* Submit Button */
+.contact-modal .btn-warning {
+  width: 100%;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 30px;
+  color: #333;
+  border: none;
+  height: 50px;
+  font-size: 18px;
+}
+
+.contact-modal .btn-warning:hover {
+  background-color: #e2ac08;
+  opacity: 0.9;
+}
+
+/* Contact Details */
+.contact-modal .mt-3 {
+  padding-top: 15px;
+  margin-top: 20px;
+}
+
+/* Contact Email & Meeting Link */
+.contact-modal .text-white {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.contact-modal a.text-white {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Responsive Modal Width */
+@media (max-width: 768px) {
+  .contact-modal .modal-dialog {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-modal .modal-dialog {
+    max-width: 95%;
+  }
+
+  .contact-modal h2 {
+    font-size: 22px;
+  }
+
+  .contact-modal p,
+  .para {
+    font-size: 12px;
+    max-width: 100%;
+  }
+
+  .contact-modal .form-control {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .contact-modal .btn-warning {
+    height: 45px;
+    font-size: 16px;
+  }
+}

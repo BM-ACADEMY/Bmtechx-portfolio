@@ -1,0 +1,34 @@
+body,
+html {
+  overflow-x: hidden;
+  /* Hides horizontal scrolling */
+  width: 100%;
+  /* Ensures full-width layout */
+
+  scroll-behavior: smooth !important;
+
+}
+
+/* For WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #181818; /* Light gray track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFD700; /* Yellow thumb (hex code for gold/yellow) */
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FFC000; /* Darker yellow on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #FFD700 #000000; /* Yellow thumb, gray track */
+}

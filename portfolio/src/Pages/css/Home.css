@@ -1,0 +1,409 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&family=Commissioner:wght@100..900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+:root {
+  --font1: "Montserrat Alternates", sans-serif;
+  --font-raleway: "Raleway", sans-serif;
+  --font-Commissioner: "Commissioner", sans-serif;
+}
+
+/* General Styles */
+.home-section {
+  /* background: radial-gradient(circle at top right, rgba(255, 221, 0, 0.774) -500%, black 70%, black 70%); */
+  /* Base background */
+
+  color: white;
+  text-align: center;
+  padding-top: 6% !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Add a background image */
+.home-section::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 150px;
+  width: 38%;
+  height: 100%;
+  background-image: url("/Banners/download.png") !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center right;
+  opacity: 1;
+  z-index: 0;
+}
+
+/* Ensure content stays above the background */
+.heading-container,
+.top-image,
+.book-button {
+  position: relative;
+  z-index: 1;
+}
+
+.heading-container {
+  line-height: 1 !important; /* Ensures consistent spacing */
+}
+
+/* Image Styling */
+.top-image {
+  width: 300px;
+  /* Increased size */
+  height: 300px;
+  margin-bottom: 20px;
+  transition: filter 0.5s ease;
+}
+
+.grayscale {
+  filter: grayscale(100%) brightness(20%);
+}
+
+/* Toggle Switch */
+.toggle-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  position: relative;
+}
+
+/* Hide the checkbox */
+.toggle-input {
+  display: none;
+}
+
+/* Heading Styles */
+.display-4 {
+  font-size: 90px;
+  /* Increased text size */
+  font-weight: bold;
+  text-align: center;
+  font-family: var(--font-raleway);
+}
+.rating-section {
+  padding: 20px 0;
+}
+
+.rating-badge {
+  background-color: transparent;
+  border: 1.2px solid #636362;
+  padding: 10px 15px;
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.star-icon {
+  color: gold;
+  margin-left: 5px;
+}
+
+.company-logos {
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.company {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: bold;
+  font-size: 16px;
+  padding: 5px 15px;
+  white-space: nowrap;
+}
+
+/* Toggle slider - Bigger size */
+.toggle-slider {
+  width: 150px;
+  /* Increased width */
+  height: 80px;
+  cursor: pointer;
+  /* Increased height */
+  background-color: #444;
+  border-radius: 80px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border: 4px solid rgb(141, 141, 7);
+  transition: background 0.3s;
+}
+
+/* Toggle circle - Bigger size */
+.toggle-slider span {
+  width: 65px;
+  /* Increased width */
+  height: 65px;
+  /* Increased height */
+  background: radial-gradient(
+      circle at top,
+      rgb(255, 255, 255) 5%,
+      rgba(255, 255, 255, 0.815) 15%,
+      transparent 30%
+    ),
+    linear-gradient(to bottom, #fae76c, #ffee00, #eccd03);
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+/* Move toggle when checked */
+.toggle-input:checked + .toggle-slider span {
+  transform: translateX(70px);
+  /* Adjusted for larger size */
+}
+
+/* Button Styling */
+.button-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.book-button {
+  background: url("/image/dotbutton.png") no-repeat center/cover, #f4cb00ef !important;
+  color: black;
+  font-weight: bold;
+  border: none;
+  padding: 15px 22px;
+  border-radius: 30px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  transition: background 0.3s ease-in-out;
+}
+
+.book-button:hover {
+  background: url("/image/dotbutton.png") no-repeat center/cover, #c49f0c !important;
+  color: black !important;
+}
+
+.home-section .text-secondary {
+  font-size: 20px;
+  font-weight: 400 !important;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 1024px) {
+  .display-4 {
+    font-size: 4rem;
+  }
+  .home-section::before {
+    display: none;
+  }
+
+  .sub-heading {
+    font-size: 2.5rem;
+  }
+
+  .toggle-slider {
+    width: 110px;
+    height: 60px;
+  }
+
+  .top-image {
+    width: 200px;
+    height: 200px;
+  }
+
+  .toggle-slider span {
+    width: 45px;
+    height: 45px;
+  }
+
+  .toggle-input:checked + .toggle-slider span {
+    transform: translateX(50px);
+  }
+
+  .book-button {
+    font-size: 1.3rem;
+    padding: 14px 28px;
+  }
+  .home-section .text-secondary {
+    font-size: 18.5px;
+  }
+  .home-section {
+    padding-top: 15% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 4rem;
+  }
+
+  .sub-heading {
+    font-size: 2rem;
+  }
+
+  .toggle-slider {
+    width: 110px;
+    height: 50px;
+  }
+  .company {
+    font-size: 1rem; /* Reduce font size on md screens */
+    padding: 5px 10px;
+  }
+
+  .toggle-slider span {
+    width: 40px;
+    height: 40px;
+  }
+
+  .toggle-input:checked + .toggle-slider span {
+    transform: translateX(54px);
+  }
+
+  .book-button {
+    font-size: 1.2rem;
+    padding: 12px 24px;
+  }
+
+  .top-image {
+    width: 170px;
+    height: 170px;
+  }
+  .home-section .text-secondary {
+    font-size: 17px;
+  }
+  .home-section {
+    padding-top: 20% !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .display-4 {
+    font-size: 4.5rem;
+  }
+  .home-section {
+    padding-top: 24% !important;
+  }
+
+  .sub-heading {
+    font-size: 1.8rem;
+  }
+
+  .toggle-slider {
+    width: 100px;
+    height: 50px;
+  }
+
+  .toggle-slider span {
+    width: 40px;
+    height: 40px;
+  }
+
+  .toggle-input:checked + .toggle-slider span {
+    transform: translateX(45px);
+  }
+
+  .book-button {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+
+  .top-image {
+    width: 160px;
+    height: 160px;
+  }
+  .home-section .text-secondary {
+    font-size: 15px;
+  }
+}
+
+
+@media (min-width: 354px) and (max-width: 359px) {
+  .display-4 {
+    font-size: 4.8rem !important;
+  }
+  .top-image {
+    width: 200px !important;
+    height: 200px !important;
+  }
+  
+}
+@media (min-width: 359px) and (max-width: 368px) {
+  .display-4 {
+    font-size: 4.7rem !important;
+  }
+  .top-image {
+    width: 200px !important;
+    height: 200px !important;
+  }
+}
+@media (min-width: 368px) and (max-width: 425px) {
+  .display-4 {
+    font-size: 5.4rem !important;
+  }
+  @media (min-width: 421px) and (max-width: 425px) {
+    .display-4 {
+      font-size: 3rem !important;
+    }
+  }
+}
+@media (min-width: 441px) and (max-width: 481px) {
+  .display-4 {
+    font-size: 3.5rem !important;
+  }
+}
+.brand-logos img {
+  width: 80px;
+  filter: grayscale(0.9);
+  opacity: 0.5; 
+}
+@media (max-width: 768px) {
+  .brand-logos img {
+    width: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .brand-logos img {
+    width: 60px;
+  }
+}
+
+.home-sectin-full {
+    background: 
+    radial-gradient(
+      circle at top right,
+      rgba(255, 221, 0, 0.75) -90%,
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 20% 70%, /* bottom-left area */
+      rgba(255, 221, 0, 0.7) -40%,
+      transparent 20%  /* reduced from 40% to 20% */
+    ),
+    black;
+  
+  
+}
+@media (max-width: 768px) {
+  .heading-container {
+    line-height: 0.9 !important; /* Reduced from 1 */
+  }
+  
+  .display-4 {
+    line-height: 1.1 !important; /* Adjust heading line height */
+  }
+}
+
+@media (max-width: 480px) {
+  .heading-container {
+    line-height: 0.85 !important; /* Even tighter for small devices */
+  }
+  
+  .display-4 {
+    line-height: 1 !important;
+  }
+}

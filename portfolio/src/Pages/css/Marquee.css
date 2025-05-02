@@ -1,0 +1,41 @@
+.marquee-container {
+  overflow: hidden;
+  background-color: #010101;
+  padding: 20px 0;
+}
+
+.marquee-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.marquee {
+  display: flex;
+  animation: marquee-scroll 15s linear infinite;
+  width: 200%;
+}
+
+.marquee-img {
+  width: 130px;
+  height: auto;
+  margin: 0 15px;
+  border-radius: 10px;
+  filter: grayscale(1); /* Make grayscale by default */
+  transition: filter 0.3s ease-in-out; /* Smooth transition */
+}
+
+.marquee-img:hover {
+  filter: grayscale(0); /* Restore color on hover */
+}
+
+@keyframes marquee-scroll {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

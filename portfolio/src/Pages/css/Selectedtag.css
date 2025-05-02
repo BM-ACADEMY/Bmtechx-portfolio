@@ -1,0 +1,278 @@
+/* Overall Section */
+.selectedtag-section {
+  background-color: #fed500;
+  color: white;
+  padding: 40px 0;
+}
+
+/* Design Order Container */
+.selectedtag-section .design-order {
+  padding: 20px;
+  color: white;
+}
+
+/* Left Panel - Services */
+.selectedtag-section .left-panel {
+  height: 600px;
+  overflow-y: auto;
+  padding: 15px;
+  background-color: #121212;
+  border-radius: 20px;
+}
+@media (max-width: 992px) {
+  .design-order {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 95%;
+    margin: auto;
+  }
+}
+
+
+/* Dark Accordion */
+.selectedtag-section .dark-accordion .accordion-item {
+  background-color: #121212 !important;
+  border: none;
+}
+
+.selectedtag-section .dark-accordion .accordion-header,
+.selectedtag-section .dark-accordion .accordion-button {
+  background-color: #121212 !important;
+  color: white !important;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.selectedtag-section .dark-accordion .accordion-button:focus,
+.selectedtag-section .dark-accordion .accordion-button:active {
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.selectedtag-section .dark-accordion .accordion-button:not(.collapsed) {
+  color: white !important;
+  border-bottom: none;
+}
+
+.selectedtag-section .dark-accordion .accordion-button::after {
+  filter: invert(1);
+}
+.accordion-button:not(.collapsed) {
+  background: none;
+  box-shadow: none;
+}
+
+.selectedtag-section .dark-accordion .accordion-body {
+  background-color: #191919;
+  color: white;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Service Buttons */
+.selectedtag-section .service-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 14px;
+  background-color: transparent !important;
+  border: none !important;
+  color: white;
+  text-align: left;
+}
+.selectedtag-section h1{
+  font-size: 56px;
+  font-weight: 650;
+}
+
+.selectedtag-section .leftside-box{
+  display: flex;
+  align-items: center;
+  min-height: 150px;
+  width: 100%;
+  font-size: 14px;
+  background-color: transparent !important;
+  border: none !important;
+  color: white;
+  text-align: left;
+}
+.selectedtag-section .service-btn:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: #fed500 !important;
+}
+
+/* Right Panel - Selected Services */
+.selectedtag-section .right-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  border-radius: 20px;
+  padding: 20px;
+}
+.selectedtag-section .right-panel-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* Default for content */
+  align-items: flex-start;
+  height: auto;
+  min-height: 250px;
+}
+
+.selectedtag-section .right-panel-body .empty-state {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30%;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1; /* This makes it take the full available space */
+  width: 100%;
+  text-align: center;
+}
+
+.selectedtag-section .selectedtag-row{
+  background-color: #121212;
+  border-radius: 32px;
+}
+
+/* Selected Services Card */
+.selectedtag-section .selected-services {
+  background-color: #171717;
+  border-radius: 12px;
+  padding: 15px;
+  min-height: 150px;
+  display: flex;
+  border: 1px dashed yellow;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Selected Service Tags */
+.selectedtag-section .selected-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(to bottom, #212121 0%, #292929 100%);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 25px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.selectedtag-section .selected-tag:hover {
+  background: #444;
+}
+
+/* Content Display Box */
+.selectedtag-section .content-card {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #171717;
+  color: white;
+}
+
+/* Right Panel Bottom Button */
+.selectedtag-section .right-bottom-btn {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center ;
+  margin-top: 20px;
+}
+
+
+.proceed {
+  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+  color: black;
+  font-weight: bold;
+  border: none;
+  padding: 12px 32px;
+  border-radius: 30px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  transition: background 0.3s ease-in-out;
+}
+
+.proceed:hover {
+  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  color: black !important;
+}
+
+/* Scrollbar Customization */
+.selectedtag-section .left-panel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.selectedtag-section .left-panel::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+.selectedtag-section .left-panel::-webkit-scrollbar-thumb {
+  background: #fed500;
+  border-radius: 10px;
+}
+
+.selectedtag-section .left-panel::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+  .selectedtag-section .left-panel {
+    height: auto;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .selectedtag-section .design-order {
+    padding: 10px;
+  }
+
+  .selectedtag-section .selected-tag,
+  .selectedtag-section .service-btn {
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+}
+@media (max-width: 1200px) {
+  .selectedtag-section h1 {
+    font-size: 48px;
+  }
+}
+
+/* Medium Screens (Tablets) */
+@media (max-width: 992px) {
+  .selectedtag-section h1 {
+    font-size: 40px;
+  }
+}
+
+/* Small Screens (Mobile) */
+@media (max-width: 768px) {
+  .selectedtag-section h1 {
+    font-size: 32px;
+  }
+}
+
+/* Extra Small Screens */
+@media (max-width: 576px) {
+  .selectedtag-section h1 {
+    font-size: 28px;
+  }
+}

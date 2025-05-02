@@ -1,0 +1,154 @@
+.faq-section .accordion-button::after {
+    filter: brightness(0) invert(1);
+    /* Makes the arrow white */
+}
+
+/* FAQ Section */
+.faq-container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+/* Background with Gradient */
+.faq-section {
+
+    padding: 50px 0;
+}
+
+/* FAQ Title with Animation */
+.faq-section h1 {
+    font-size: 4rem;
+    opacity: 0;
+    animation: fadeIn 1.5s ease-in-out forwards, scaleUp 1.5s ease-in-out forwards;
+}
+
+/* Accordion Item Styling */
+.faq-section .accordion-item {
+    border: none;
+    background: #111;
+    color: white;
+    box-shadow: none !important;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* Accordion Button Styling */
+.faq-section .accordion-button {
+    background: #010101 !important;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border: none;
+    box-shadow: none !important;
+    transition: background 0.3s ease-in-out;
+}
+
+/* Accordion Body Animation */
+.faq-section .accordion-body {
+    background: #222222ab !important;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    font-weight: normal;
+    color: white;
+    opacity: 0;
+    transform: translateY(-10px);
+    animation: slideIn 0.5s ease-in-out forwards;
+}
+
+/* FAQ Footer */
+.faq-footer p {
+    margin-bottom: 10px;
+    color: #ddd;
+    font-size: 15px;
+}
+
+/* FAQ Button */
+.faq-section .question {
+    background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 13px 30px;
+    border-radius: 30px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    transition: background 0.3s ease-in-out;
+    animation: pulse 1.5s infinite;
+}
+
+/* Button Hover */
+.faq-section .question:hover {
+    background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+    color: black !important;
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes scaleUp {
+    0% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .faq-section h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .faq-container {
+        padding: 0 15px;
+    }
+
+    .faq-section h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .faq-section h1 {
+        font-size: 2rem;
+    }
+}

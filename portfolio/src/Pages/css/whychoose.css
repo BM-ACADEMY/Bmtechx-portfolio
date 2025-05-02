@@ -1,0 +1,156 @@
+/* Why Choose Us Section */
+.why-choose-container {
+  padding: 50px 0 !important;
+  background-color: #010101;
+}
+
+.why-choose-container .why-choose-text {
+  max-width: 850px;
+  margin: 0 auto;
+  font-size: 3.9rem !important;
+  font-weight: 500 !important;
+  text-align: center;
+  color: white;
+  font-family: var(--font-Commissioner);
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+/* Cards Layout */
+.why-choose-container .card {
+  background-color: transparent;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  height: 100%;
+}
+
+.why-choose-container .card .card-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Desktop Layout (image left, content right) */
+@media (min-width: 992px) {
+  .why-choose-container .card .content-row {
+    display: flex;
+    align-items: flex-start;
+    flex: 1;
+  }
+
+  .why-choose-container .image-box {
+    flex: 0 0 auto;
+    margin-right: 30px;
+    margin-bottom: 0;
+  }
+}
+
+/* Mobile Layout (image top, content bottom) */
+@media (max-width: 991.98px) {
+  .why-choose-container .card {
+    text-align: center;
+  }
+
+  .why-choose-container .image-box {
+    margin: 0 auto 20px auto;
+  }
+}
+
+/* Image Styling */
+.service-image {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
+}
+
+/* Text Styling */
+.card-title {
+  font-size: 1.6rem;
+  font-weight: 500 !important;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #c5c5c5;
+  font-family: var(--font-Commissioner);
+}
+
+/* Responsive Text Sizes */
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .why-choose-container .why-choose-text {
+    font-size: 3.5rem !important;
+  }
+  .card-title {
+    font-size: 1.6rem;
+  }
+  .card-text {
+    font-size: 1.05rem;
+  }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .why-choose-container .why-choose-text {
+    font-size: 3rem !important;
+    margin-bottom: 25px;
+  }
+  .card-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  .why-choose-container .why-choose-text {
+    font-size: 2.5rem !important;
+    margin-bottom: 20px;
+  }
+  .card-title {
+    font-size: 1.4rem;
+  }
+  .card-text {
+    font-size: 1rem;
+  }
+  .service-image {
+    width: 65px;
+    height: 65px;
+  }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .why-choose-container .why-choose-text {
+    font-size: 2rem !important;
+    margin-bottom: 15px;
+  }
+  .card-title {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+  }
+  .card-text {
+    font-size: 0.95rem;
+  }
+  .service-image {
+    width: 60px;
+    height: 60px;
+  }
+  .why-choose-container {
+    padding: 40px 0 !important;
+  }
+}
+
+/* Very small devices (phones, less than 400px) */
+@media (max-width: 399.98px) {
+  .why-choose-container .why-choose-text {
+    font-size: 1.8rem !important;
+  }
+  .card-title {
+    font-size: 1.2rem;
+  }
+  .card-text {
+    font-size: 0.9rem;
+  }
+}
