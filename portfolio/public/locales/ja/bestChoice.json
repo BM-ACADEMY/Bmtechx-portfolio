@@ -1,0 +1,55 @@
+{
+  "title": "あなたの最良の選択",
+  "buttonText": "私たちを選ぶ",
+  "headers": [
+    "オンボーディング時間",
+    "リクエスト対応",
+    "プロジェクト完了時間",
+    "柔軟なリソース",
+    "専門家による監督",
+    "サブスクリプションの柔軟性",
+    "チームの専門知識"
+  ],
+  "rows": {
+    "main": {
+      "brand": "ビーエムテックエックス",
+      "onboarding": "1日以内の迅速なオンボーディング",
+      "requestHandling": "非同期または短い電話で迅速な対応",
+      "completionTime": "2〜3営業日以内に完了",
+      "flexibleResources": "必要に応じて利用可能",
+      "expertSupervision": "アートディレクターとテックリードが関与",
+      "subscriptionFlexibility": "いつでもキャンセルまたは一時停止可能",
+      "teamExpertise": "長期的な成長を伴うプロフェッショナルで経験豊富なチーム"
+    },
+    "agency": {
+      "brand": "エージェンシー",
+      "onboarding": "約5〜15日かかる",
+      "requestHandling": "複数の会議と合意が必要",
+      "completionTime": "通常3〜15営業日かかる",
+      "flexibleResources": "利用可能性が限られている",
+      "expertSupervision": "常に提供されるわけではない",
+      "subscriptionFlexibility": "固定期間の契約",
+      "teamExpertise": "適用外"
+    },
+    "freelancer": {
+      "brand": "フリーランサー",
+      "onboarding": "約2〜4日かかる",
+      "requestHandling": "往復のコミュニケーションが必要",
+      "completionTime": "約3〜7営業日かかる",
+      "flexibleResources": "柔軟性なし",
+      "expertSupervision": "保証されない",
+      "subscriptionFlexibility": "柔軟性なし",
+      "teamExpertise": "適用外"
+    },
+    "hiring": {
+      "brand": "採用",
+      "onboarding": "1〜2週間かかる場合がある",
+      "requestHandling": "詳細な説明で時間がかかる",
+      "completionTime": "3〜7営業日以内に完了",
+      "flexibleResources": "限られたオプション",
+      "expertSupervision": "含まれていない",
+      "subscriptionFlexibility": "柔軟性なし",
+      "teamExpertise": "適用外"
+    }
+  }
+}

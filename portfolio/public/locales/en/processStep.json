@@ -1,0 +1,56 @@
+{
+  "processStep": [
+    {
+      "id": 1,
+      "title": "Step 1 - Research & Planning",
+      "description": "Gathering requirements and understanding the project scope.",
+      "image": "Banners/work1.png"
+    },
+    {
+      "id": 2,
+      "title": "Step 2 - Wireframing",
+      "description": "Creating initial wireframes for the layout structure.",
+      "image": "image/birth2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Step 3 - Prototyping",
+      "description": "Building an interactive prototype to validate ideas.",
+      "image": "Banners/work3.png"
+    },
+    {
+      "id": 4,
+      "title": "Step 4 - UI/UX Design",
+      "description": "Designing high-fidelity mockups and UI components.",
+      "image": "Banners/work4.png"
+    },
+    {
+      "id": 5,
+      "title": "Step 5 - Design of key screens",
+      "description": "Creating primary screens that define the project’s look and feel.",
+      "image": "Banners/work5.png"
+    },
+    {
+      "id": 6,
+      "title": "Step 6 - Development",
+      "description": "Writing clean and efficient code for front-end and back-end.",
+      "image": "image/birth6.svg"
+    },
+    {
+      "id": 7,
+      "title": "Step 7 - Testing",
+      "description": "Performing QA testing to ensure quality and performance.",
+      "image": "Banners/finalpic.png"
+    },
+    {
+      "id": 8,
+      "title": "Step 8 - Deployment",
+      "description": "Launching the project to production with optimizations.",
+      "image": "Banners/work8.png"
+    }
+  ],
+  "processTag": "How we work?",
+  "processTitle": "Our processes give birth to stars",
+  "processDescription": "All steps are agreed upon with the client; the most basic steps in implementing the design process are demonstrated here.",
+  "bookFreeCall": "Book a free call"
+}

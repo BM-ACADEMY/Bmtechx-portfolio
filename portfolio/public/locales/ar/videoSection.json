@@ -1,0 +1,25 @@
+{
+  "title": "نحن فريق شغوف من خبراء التكنولوجيا — نقدم حلولًا مبتكرة وندفع نمو الأعمال.",
+  "subtitle": "من خلال العمل معنا، ستحصل على شريك تصميم سيتولى مهام التصميم الخاصة بك.",
+  "professionals": "16 محترفًا",
+  "stats": {
+    "revenue": {
+      "value": 15,
+      "label": "إيرادات مشاريعنا"
+    },
+    "projects": {
+      "value": 250,
+      "label": "المشاريع المكتملة"
+    },
+    "clients": {
+      "value": 450,
+      "label": "عملاء سعداء"
+    }
+  },
+  "avatars": [
+    { "alt": "الملف الشخصي 1", "src": "/profiles/person1.jpg" },
+    { "alt": "الملف الشخصي 2", "src": "/profiles/person2.jpg" },
+    { "alt": "الملف الشخصي 3", "src": "/profiles/person3.jpg" },
+    { "alt": "الملف الشخصي 4", "src": "/profiles/person4.jpg" }
+  ]
+}

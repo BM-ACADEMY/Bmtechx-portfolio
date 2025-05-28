@@ -1,0 +1,56 @@
+{
+  "processStep": [
+    {
+      "id": 1,
+      "title": "ステップ1 - リサーチと計画",
+      "description": "要件を収集し、プロジェクトの範囲を理解する。",
+      "image": "Banners/work1.png"
+    },
+    {
+      "id": 2,
+      "title": "ステップ2 - ワイヤーフレーム作成",
+      "description": "レイアウト構造の初期ワイヤーフレームを作成する。",
+      "image": "image/birth2.svg"
+    },
+    {
+      "id": 3,
+      "title": "ステップ3 - プロトタイピング",
+      "description": "アイデアを検証するためのインタラクティブなプロトタイプを作成する。",
+      "image": "Banners/work3.png"
+    },
+    {
+      "id": 4,
+      "title": "ステップ4 - UI/UXデザイン",
+      "description": "高精度なモックアップとUIコンポーネントをデザインする。",
+      "image": "Banners/work4.png"
+    },
+    {
+      "id": 5,
+      "title": "ステップ5 - 主要画面のデザイン",
+      "description": "プロジェクトの見た目と感触を定義する主要な画面を作成する。",
+      "image": "Banners/work5.png"
+    },
+    {
+      "id": 6,
+      "title": "ステップ6 - 開発",
+      "description": "フロントエンドとバックエンドのためにクリーンで効率的なコードを書く。",
+      "image": "image/birth6.svg"
+    },
+    {
+      "id": 7,
+      "title": "ステップ7 - テスト",
+      "description": "品質とパフォーマンスを確保するためにQAテストを実施する。",
+      "image": "Banners/finalpic.png"
+    },
+    {
+      "id": 8,
+      "title": "ステップ8 - 展開",
+      "description": "最適化を行い、プロジェクトを本番環境にリリースする。",
+      "image": "Banners/work8.png"
+    }
+  ],
+  "processTag": "私たちの仕事の流れは？",
+  "processTitle": "私たちのプロセスが星を生み出す",
+  "processDescription": "すべてのステップはクライアントと合意の上で行われ、デザインプロセスを実施する上で最も基本的なステップがここに示されています。",
+  "bookFreeCall": "無料通話を予約する"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Nuestros servicios",
+  "cards": [
+    {
+      "id": 1,
+      "image": "Banners/UI_UX.png",
+      "logo": "image/s1.1.png",
+      "heading": "Diseño UI/UX",
+      "text": "Creamos diseños intuitivos y atractivos que mejoran la experiencia del usuario, optimizan la usabilidad y aumentan las conversiones. Nuestro equipo experto garantiza una presencia digital fluida y visualmente atractiva.",
+      "buttonText": "Contáctanos"
+    },
+    {
+      "id": 2,
+      "image": "Banners/3dmotion.png",
+      "logo": "image/s2.2.png",
+      "heading": "Diseño de producto",
+      "text": "Transformamos tus ideas en productos listos para el mercado con soluciones de diseño innovadoras y escalables. Combinamos tecnología y creatividad para ofrecer productos de alto rendimiento.",
+      "buttonText": "Contáctanos"
+    },
+    {
+      "id": 3,
+      "image": "Banners/Productdesign.png",
+      "logo": "image/s3.3.png",
+      "heading": "Diseño web",
+      "text": "Creamos sitios web visualmente impresionantes y fáciles de usar que cautivan a las audiencias e impulsan el compromiso. Nuestros diseños combinan creatividad con funcionalidad para una experiencia digital fluida.",
+      "buttonText": "Contáctanos"
+    },
+    {
+      "id": 4,
+      "image": "Banners/WebDevelpment.png",
+      "logo": "image/s4.4.png",
+      "heading": "3D y animación",
+      "text": "Da vida a tus ideas con gráficos en movimiento 3D dinámicos que cautivan y enganchan. Nuestras animaciones añaden profundidad, realismo y energía a la narrativa de tu marca.",
+      "buttonText": "Contáctanos"
+    },
+    {
+      "id": 5,
+      "image": "Banners/Coding.png",
+      "logo": "image/s5.5.png",
+      "heading": "Desarrollo web",
+      "text": "Construimos sitios web de alto rendimiento y responsivos adaptados a las necesidades de tu negocio. Desde el front-end hasta el back-end, nuestras soluciones de desarrollo garantizan velocidad, seguridad y escalabilidad.",
+      "buttonText": "Contáctanos"
+    }
+  ]
+}

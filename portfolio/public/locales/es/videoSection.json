@@ -1,0 +1,25 @@
+{
+  "title": "Somos un equipo apasionado de expertos en tecnología — entregamos soluciones innovadoras y fomentamos el crecimiento empresarial.",
+  "subtitle": "Al trabajar con nosotros, obtienes un socio de diseño que se encargará de tus tareas de diseño.",
+  "professionals": "16 profesionales",
+  "stats": {
+    "revenue": {
+      "value": 15,
+      "label": "Ingresos de nuestros proyectos"
+    },
+    "projects": {
+      "value": 250,
+      "label": "Proyectos completados"
+    },
+    "clients": {
+      "value": 450,
+      "label": "Clientes satisfechos"
+    }
+  },
+  "avatars": [
+    { "alt": "Perfil 1", "src": "/profiles/person1.jpg" },
+    { "alt": "Perfil 2", "src": "/profiles/person2.jpg" },
+    { "alt": "Perfil 3", "src": "/profiles/person3.jpg" },
+    { "alt": "Perfil 4", "src": "/profiles/person4.jpg" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "私たちは技術の専門家からなる情熱的なチームです — 革新的なソリューションを提供し、ビジネスの成長を推進します。",
+  "subtitle": "私たちと一緒に働くことで、デザイン業務を担当する信頼できるパートナーを得られます。",
+  "professionals": "16人のプロフェッショナル",
+  "stats": {
+    "revenue": {
+      "value": 15,
+      "label": "私たちのプロジェクトの収益"
+    },
+    "projects": {
+      "value": 250,
+      "label": "完了したプロジェクト"
+    },
+    "clients": {
+      "value": 450,
+      "label": "満足したクライアント"
+    }
+  },
+  "avatars": [
+    { "alt": "プロフィール1", "src": "/profiles/person1.jpg" },
+    { "alt": "プロフィール2", "src": "/profiles/person2.jpg" },
+    { "alt": "プロフィール3", "src": "/profiles/person3.jpg" },
+    { "alt": "プロフィール4", "src": "/profiles/person4.jpg" }
+  ]
+}

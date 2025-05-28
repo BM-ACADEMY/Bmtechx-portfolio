@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "नवोन्मेष से उन्नति करें",
+  "description": "BM Techx आपका भरोसेमंद तकनीकी साथी है, जो उन्नत समाधान प्रदान करता है जो विकास को बढ़ावा देते हैं, दक्षता बढ़ाते हैं और व्यवसाय की क्षमता को अधिकतम करते हैं।",
+  "becomeClient": "ग्राहक बनें",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "फ्रेशबाउंटी" },
+    { "src": "Banners/Chinnacleaning.png", "title": "चिन्ना क्लीनिंग फैसिलिटी" },
+    { "src": "Banners/Learnengeducation.png", "title": "लर्नइंग" },
+    { "src": "Banners/TravellersNeed.png", "title": "ट्रेवलर्स नीड" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "हंट्स वर्ल्ड प्रॉपर्टीज़" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "JK कोचिंग अकादमी" },
+    { "src": "Banners/MyGoldInternational.png", "title": "मायगोल्ड इंटरनेशनल" },
+    { "src": "Banners/BMAcademy.png", "title": "BM अकादमी" },
+    { "src": "Banners/DesignInfo.png", "title": "डिज़ाइन इन्फो" },
+    { "src": "Banners/RainInfoTech.png", "title": "रेन इन्फो टेक" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "NSA हॉलीडेज़ कोडाइकनाल" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "झगरम अकादमी" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "रेड कॉलर ऐप डेवलपमेंट" },
+    { "src": "Banners/Bezooz.png", "title": "बेज़ूज़" },
+    { "src": "Banners/Poclane.png", "title": "पोक्लेन" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "कॉलेज स्टूडेंट्स प्रोजेक्ट" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "RK ग्लोबल एसोसिएट्स" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "वन वे ड्रॉप टैक्सी सलेम" },
+    { "src": "Banners/SummerDreams.png", "title": "समर ड्रीम्स - होम स्टे" },
+    { "src": "Banners/ChopChopMeat.png", "title": "चॉप चॉप मीत" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "மேம்படுவதற்காக புதுமை செய்",
+  "description": "BM Techx உங்கள் நம்பகமான தொழில்நுட்பத் துணையாக இருந்து, வளர்ச்சியை ஊக்குவிக்கும், திறன்திறனை மேம்படுத்தும் மற்றும் வணிக திறனை அதிகரிக்கும் முன்னணி தீர்வுகளை வழங்குகிறது.",
+  "becomeClient": "வாடிக்கையாளர் ஆகுங்கள்",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "ப்ரெஷ்பவுண்டி" },
+    { "src": "Banners/Chinnacleaning.png", "title": "சின்னா கிளீனிங் வசதி" },
+    { "src": "Banners/Learnengeducation.png", "title": "லேர்ன்எங்" },
+    { "src": "Banners/TravellersNeed.png", "title": "பயணிகளின் தேவைகள்" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "ஹன்ட்ஸ் வேர்ல்ட் சொத்துக்கள்" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "JK பயிற்சி அகாடமி" },
+    { "src": "Banners/MyGoldInternational.png", "title": "மைகோல்ட் இன்டர்நேஷனல்" },
+    { "src": "Banners/BMAcademy.png", "title": "BM அகாடமி" },
+    { "src": "Banners/DesignInfo.png", "title": "வடிவமைப்பு தகவல்" },
+    { "src": "Banners/RainInfoTech.png", "title": "ரெயின் இன்ஃபோ டெக்" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "NSA விடுமுறை கோடைகண்ணல்" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "ழகரம் அகாடமி" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "ரெட் காலர் செயலி மேம்பாடு" },
+    { "src": "Banners/Bezooz.png", "title": "பீசூஸ்" },
+    { "src": "Banners/Poclane.png", "title": "போக்லேன்" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "கல்லூரி மாணவர்கள் திட்டம்" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "ஆர்.கே. உலக கூட்டாளிகள்" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "ஒன்வே ட்ராப் டாக்சி சேலம்" },
+    { "src": "Banners/SummerDreams.png", "title": "சமர் ட்ரீம்ஸ் - வீட்டுவசதி" },
+    { "src": "Banners/ChopChopMeat.png", "title": "சோப் சோப் மீட்" }
+  ]
+}

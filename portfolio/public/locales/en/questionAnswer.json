@@ -1,0 +1,31 @@
+{
+  "faqTitle": "FAQ",
+  "faqItems": [
+    {
+      "header": "Creative Development",
+      "body": "This involves the process of creating new and innovative ideas for projects, including concept creation, visual storytelling, and content strategy. It combines artistic creativity with technical skills to produce engaging content, products, or campaigns."
+    },
+    {
+      "header": "UI (User Interface) Design",
+      "body": "UI (User Interface) Design focuses on the visual elements of a product or website, such as buttons, colors, fonts, and layout, ensuring it is aesthetically pleasing and functional."
+    },
+    {
+      "header": "UX (User Experience) Design",
+      "body": "UX (User Experience) Design focuses on optimizing the user's experience by making the interface intuitive, easy to navigate, and enjoyable. It ensures that the product meets the needs and expectations of users."
+    },
+    {
+      "header": "Creative Design",
+      "body": "This is the artistic aspect of designing visual elements for various media, such as graphics, websites, logos, and advertisements. It focuses on bringing creative ideas to life through design principles like color theory, typography, and layout to make content visually engaging."
+    },
+    {
+      "header": "Data Science",
+      "body": "Data science is the field that uses scientific methods, algorithms, and systems to analyze large sets of data. It helps organizations extract insights, predict trends, and make data-driven decisions. It integrates computer science, statistics, and machine learning to solve complex problems."
+    },
+    {
+      "header": "App Design",
+      "body": "This involves the process of designing mobile applications, focusing on both the UI/UX aspects and technical functionality. It includes creating wireframes, defining the user journey, and ensuring the app is visually appealing, intuitive, and user-friendly."
+    }
+  ],
+  "askQuestionText": "Ask a question if you haven't found the answer you need:",
+  "askQuestionBtn": "Ask a Question"
+}

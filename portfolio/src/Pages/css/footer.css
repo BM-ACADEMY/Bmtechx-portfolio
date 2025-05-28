@@ -161,4 +161,12 @@
       height: 25px;
     }
   }
-  
+  .footer.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.footer.ltr {
+  direction: ltr;
+  text-align: left;
+}

@@ -1,0 +1,143 @@
+{
+    "title": "BM Techx | Nuestros Trabajos",
+    "projects": [
+        {
+            "name": "FreshBounty",
+            "title": "FreshBounty",
+            "description": "En BM Techx, desarrollamos un sitio web de comercio electrónico dinámico diseñado para revolucionar las compras en línea. Con una interfaz fácil de usar y funciones avanzadas, la plataforma garantiza una experiencia de compra fluida para los clientes. Integra una navegación intuitiva, opciones de pago seguras y un diseño responsivo para satisfacer las diversas necesidades de los usuarios, mejorando tanto la comodidad como el compromiso.",
+            "image": "Banners/Freshbounty.png",
+            "link": "https://freshbounty.store"
+        },
+        {
+            "name": "Desarrollo de la Aplicación Red Collar",
+            "title": "Desarrollo de la Aplicación Red Collar",
+            "description": "Desarrollar aplicaciones móviles eficientes, fáciles de usar y escalables es nuestra especialidad. BM Techx se especializa en crear aplicaciones móviles innovadoras como Red Collar. Nuestro equipo asegura que cada aplicación que creamos combine un diseño elegante con tecnología de vanguardia para ofrecer un rendimiento impecable. Desde la ideación hasta el despliegue, nuestro proceso garantiza aplicaciones adaptadas a las necesidades de los usuarios, estándares de la industria y tendencias del mercado. Confía en nosotros para convertir tu visión en realidad con un sólido soporte backend y una interfaz de usuario/experiencia de usuario intuitiva.",
+            "image": "Banners/RedCollarAppDevelopment.png"
+        },
+        {
+            "name": "TravellersNeed",
+            "title": "TravellersNeed",
+            "description": "BM Techx ha desarrollado con éxito un sitio web de planificación de paquetes turísticos de vanguardia adaptado para entusiastas de los viajes. Esta plataforma simplifica la planificación de viajes al ofrecer itinerarios personalizados, reservas fluidas y guías de destinos, todo en un solo lugar. Con una navegación fácil de usar y funciones avanzadas, proporciona una experiencia sin complicaciones, asegurando que cada viajero pueda planificar sus vacaciones soñadas sin esfuerzo.",
+            "image": "Banners/TravellersNeed.png",
+            "link": "https://travellersneed-client.onrender.com"
+        },
+        {
+            "name": "Chop Chop Meat",
+            "title": "Chop Chop Meat",
+            "description": "En BM Techx, desarrollamos Chop Chop Meat exactamente según la visión del cliente: un sitio web moderno y fácil de usar que destaca la calidad de su carne de cordero y pollo premium. Construido con una estructura amigable para SEO y una navegación fluida, el sitio garantiza un excelente rendimiento y visibilidad en todos los dispositivos y motores de búsqueda.",
+            "image": "Banners/ChopChopMeat.png",
+            "link": "https://chopchopmeat.com/"
+        },
+        {
+            "name": "One Way Drop Taxi Salem",
+            "title": "One Way Drop Taxi Salem",
+            "seotitle": "One Way Drop Taxi Salem | BM Techx",
+            "description": "BM Techx ha creado un sitio web sereno e intuitivo para Kodai Summer Dreams, una experiencia de hospedaje premium en Kodaikanal. Esta plataforma ofrece una forma fluida para que los viajeros exploren la propiedad, consulten servicios y envíen consultas de reserva, todo a través de una interfaz limpia inspirada en la naturaleza. Con optimización para móviles, carga rápida e integración con WhatsApp, este sitio web asegura un viaje de usuario fluido desde la navegación hasta la reserva.",
+            "image": "Banners/OneWayDropTaxiSalem.png",
+            "link": "https://onewaydroptaxisalem.com/"
+        },
+        {
+            "name": "Summer Dreams - Casa de Hospedaje",
+            "title": "Summer Dreams - Casa de Hospedaje",
+            "description": "BM Techx desarrolló un sitio web rápido y responsivo para One Way Drop Taxi Salem, atendiendo a viajeros que buscan reservas de taxi rápidas y confiables en Tamil Nadu. El sitio web cuenta con opciones de enrutamiento por ciudad, funcionalidad de llamada con un solo clic y un diseño centrado en móviles para usuarios en movimiento. Construido con el rendimiento y la accesibilidad en mente, la plataforma simplifica las reservas mientras mejora la confianza y la visibilidad de la marca.",
+            "image": "Banners/SummerDreams.png",
+            "link": "https://www.kodaisummerdreams.com/"
+        },
+        {
+            "name": "Rk Global Associatees",
+            "title": "Rk Global Associatees",
+            "description": "BM Techx diseñó el sitio web para RK Global Associates, y hicieron un gran trabajo. El sitio es ordenado, fácil de usar y fácil de navegar. Funciona bien en dispositivos móviles y de escritorio. El diseño es limpio, con todos los servicios claramente explicados. En general, el sitio web tiene un aspecto profesional y ayuda a generar confianza con los visitantes.",
+            "image": "Banners/RkGlobalAssociatees.png",
+            "link": "https://rkglobalassociatees.com/"
+        },
+        {
+            "name": "Chinna Cleaning Facility",
+            "title": "Chinna Cleaning Facility",
+            "description": "BM Techx presenta el Sitio Web de Limpieza Profesional, una plataforma integral diseñada para optimizar las operaciones de limpieza en espacios residenciales, comerciales e industriales. Mejora tus servicios de limpieza con procesos simplificados, productividad mejorada y una satisfacción excepcional del cliente.",
+            "image": "Banners/Chinnacleaning.png",
+            "link": "https://chinnacleaningfacility.com/"
+        },
+        {
+            "name": "LearnEng",
+            "title": "LearnEng",
+            "description": "En BM Techx, desarrollamos un sitio web dinámico para el Instituto de Entrenamiento de Inglés Comunicativo, diseñado para facilitar un aprendizaje efectivo del idioma. Con una interfaz intuitiva y funciones atractivas, la plataforma mejora la experiencia de aprendizaje para los estudiantes.",
+            "image": "Banners/Learnengeducation.png",
+            "link": "https://learnengedu.com/"
+        },
+        {
+            "name": "Hunts World Properties",
+            "title": "Hunts World Properties",
+            "description": "BM Techx presenta con orgullo el sitio web de Hunts World Properties, una plataforma moderna y fácil de usar diseñada para simplificar las transacciones inmobiliarias. Nuestro objetivo fue crear una experiencia fluida para compradores, vendedores e inversores, asegurando un acceso fácil a listados de propiedades, servicios y orientación experta. En BM Techx, estamos comprometidos con construir sitios web de alto rendimiento que mejoren la visibilidad del negocio y el compromiso del cliente. Hunts World Properties ahora tiene una presencia en línea poderosa para servir mejor a sus clientes.",
+            "image": "Banners/HuntsWorldProperties.png",
+            "link": "https://huntsworldproperties.com/"
+        },
+        {
+            "name": "JK Coaching Academy",
+            "title": "JK Coaching Academy",
+            "description": "BM Techx presenta con orgullo el sitio web de JK Coaching Academy, diseñado para proporcionar una experiencia de aprendizaje fluida e interactiva. La plataforma ofrece entrenamiento en línea y presencial, exámenes simulados, materiales de estudio y orientación profesional, haciendo que la educación sea accesible para todos. Con una interfaz fácil de usar y funciones como formularios de consulta y cursos estructurados, el sitio web ayuda a los estudiantes a alcanzar sus metas académicas y profesionales. JK Coaching Academy está comprometida con la excelencia, asegurando que cada estudiante reciba la mejor orientación y apoyo.",
+            "image": "Banners/JKCoachingAcademy.png",
+            "link": "https://jkcoachingacademy.com/"
+        },
+        {
+            "name": "Zhagaram Academy of Learning and Teaching",
+            "title": "Zhagaram Academy of Learning and Teaching",
+            "description": "BM Techx presenta con orgullo el sitio web de Zhagaram Academy of Learning and Teaching (ZALT), diseñado para combinar de manera fluida la innovación con la funcionalidad. Esta plataforma destaca los servicios de amplio alcance de ZALT, que incluyen entrenamiento presencial, clases en línea, tutorías en casa, talleres y recursos de aprendizaje digital. Con una navegación fácil y funciones interactivas como formularios de consulta, el sitio web asegura accesibilidad para estudiantes, educadores y padres por igual. Refleja la dedicación de ZALT a la educación de calidad a través de sus publicaciones, programas de orientación profesional y clases virtuales gratuitas. BM Techx entrega una plataforma que encarna la misión de ZALT mientras empodera a los estudiantes para alcanzar sus objetivos.",
+            "image": "Banners/ZhagaramAcademy.png",
+            "link": "https://zaltindia.in/"
+        },
+        {
+            "name": "Rain Info Tech",
+            "title": "Rain Info Tech",
+            "description": "Creamos sitios web impresionantes que cautivan y atraen a los usuarios. Nuestros diseños están personalizados para cumplir con las expectativas de los clientes con perfección. Rainpic Infotech es un reflejo de nuestra experiencia y creatividad. Priorizamos una experiencia de usuario fluida y una estética moderna. La satisfacción del cliente es nuestra máxima prioridad en cada proyecto que entregamos. ¡Construyamos una presencia digital notable para tu marca!",
+            "image": "Banners/RainInfoTech.png",
+            "link": "https://rainpicinfotech.com/"
+        },
+        {
+            "name": "NSA Holidays Kodaikannal",
+            "title": "NSA Holidays Kodaikannal",
+            "description": "BM Techx crea sitios web excepcionales adaptados a las necesidades del cliente. Combinamos creatividad con tecnología para ofrecer experiencias digitales fluidas. Nuestros sitios web están diseñados para el rendimiento, la estética y el compromiso del usuario. Cada proyecto refleja nuestro compromiso con la calidad y la innovación. Transformamos ideas en sitios web visualmente impactantes y funcionales. Tu visión, nuestra experiencia: juntos, creamos un éxito digital impresionante.",
+            "image": "Banners/NSAHolidaysKodaikannal.png",
+            "link": "https://nsaholidayskodaikanal.com/"
+        },
+        {
+            "name": "MyGoldInternational",
+            "title": "MyGoldInternational",
+            "description": "En BM Techx, desarrollamos MyGold International, una plataforma segura y fácil de usar para el comercio y la inversión en oro. Con un diseño responsivo y seguridad avanzada, asegura una experiencia fluida para los usuarios.",
+            "image": "Banners/MyGoldInternational.png",
+            "link": "https://mygoldinternational.com/"
+        },
+        {
+            "name": "Poclane",
+            "title": "Poclane",
+            "description": "BM Techx ofrece servicios de desarrollo de sitios web de primera categoría, incluido el dinámico sitio web de Poclane. Nuestro proceso de desarrollo combina creatividad con tecnología para crear sitios web responsivos, interactivos y seguros. Al emplear las últimas herramientas y técnicas, aseguramos una funcionalidad y estética óptimas. Ya sean sitios de comercio electrónico, corporativos o personales, BM Techx garantiza soluciones que simplifican tu presencia digital y elevan la experiencia del usuario.",
+            "image": "Banners/Poclane.png"
+        },
+        {
+            "name": "Design Info",
+            "title": "Design Info",
+            "description": "Empoderando a las empresas con soluciones web impresionantes, BM Techx desarrolló con orgullo el sitio web de Design Info. Integramos tendencias web modernas y tecnologías robustas para crear sitios visualmente atractivos, amigables con SEO y responsivos para móviles. Con un enfoque en la funcionalidad y la facilidad de navegación, aseguramos que los sitios web satisfagan las expectativas de los usuarios mientras destacan en mercados competitivos. Asóciate con nosotros para crear sitios web impactantes que impulsen el éxito.",
+            "image": "Banners/DesignInfo.png",
+            "link": "https://designinfosolution.com/"
+        },
+        {
+            "name": "BM Academy",
+            "title": "BM Academy",
+            "description": "BM Techx se encarga con orgullo del desarrollo completo del sitio web de BM Academy, llevando su visión educativa en línea. Nuestro equipo combina un diseño innovador con funcionalidad, asegurando una navegación fluida y accesibilidad. El sitio web incluye listados de cursos, formularios de registro y funciones interactivas adaptadas tanto para estudiantes como para educadores. Confía en nosotros para entregar una plataforma digital que comunique eficazmente los valores y servicios de tu academia.",
+            "image": "Banners/BMAcademy.png",
+            "link": "https://thebmacademy.com/"
+        },
+        {
+            "name": "Proyecto de Estudiantes Universitarios",
+            "title": "Proyecto de Estudiantes Universitarios",
+            "description": "BM Techx presenta el Sistema de Gestión Universitaria, diseñado para simplificar la gestión de asistencia y calificaciones de los estudiantes. Esta plataforma eficiente asegura un mantenimiento de registros preciso, accesibilidad fácil y monitoreo fluido, empoderando a las instituciones para mejorar la transparencia y organización académica.",
+            "image": "Banners/CollegeStudentsProject.png"
+        },
+        {
+            "name": "Bezooz",
+            "title": "Bezooz",
+            "description": "En BM Techx diseñamos y desarrollamos la plataforma Bezooz para transformar la experiencia de aprendizaje. Centrados en la interactividad y la educación personalizada, creamos un diseño moderno y fácil de usar para empoderar tanto a estudiantes como a educadores. Con una navegación fluida y funciones innovadoras, hemos construido un espacio digital que redefine el aprendizaje.",
+            "image": "Banners/Bezooz.png",
+            "link": "https://www.bezooz.com/in"
+        }
+    ]
+}

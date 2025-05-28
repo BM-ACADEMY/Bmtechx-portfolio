@@ -1,0 +1,25 @@
+{
+  "title": "Nous sommes une équipe passionnée d'experts en technologie — offrant des solutions innovantes et favorisant la croissance des entreprises.",
+  "subtitle": "En travaillant avec nous, vous obtenez un partenaire de conception qui prendra en charge vos tâches de conception.",
+  "professionals": "16 professionnels",
+  "stats": {
+    "revenue": {
+      "value": 15,
+      "label": "Revenus de nos projets"
+    },
+    "projects": {
+      "value": 250,
+      "label": "Projets terminés"
+    },
+    "clients": {
+      "value": 450,
+      "label": "Clients satisfaits"
+    }
+  },
+  "avatars": [
+    { "alt": "Profil 1", "src": "/profiles/person1.jpg" },
+    { "alt": "Profil 2", "src": "/profiles/person2.jpg" },
+    { "alt": "Profil 3", "src": "/profiles/person3.jpg" },
+    { "alt": "Profil 4", "src": "/profiles/person4.jpg" }
+  ]
+}

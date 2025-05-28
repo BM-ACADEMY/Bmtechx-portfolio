@@ -1,0 +1,25 @@
+{
+  "title": "We're a passionate team of tech experts — delivering innovative solutions and driving business growth.",
+  "subtitle": "Working with us, you get a design partner who will handle your design tasks.",
+  "professionals": "16 professionals",
+  "stats": {
+    "revenue": {
+      "value": 15,
+      "label": "Revenue of our projects"
+    },
+    "projects": {
+      "value": 250,
+      "label": "Completed projects"
+    },
+    "clients": {
+      "value": 450,
+      "label": "Happy Clients"
+    }
+  },
+  "avatars": [
+    { "alt": "Profile 1", "src": "/profiles/person1.jpg" },
+    { "alt": "Profile 2", "src": "/profiles/person2.jpg" },
+    { "alt": "Profile 3", "src": "/profiles/person3.jpg" },
+    { "alt": "Profile 4", "src": "/profiles/person4.jpg" }
+  ]
+}

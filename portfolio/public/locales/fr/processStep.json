@@ -1,0 +1,56 @@
+{
+  "processStep": [
+    {
+      "id": 1,
+      "title": "Étape 1 - Recherche et Planification",
+      "description": "Collecte des exigences et compréhension de la portée du projet.",
+      "image": "Banners/work1.png"
+    },
+    {
+      "id": 2,
+      "title": "Étape 2 - Création de Wireframes",
+      "description": "Création des wireframes initiaux pour la structure de la mise en page.",
+      "image": "image/birth2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Étape 3 - Prototypage",
+      "description": "Construction d’un prototype interactif pour valider les idées.",
+      "image": "Banners/work3.png"
+    },
+    {
+      "id": 4,
+      "title": "Étape 4 - Design UI/UX",
+      "description": "Conception de maquettes haute fidélité et de composants d’interface utilisateur.",
+      "image": "Banners/work4.png"
+    },
+    {
+      "id": 5,
+      "title": "Étape 5 - Conception des écrans clés",
+      "description": "Création des écrans principaux qui définissent l’aspect et la sensation du projet.",
+      "image": "Banners/work5.png"
+    },
+    {
+      "id": 6,
+      "title": "Étape 6 - Développement",
+      "description": "Écriture d’un code propre et efficace pour le front-end et le back-end.",
+      "image": "image/birth6.svg"
+    },
+    {
+      "id": 7,
+      "title": "Étape 7 - Tests",
+      "description": "Réalisation de tests QA pour assurer la qualité et la performance.",
+      "image": "Banners/finalpic.png"
+    },
+    {
+      "id": 8,
+      "title": "Étape 8 - Déploiement",
+      "description": "Lancement du projet en production avec optimisations.",
+      "image": "Banners/work8.png"
+    }
+  ],
+  "processTag": "Comment travaillons-nous ?",
+  "processTitle": "Nos processus donnent naissance aux étoiles",
+  "processDescription": "Toutes les étapes sont convenues avec le client ; les étapes les plus basiques de la mise en œuvre du processus de conception sont démontrées ici.",
+  "bookFreeCall": "Réservez un appel gratuit"
+}

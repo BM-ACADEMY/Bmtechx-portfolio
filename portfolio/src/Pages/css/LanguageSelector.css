@@ -1,0 +1,88 @@
+.language-selector {
+  position: relative;
+  display: inline-block;
+}
+
+.globe-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #333;
+  padding: 8px;
+  transition: color 0.2s;
+}
+
+.globe-button:hover {
+  color: #c49f0c;
+}
+
+.language-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  list-style: none;
+  padding: 0;
+  margin: 4px 0 0 0;
+  min-width: 120px;
+  z-index: 1000;
+}
+
+.language-option {
+  padding: 8px 16px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1rem;
+  color: #333;
+}
+
+.language-option:hover {
+  background: #f8f9fa;
+}
+
+.language-option.selected {
+  font-weight: bold;
+  background: #e9ecef;
+}
+
+.check-icon {
+  color: #c49f0c;
+  margin-left: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .globe-button {
+    color: #e0e0e0;
+  }
+
+  .globe-button:hover {
+    color: #c49f0c;
+  }
+
+  .language-menu {
+    background: #1a1a1a;
+    border-color: #444;
+  }
+
+  .language-option {
+    color: #e0e0e0;
+  }
+
+  .language-option:hover {
+    background: #2c2c2c;
+  }
+
+  .language-option.selected {
+    background: #3a3a3a;
+  }
+
+  .check-icon {
+    color: #c49f0c;
+  }
+}

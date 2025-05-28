@@ -1,0 +1,31 @@
+{
+  "faqTitle": "Preguntas Frecuentes",
+  "faqItems": [
+    {
+      "header": "Desarrollo Creativo",
+      "body": "Esto implica el proceso de crear ideas nuevas e innovadoras para proyectos, incluyendo la creación de conceptos, narración visual y estrategia de contenido. Combina la creatividad artística con habilidades técnicas para producir contenido, productos o campañas atractivas."
+    },
+    {
+      "header": "Diseño de Interfaz de Usuario (UI)",
+      "body": "El diseño de interfaz de usuario (UI) se centra en los elementos visuales de un producto o sitio web, como botones, colores, tipografías y diseño, asegurando que sea estéticamente atractivo y funcional."
+    },
+    {
+      "header": "Diseño de Experiencia de Usuario (UX)",
+      "body": "El diseño de experiencia de usuario (UX) se enfoca en optimizar la experiencia del usuario haciendo que la interfaz sea intuitiva, fácil de navegar y agradable. Asegura que el producto cumpla con las necesidades y expectativas de los usuarios."
+    },
+    {
+      "header": "Diseño Creativo",
+      "body": "Es el aspecto artístico del diseño de elementos visuales para diversos medios, como gráficos, sitios web, logotipos y anuncios. Se enfoca en dar vida a ideas creativas a través de principios de diseño como la teoría del color, la tipografía y el diseño para hacer el contenido visualmente atractivo."
+    },
+    {
+      "header": "Ciencia de Datos",
+      "body": "La ciencia de datos es el campo que utiliza métodos científicos, algoritmos y sistemas para analizar grandes conjuntos de datos. Ayuda a las organizaciones a extraer información, predecir tendencias y tomar decisiones basadas en datos. Integra informática, estadística y aprendizaje automático para resolver problemas complejos."
+    },
+    {
+      "header": "Diseño de Aplicaciones",
+      "body": "Esto implica el proceso de diseñar aplicaciones móviles, enfocándose tanto en los aspectos de UI/UX como en la funcionalidad técnica. Incluye la creación de wireframes, la definición del recorrido del usuario y asegurar que la aplicación sea visualmente atractiva, intuitiva y fácil de usar."
+    }
+  ],
+  "askQuestionText": "Haz una pregunta si no has encontrado la respuesta que necesitas:",
+  "askQuestionBtn": "Hacer una pregunta"
+}

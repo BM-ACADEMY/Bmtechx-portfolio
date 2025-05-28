@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "革新で高みへ",
+  "description": "BM Techxは信頼できる技術パートナーとして、成長を促進し、効率を高め、ビジネスの可能性を最大化する最先端のソリューションを提供します。",
+  "becomeClient": "クライアントになる",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "フレッシュバウンティ" },
+    { "src": "Banners/Chinnacleaning.png", "title": "チンナクリーニング施設" },
+    { "src": "Banners/Learnengeducation.png", "title": "ラーンイング" },
+    { "src": "Banners/TravellersNeed.png", "title": "トラベラーズニード" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "ハンツワールドプロパティーズ" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "JKコーチングアカデミー" },
+    { "src": "Banners/MyGoldInternational.png", "title": "マイゴールドインターナショナル" },
+    { "src": "Banners/BMAcademy.png", "title": "BMアカデミー" },
+    { "src": "Banners/DesignInfo.png", "title": "デザインインフォ" },
+    { "src": "Banners/RainInfoTech.png", "title": "レインインフォテック" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "NSAホリデーズ コダイカナル" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "ザガラムアカデミー" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "レッドカラーアプリ開発" },
+    { "src": "Banners/Bezooz.png", "title": "ベズーズ" },
+    { "src": "Banners/Poclane.png", "title": "ポクレーン" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "大学生プロジェクト" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "RKグローバルアソシエイツ" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "ワンウェイドロップタクシーセイラム" },
+    { "src": "Banners/SummerDreams.png", "title": "サマードリームズ - ホームステイ" },
+    { "src": "Banners/ChopChopMeat.png", "title": "チョップチョップミート" }
+  ]
+}

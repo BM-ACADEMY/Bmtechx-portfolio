@@ -1,0 +1,55 @@
+{
+  "title": "خيارك الأفضل",
+  "buttonText": "اخترنا",
+  "headers": [
+    "وقت الإعداد",
+    "معالجة الطلبات",
+    "وقت إكمال المشروع",
+    "الموارد المرنة",
+    "الإشراف المتخصص",
+    "مرونة الاشتراك",
+    "خبرة الفريق"
+  ],
+  "rows": {
+    "main": {
+     "brand": "بي إم تيكس",
+      "onboarding": "إعداد سريع خلال يوم واحد",
+      "requestHandling": "استجابة سريعة عبر التواصل غير المتزامن أو مكالمة قصيرة",
+      "completionTime": "يتم الإكمال خلال 2-3 أيام عمل",
+      "flexibleResources": "متوفر حسب الحاجة",
+      "expertSupervision": "مشاركة مدير فني وقائد تقني",
+      "subscriptionFlexibility": "يمكن الإلغاء أو التوقيف في أي وقت",
+      "teamExpertise": "فريق محترف وذو خبرة مع نمو طويل الأمد"
+    },
+    "agency": {
+      "brand": "وكالة",
+      "onboarding": "يستغرق حوالي 5-15 يومًا",
+      "requestHandling": "يتطلب عدة اجتماعات واتفاقيات",
+      "completionTime": "عادةً يستغرق 3-15 يوم عمل",
+      "flexibleResources": "توفر محدود",
+      "expertSupervision": "لا يُقدم دائمًا",
+      "subscriptionFlexibility": "اتفاقية محددة المدة",
+      "teamExpertise": "غير مطبق"
+    },
+    "freelancer": {
+      "brand": "المستقلون",
+      "onboarding": "يستغرق حوالي 2-4 أيام",
+      "requestHandling": "يتضمن تواصلًا متكررًا ذهابًا وإيابًا",
+      "completionTime": "يستغرق حوالي 3-7 أيام عمل",
+      "flexibleResources": "لا يوجد مرونة",
+      "expertSupervision": "غير مضمون",
+      "subscriptionFlexibility": "لا يوجد مرونة",
+      "teamExpertise": "غير مطبق"
+    },
+    "hiring": {
+      "brand": "التوظيف",
+      "onboarding": "قد يستغرق 1-2 أسابيع",
+      "requestHandling": "يستغرق وقتًا مع تفسيرات موسعة",
+      "completionTime": "الإكمال خلال 3-7 أيام عمل",
+      "flexibleResources": "خيارات محدودة",
+      "expertSupervision": "غير مشمول",
+      "subscriptionFlexibility": "لا يوجد مرونة",
+      "teamExpertise": "غير مطبق"
+    }
+  }
+}

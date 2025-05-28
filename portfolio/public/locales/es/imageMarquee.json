@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "Innovar para Elevar",
+  "description": "BM Techx es tu socio tecnológico confiable, que ofrece soluciones innovadoras que impulsan el crecimiento, mejoran la eficiencia y maximizan el potencial del negocio.",
+  "becomeClient": "Conviértete en Cliente",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "FreshBounty" },
+    { "src": "Banners/Chinnacleaning.png", "title": "Chinna Cleaning Facility" },
+    { "src": "Banners/Learnengeducation.png", "title": "LearnEng" },
+    { "src": "Banners/TravellersNeed.png", "title": "TravellersNeed" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "Hunts World Properties" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "JK Coaching Academy" },
+    { "src": "Banners/MyGoldInternational.png", "title": "MyGoldInternational" },
+    { "src": "Banners/BMAcademy.png", "title": "BM Academy" },
+    { "src": "Banners/DesignInfo.png", "title": "Design Info" },
+    { "src": "Banners/RainInfoTech.png", "title": "Rain Info Tech" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "NSA Holidays Kodaikannal" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "Zhagaram Academy" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "Red Collar App Development" },
+    { "src": "Banners/Bezooz.png", "title": "Bezooz" },
+    { "src": "Banners/Poclane.png", "title": "Poclane" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "College Students Project" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "Rk Global Associatees" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "One Way Drop Taxi Salem" },
+    { "src": "Banners/SummerDreams.png", "title": "Summer Dreams - Home Stay" },
+    { "src": "Banners/ChopChopMeat.png", "title": "Chop Chop Meat" }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "faqTitle": "FAQ",
+  "faqItems": [
+    {
+      "header": "Développement Créatif",
+      "body": "Il s'agit du processus de création d'idées nouvelles et innovantes pour les projets, incluant la création de concepts, la narration visuelle et la stratégie de contenu. Cela combine la créativité artistique avec des compétences techniques pour produire du contenu, des produits ou des campagnes attrayants."
+    },
+    {
+      "header": "Conception de l'Interface Utilisateur (UI)",
+      "body": "La conception de l'interface utilisateur (UI) se concentre sur les éléments visuels d’un produit ou d’un site web, tels que les boutons, les couleurs, les polices et la mise en page, afin qu’ils soient esthétiques et fonctionnels."
+    },
+    {
+      "header": "Conception de l'Expérience Utilisateur (UX)",
+      "body": "La conception de l'expérience utilisateur (UX) vise à optimiser l'expérience de l'utilisateur en rendant l'interface intuitive, facile à naviguer et agréable. Elle garantit que le produit répond aux besoins et attentes des utilisateurs."
+    },
+    {
+      "header": "Conception Créative",
+      "body": "C’est l’aspect artistique de la création d’éléments visuels pour différents médias comme les graphiques, les sites web, les logos et les publicités. Elle se concentre sur la concrétisation des idées créatives à travers des principes de design tels que la théorie des couleurs, la typographie et la mise en page pour rendre le contenu visuellement attrayant."
+    },
+    {
+      "header": "Science des Données",
+      "body": "La science des données est un domaine qui utilise des méthodes scientifiques, des algorithmes et des systèmes pour analyser de grands ensembles de données. Elle aide les organisations à extraire des insights, prédire des tendances et prendre des décisions basées sur les données. Elle intègre l'informatique, les statistiques et le machine learning pour résoudre des problèmes complexes."
+    },
+    {
+      "header": "Conception d'Applications",
+      "body": "Cela implique le processus de conception d'applications mobiles, en se concentrant à la fois sur les aspects UI/UX et sur la fonctionnalité technique. Cela comprend la création de wireframes, la définition du parcours utilisateur et l’assurance que l'application soit visuellement attrayante, intuitive et conviviale."
+    }
+  ],
+  "askQuestionText": "Posez une question si vous n'avez pas trouvé la réponse que vous cherchez :",
+  "askQuestionBtn": "Poser une question"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Your best choice",
+  "buttonText": "Choose us",
+  "headers": [
+    "Onboarding time",
+    "Request Handling",
+    "Project Completion Time",
+    "Flexible Resources",
+    "Expert Supervision",
+    "Subscription Flexibility",
+    "Team Expertise"
+  ],
+  "rows": {
+    "main": {
+      "brand": "BMTECHX",
+      "onboarding": "Fast onboarding within 1 day",
+      "requestHandling": "Quick turnaround via async or brief call",
+      "completionTime": "Completed within 2-3 business days",
+      "flexibleResources": "Available as needed",
+      "expertSupervision": "Art Director and Tech Lead involved",
+      "subscriptionFlexibility": "Can cancel or pause anytime",
+      "teamExpertise": "Professional, experienced team with long-term growth"
+    },
+    "agency": {
+      "brand": "Agency",
+      "onboarding": "Takes around 5-15 days",
+      "requestHandling": "Requires multiple meetings and agreements",
+      "completionTime": "Typically takes 3-15 business days",
+      "flexibleResources": "Limited availability",
+      "expertSupervision": "Not always provided",
+      "subscriptionFlexibility": "Fixed-term agreement",
+      "teamExpertise": "Not applicable"
+    },
+    "freelancer": {
+      "brand": "Freelancers",
+      "onboarding": "Takes about 2-4 days",
+      "requestHandling": "Involves back-and-forth communication",
+      "completionTime": "Takes around 3-7 business days",
+      "flexibleResources": "No flexibility",
+      "expertSupervision": "Not guaranteed",
+      "subscriptionFlexibility": "No flexibility",
+      "teamExpertise": "Not applicable"
+    },
+    "hiring": {
+      "brand": "Hiring",
+      "onboarding": "May take 1-2 weeks",
+      "requestHandling": "Time-consuming with extensive explanations",
+      "completionTime": "Completion within 3-7 business days",
+      "flexibleResources": "Limited options",
+      "expertSupervision": "Not included",
+      "subscriptionFlexibility": "No flexibility",
+      "teamExpertise": "Not applicable"
+    }
+  }
+}

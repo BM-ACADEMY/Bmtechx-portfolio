@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "यह उन सभी चीज़ों का उत्सव है जो आपको प्रेरित करती हैं...",
+      "tags": ["ई-कॉमर्स"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "प्रीमियम कपड़ों और एक्सेसरीज़ के साथ अपने स्टाइल को निखारें।",
+      "tags": ["ऐप"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "अविस्मरणीय यात्राओं के लिए आपका अंतिम यात्रा साथी।",
+      "tags": ["टूर और ट्रैवल्स"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "प्रीमियम गुणवत्ता वाली वेबसाइट के साथ ताज़ा मांस की डिलीवरी।",
+      "tags": ["वेब डिज़ाइन", "मांस"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "झंझट मुक्त टैक्सी बुकिंग के लिए तेज़, मोबाइल-प्रथम वेबसाइट।",
+      "tags": ["यात्रा", "टैक्सी"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - होम स्टे कॉटेज",
+      "description": "कोडैकनाल के एक शांत होमस्टे के लिए सहज बुकिंग वेबसाइट।",
+      "tags": ["होटल", "प्रीमियम रूम्स"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "आपकी वृद्धि के लिए विशेषज्ञ व्यापार परामर्श समाधान।",
+      "tags": ["व्यवसाय"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "स्पार्क विकेंद्रीकृत वित्त के भविष्य को आकार दे रहा है।",
+      "tags": ["क्लीनिंग", "वेब डिज़ाइन"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "अंग्रेजी भाषा में महारत प्राप्त करने की आपकी यात्रा को सशक्त बनाना।",
+      "tags": ["शिक्षा"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "संपत्ति खोजने में आपका भरोसेमंद साथी।",
+      "tags": ["वेब डिज़ाइन", "रियल एस्टेट"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "गुणवत्ता शिक्षा और विशेषज्ञ मार्गदर्शन के साथ भविष्य को आकार देना।",
+      "tags": ["शिक्षा"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "सोने में निवेश और बहुमूल्य धातु समाधान की दुनिया को खोलना।",
+      "tags": ["वेब डिज़ाइन"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "जहां सीखने की प्रक्रिया उत्कृष्टता के साथ उज्ज्वल भविष्य बनाती है।",
+      "tags": ["शिक्षा"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "अपनी तस्वीरों को शानदार कलाकृतियों में बदलें।",
+      "tags": ["वेब डिज़ाइन"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "विशेषज्ञ संपादन और तकनीक से अपनी तस्वीरों को निखारें।",
+      "tags": ["वेब डिज़ाइन"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikanal",
+      "description": "शांत और अविस्मरणीय छुट्टियों का आपका प्रवेश द्वार।",
+      "tags": ["वेब डिज़ाइन", "टूर और ट्रैवल्स"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "नवीन और प्रभावशाली शिक्षा के साथ सीखने को पुनः परिभाषित करना।",
+      "tags": ["वेब डिज़ाइन", "शिक्षा"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "कॉलेज स्टूडेंट्स",
+      "description": "कॉलेज के लिए अटेंडेंस और मार्क्स ट्रैकिंग को सरल बनाना।",
+      "tags": ["वेब डिज़ाइन", "शिक्षा"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "आधुनिक उपकरणों और इंटरैक्टिव लर्निंग से शिक्षा में क्रांति।",
+      "tags": ["शिक्षा"]
+    }
+  ]
+}

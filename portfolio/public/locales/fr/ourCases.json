@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "Une célébration de tout ce qui vous inspire...",
+      "tags": ["E-Commerce"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "Stylisez votre look avec des vêtements et accessoires haut de gamme.",
+      "tags": ["Application"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "Votre compagnon de voyage ultime pour des aventures inoubliables.",
+      "tags": ["Tourisme et Voyages"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "Livraison de viande fraîche via un site web de qualité premium.",
+      "tags": ["Design web", "Viande"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "Site web rapide et adapté au mobile pour réserver un taxi sans tracas.",
+      "tags": ["Voyage", "Taxi"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - Gîte",
+      "description": "Site de réservation fluide pour un séjour paisible à Kodaikanal.",
+      "tags": ["Hôtel", "Chambres Premium"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "Solutions expertes en conseil d'entreprise pour stimuler votre croissance.",
+      "tags": ["Affaires"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "Spark ouvre la voie vers l'avenir de la finance décentralisée.",
+      "tags": ["Nettoyage", "Design web"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "Accompagner votre parcours vers la maîtrise de la langue anglaise.",
+      "tags": ["Éducation"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "Votre partenaire de confiance pour trouver le bien immobilier parfait.",
+      "tags": ["Design web", "Immobilier"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "Façonner l’avenir avec une éducation de qualité et des conseils d’experts.",
+      "tags": ["Éducation"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "Accédez au monde des investissements en or et des métaux précieux.",
+      "tags": ["Design web"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "Là où l’apprentissage rencontre l’excellence pour construire de brillants avenirs.",
+      "tags": ["Éducation"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "Transformez vos photos en œuvres d’art remarquables.",
+      "tags": ["Design web"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "Améliorez vos photos grâce à l’édition experte et à la technologie.",
+      "tags": ["Design web"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikanal",
+      "description": "Votre porte d'entrée vers des vacances paisibles et inoubliables.",
+      "tags": ["Design web", "Tourisme et Voyages"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "Redéfinir l’éducation avec un apprentissage innovant et impactant.",
+      "tags": ["Design web", "Éducation"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "Étudiants universitaires",
+      "description": "Simplification du suivi de la présence et des notes pour les collèges.",
+      "tags": ["Design web", "Éducation"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "Révolutionner l'éducation avec des outils modernes et un apprentissage interactif.",
+      "tags": ["Éducation"]
+    }
+  ]
+}

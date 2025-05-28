@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "الابتكار للارتقاء",
+  "description": "بي إم تيكس هو شريكك التكنولوجي الموثوق، يقدم حلولاً متطورة تدفع النمو، وتعزز الكفاءة، وتزيد من إمكانات العمل.",
+  "becomeClient": "كن عميلاً",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "فريش باونتي" },
+    { "src": "Banners/Chinnacleaning.png", "title": "مرفق تنظيف تشينا" },
+    { "src": "Banners/Learnengeducation.png", "title": "ليرن إنج" },
+    { "src": "Banners/TravellersNeed.png", "title": "احتياجات المسافرين" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "عقارات هنتس وورلد" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "أكاديمية جي كي للتدريب" },
+    { "src": "Banners/MyGoldInternational.png", "title": "ماي جولد إنترناشونال" },
+    { "src": "Banners/BMAcademy.png", "title": "أكاديمية بي إم" },
+    { "src": "Banners/DesignInfo.png", "title": "معلومات التصميم" },
+    { "src": "Banners/RainInfoTech.png", "title": "رين إنفو تك" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "عطلات NSA كودايكانال" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "أكاديمية زاغارام" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "تطوير تطبيقات ريد كولار" },
+    { "src": "Banners/Bezooz.png", "title": "بيزوز" },
+    { "src": "Banners/Poclane.png", "title": "بوكلاين" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "مشروع طلاب الكلية" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "آر كيه جلوبال أسوشيتس" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "تاكسي دروب وان واي سيلام" },
+    { "src": "Banners/SummerDreams.png", "title": "صيف الأحلام - بيت الضيافة" },
+    { "src": "Banners/ChopChopMeat.png", "title": "شوب شوب ميت" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "innovateToElevate": "Инновации для развития",
+  "description": "BM Techx — ваш надежный технологический партнер, предоставляющий передовые решения, которые стимулируют рост, повышают эффективность и раскрывают потенциал бизнеса.",
+  "becomeClient": "Стать клиентом",
+  "images": [
+    { "src": "Banners/Freshbounty.png", "title": "ФрешБаунти" },
+    { "src": "Banners/Chinnacleaning.png", "title": "Чинна Клининг Фасилити" },
+    { "src": "Banners/Learnengeducation.png", "title": "ЛёрнЭнг" },
+    { "src": "Banners/TravellersNeed.png", "title": "Потребности путешественников" },
+    { "src": "Banners/HuntsWorldProperties.png", "title": "Хантс Ворлд Пропертиз" },
+    { "src": "Banners/JKCoachingAcademy.png", "title": "Академия ДжейКей Коучинг" },
+    { "src": "Banners/MyGoldInternational.png", "title": "МайГолдИнтернэшнл" },
+    { "src": "Banners/BMAcademy.png", "title": "Академия БМ" },
+    { "src": "Banners/DesignInfo.png", "title": "Дизайн Инфо" },
+    { "src": "Banners/RainInfoTech.png", "title": "Рейн Инфо Тек" },
+    { "src": "Banners/NSAHolidaysKodaikannal.png", "title": "NSA Отпуска Кодаиканнал" },
+    { "src": "Banners/ZhagaramAcademy.png", "title": "Академия Жагарам" },
+    { "src": "Banners/RedCollarAppDevelopment.png", "title": "Разработка приложений Ред Коллар" },
+    { "src": "Banners/Bezooz.png", "title": "Безуз" },
+    { "src": "Banners/Poclane.png", "title": "Поклайн" },
+    { "src": "Banners/CollegeStudentsProject.png", "title": "Проект студентов колледжа" },
+    { "src": "Banners/RkGlobalAssociatees.png", "title": "RK Глобал Ассошиэйтс" },
+    { "src": "Banners/OneWayDropTaxiSalem.png", "title": "One Way Drop Такси Сейлем" },
+    { "src": "Banners/SummerDreams.png", "title": "Летние мечты - Гостевой дом" },
+    { "src": "Banners/ChopChopMeat.png", "title": "Чоп Чоп Мит" }
+  ]
+}

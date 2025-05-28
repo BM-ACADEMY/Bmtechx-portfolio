@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "உங்களை நகர்த்தும் அனைத்தையும் கொண்டாடும் ஒரு விழா...",
+      "tags": ["மின்வணிகம்"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "உங்கள் ஸ்டைலை உயர்த்தும் பிரீமியம் ஆடைகள் மற்றும் உபகரணங்கள்.",
+      "tags": ["அப்ப்"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "மறக்க முடியாத பயணங்களுக்கு உங்கள் இறுதி பயண துணை.",
+      "tags": ["பயணங்கள் மற்றும் சுற்றுலா"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "தரமான இணையதளத்துடன் புதிதான இறைச்சி விநியோகம்.",
+      "tags": ["வலை வடிவமைப்பு", "இறைச்சி"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "எளிதான டாக்சி முன்பதிவுக்கான விரைவு மற்றும் மொபைல் முதன்மை இணையதளம்.",
+      "tags": ["பயணம்", "டாக்சி"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - ஹோம் ஸ்டே கட்டேஜ்",
+      "description": "கோடைக்கானலில் அமைதியான விடுதி தங்குமிடத்திற்கு நீளமில்லா முன்பதிவு இணையதளம்.",
+      "tags": ["ஹோட்டல்", "பிரீமியம் அறைகள்"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "உங்கள் வளர்ச்சிக்கான நிபுணத்துவ வணிக ஆலோசனை தீர்வுகள்.",
+      "tags": ["வணிகம்"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "Spark என்பது மையமில்லாத நிதியின் எதிர்காலத்தை அமைக்கிறது.",
+      "tags": ["சுத்தம்", "வலை வடிவமைப்பு"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "ஆங்கில மொழி நிபுணத்துவத்திற்கான உங்கள் பயணத்தை வலுப்படுத்துகிறது.",
+      "tags": ["கல்வி"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "சரியான நிலத்தை கண்டுபிடிக்க உங்கள் நம்பகமான கூட்டாளி.",
+      "tags": ["வலை வடிவமைப்பு", "சொத்துகள்"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "திறமைமிக்க கல்வி மற்றும் வழிகாட்டுதலுடன் எதிர்காலங்களை உருவாக்குகிறது.",
+      "tags": ["கல்வி"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "தங்க முதலீடுகள் மற்றும் விலைமதிப்புள்ள உலோக தீர்வுகளுக்கான உலகத்தைத் திறக்கிறது.",
+      "tags": ["வலை வடிவமைப்பு"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "திறமையை உருவாக்கும் இடம் - கல்வி இங்கே சிறந்ததாக இருக்கிறது.",
+      "tags": ["கல்வி"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "உங்கள் புகைப்படங்களை கலைப்பாடங்களாக மாற்றுகிறோம்.",
+      "tags": ["வலை வடிவமைப்பு"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "உங்களின் புகைப்படங்களை நுட்பமான தொகுப்பு மற்றும் தொழில்நுட்பத்துடன் மேம்படுத்துகிறது.",
+      "tags": ["வலை வடிவமைப்பு"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikannal",
+      "description": "அமைதியான மற்றும் மறக்க முடியாத விடுமுறை அனுபவங்களுக்கு உங்கள் நுழைவு வாயில்.",
+      "tags": ["வலை வடிவமைப்பு", "சுற்றுலா"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "புதுமை மற்றும் தாக்கம் மிகுந்த கற்றல் மூலம் கல்வியை மறுவடிவம் செய்கிறது.",
+      "tags": ["வலை வடிவமைப்பு", "கல்வி"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "College Students",
+      "description": "கல்லூரிக்கான வருகை மற்றும் மதிப்பெண் கண்காணிப்பை எளிதாக்குகிறது.",
+      "tags": ["வலை வடிவமைப்பு", "கல்வி"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "நவீன கருவிகள் மற்றும் தொடர்பு கற்றலுடன் கல்வியில் புரட்சியை ஏற்படுத்துகிறது.",
+      "tags": ["கல்வி"]
+    }
+  ]
+}

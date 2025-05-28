@@ -1,0 +1,55 @@
+{
+  "title": "Votre meilleur choix",
+  "buttonText": "Choisissez-nous",
+  "headers": [
+    "Temps d'intégration",
+    "Gestion des demandes",
+    "Temps de réalisation du projet",
+    "Ressources flexibles",
+    "Supervision experte",
+    "Flexibilité d'abonnement",
+    "Expertise de l'équipe"
+  ],
+  "rows": {
+    "main": {
+      "brand": "BMTECHX",
+      "onboarding": "Intégration rapide en 1 jour",
+      "requestHandling": "Réponse rapide via communication asynchrone ou appel bref",
+      "completionTime": "Terminé en 2 à 3 jours ouvrables",
+      "flexibleResources": "Disponible selon les besoins",
+      "expertSupervision": "Implication d'un directeur artistique et d'un chef technique",
+      "subscriptionFlexibility": "Peut être annulé ou mis en pause à tout moment",
+      "teamExpertise": "Équipe professionnelle et expérimentée avec une croissance à long terme"
+    },
+    "agency": {
+      "brand": "Agence",
+      "onboarding": "Prend environ 5 à 15 jours",
+      "requestHandling": "Nécessite plusieurs réunions et accords",
+      "completionTime": "Prend généralement 3 à 15 jours ouvrables",
+      "flexibleResources": "Disponibilité limitée",
+      "expertSupervision": "Non fourni systématiquement",
+      "subscriptionFlexibility": "Accord à durée fixe",
+      "teamExpertise": "Non applicable"
+    },
+    "freelancer": {
+      "brand": "Freelancers",
+      "onboarding": "Prend environ 2 à 4 jours",
+      "requestHandling": "Implique des échanges aller-retour",
+      "completionTime": "Prend environ 3 à 7 jours ouvrables",
+      "flexibleResources": "Pas de flexibilité",
+      "expertSupervision": "Non garanti",
+      "subscriptionFlexibility": "Pas de flexibilité",
+      "teamExpertise": "Non applicable"
+    },
+    "hiring": {
+      "brand": "Recrutement",
+      "onboarding": "Peut prendre 1 à 2 semaines",
+      "requestHandling": "Prend du temps avec des explications détaillées",
+      "completionTime": "Terminé en 3 à 7 jours ouvrables",
+      "flexibleResources": "Options limitées",
+      "expertSupervision": "Non inclus",
+      "subscriptionFlexibility": "Pas de flexibilité",
+      "teamExpertise": "Non applicable"
+    }
+  }
+}

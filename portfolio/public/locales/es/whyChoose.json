@@ -1,0 +1,35 @@
+{
+  "heading": "¿Por qué elegir BM Techx para el diseño de tu producto?",
+  "services": [
+    {
+      "image": "/image/icon1.png",
+      "title": "Soluciones tecnológicas personalizadas",
+      "description": "Desarrollamos soluciones personalizadas diseñadas para satisfacer las necesidades de tu negocio, garantizando eficiencia, fiabilidad y una fuerte presencia en el mercado."
+    },
+    {
+      "image": "/image/icon2.png",
+      "title": "Experiencia en tecnologías avanzadas",
+      "description": "Con experiencia en IA, desarrollo web, IoT y computación en la nube, creamos soluciones digitales innovadoras que mejoran las operaciones empresariales."
+    },
+    {
+      "image": "/image/icon3.png",
+      "title": "Ejecución estratégica de proyectos",
+      "description": "Nuestro enfoque estructurado de gestión de proyectos garantiza entregas a tiempo, rentabilidad y resultados de alta calidad adaptados a tus objetivos."
+    },
+    {
+      "image": "/image/icon4.png",
+      "title": "Colaboración sin inconvenientes",
+      "description": "Enfatizamos la comunicación clara y el trabajo en equipo, asegurando que nuestras soluciones se alineen perfectamente con la visión y los objetivos de tu negocio."
+    },
+    {
+      "image": "/image/icon5.png",
+      "title": "Enfoque orientado a resultados",
+      "description": "Nuestro compromiso con la excelencia asegura que nuestras soluciones tecnológicas sean de alto rendimiento, escalables y optimizadas para el éxito a largo plazo."
+    },
+    {
+      "image": "/image/icon6.png",
+      "title": "Enfoque en resultados",
+      "description": "Entregamos resultados medibles, asegurando que tu producto luzca bien y funcione eficazmente para alcanzar tus metas."
+    }
+  ]
+}

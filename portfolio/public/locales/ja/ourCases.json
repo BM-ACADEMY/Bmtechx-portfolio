@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "あなたを動かすすべてのものを祝うプロジェクトです...",
+      "tags": ["Eコマース"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "高品質な衣類とアクセサリーでスタイルを演出。",
+      "tags": ["アプリ"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "忘れられない冒険のための究極の旅のパートナー。",
+      "tags": ["旅行・ツアー"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "高品質なウェブサイトで新鮮な肉をお届けします。",
+      "tags": ["ウェブデザイン", "肉"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "手間のかからないタクシー予約のためのモバイルファーストなウェブサイト。",
+      "tags": ["旅行", "タクシー"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - ホームステイコテージ",
+      "description": "穏やかなコダイカナルのホームステイのためのシームレスな予約サイト。",
+      "tags": ["ホテル", "プレミアムルーム"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "ビジネス成長のための専門的なコンサルティングソリューション。",
+      "tags": ["ビジネス"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "Spark は分散型金融の未来を切り拓きます。",
+      "tags": ["清掃", "ウェブデザイン"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "英語習得の旅をサポートします。",
+      "tags": ["教育"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "理想の不動産探しをサポートする信頼のパートナー。",
+      "tags": ["ウェブデザイン", "不動産"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "質の高い教育と専門的な指導で未来を形作ります。",
+      "tags": ["教育"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "金投資と貴金属ソリューションの世界を開く。",
+      "tags": ["ウェブデザイン"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "卓越した学びが輝く未来を築く場所。",
+      "tags": ["教育"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "写真を驚くほど美しいアート作品に変換します。",
+      "tags": ["ウェブデザイン"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "専門的な編集とテクノロジーで写真をレベルアップ。",
+      "tags": ["ウェブデザイン"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikanal",
+      "description": "穏やかで忘れられない休暇体験への入り口。",
+      "tags": ["ウェブデザイン", "旅行・ツアー"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "革新的で影響力のある学びで教育を再定義します。",
+      "tags": ["ウェブデザイン", "教育"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "College Students",
+      "description": "大学向けの出席と成績管理を簡単にします。",
+      "tags": ["ウェブデザイン", "教育"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "現代的なツールとインタラクティブ学習で教育を変革。",
+      "tags": ["教育"]
+    }
+  ]
+}

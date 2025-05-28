@@ -3,6 +3,7 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 import { MdOutlineArrowOutward } from "react-icons/md";
 import "./Case.css";
 import { Helmet } from 'react-helmet-async'; 
+import { useTranslation } from "react-i18next";
 
 const projects = [
   {
@@ -26,7 +27,6 @@ const projects = [
     link: "https://travellersneed-client.onrender.com",
   },
  
-  ///////////////////////////////////////////////////////////////////////////////
 
   {
     title: "Chop Chop Meat",
@@ -50,8 +50,6 @@ const projects = [
     image: "Banners/SummerDreams.png",
     link: "https://www.kodaisummerdreams.com/",
   },
-
-
 
   
   {
@@ -151,12 +149,12 @@ const projects = [
     link: "https://www.bezooz.com/in",
   },
  
-
 ];
 
 const Case = () => {
   const sectionRefs = useRef([]);
-
+  const { t } = useTranslation("caseDetailPage");
+  const casesData = t("projects", { returnObjects: true });
   useEffect(() => {
     const observers = [];
 
@@ -190,11 +188,11 @@ const Case = () => {
   return (
     <div className="case-section">
       <Helmet>
-        <title>BM Techx | Our Works</title>
+        <title>{t("title")}</title>
      </Helmet>
       <div className="pt-5 container">
         <Container className="case-container">
-          {projects.map((project, index) => (
+          {casesData.map((project, index) => (
             <Row
               key={index} // Use index as the key
               ref={(el) => (sectionRefs.current[index] = el)}

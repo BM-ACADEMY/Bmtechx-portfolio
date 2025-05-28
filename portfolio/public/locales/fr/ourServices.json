@@ -1,0 +1,45 @@
+{
+  "title": "Nos services",
+  "cards": [
+    {
+      "id": 1,
+      "image": "Banners/UI_UX.png",
+      "logo": "image/s1.1.png",
+      "heading": "Conception UI/UX",
+      "text": "Nous créons des designs intuitifs et attrayants qui améliorent l'expérience utilisateur, optimisent l'utilisabilité et augmentent les conversions. Notre équipe d'experts garantit une présence numérique fluide et visuellement captivante.",
+      "buttonText": "Contactez-nous"
+    },
+    {
+      "id": 2,
+      "image": "Banners/3dmotion.png",
+      "logo": "image/s2.2.png",
+      "heading": "Conception de produit",
+      "text": "Nous transformons vos idées en produits prêts à être commercialisés grâce à des solutions de design innovantes et évolutives. Nous combinons technologie et créativité pour offrir des produits haute performance.",
+      "buttonText": "Contactez-nous"
+    },
+    {
+      "id": 3,
+      "image": "Banners/Productdesign.png",
+      "logo": "image/s3.3.png",
+      "heading": "Conception de sites web",
+      "text": "Nous créons des sites web visuellement impressionnants et faciles à utiliser qui captivent les audiences et stimulent l'engagement. Nos designs allient créativité et fonctionnalité pour une expérience numérique fluide.",
+      "buttonText": "Contactez-nous"
+    },
+    {
+      "id": 4,
+      "image": "Banners/WebDevelpment.png",
+      "logo": "image/s4.4.png",
+      "heading": "3D et animation",
+      "text": "Donnez vie à vos idées avec des animations 3D dynamiques et engageantes. Nos animations apportent profondeur, réalisme et énergie à la narration de votre marque.",
+      "buttonText": "Contactez-nous"
+    },
+    {
+      "id": 5,
+      "image": "Banners/Coding.png",
+      "logo": "image/s5.5.png",
+      "heading": "Développement web",
+      "text": "Nous construisons des sites web performants et responsifs adaptés aux besoins de votre entreprise. Du front-end au back-end, nos solutions assurent rapidité, sécurité et évolutivité.",
+      "buttonText": "Contactez-nous"
+    }
+  ]
+}

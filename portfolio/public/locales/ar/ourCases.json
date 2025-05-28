@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "فريش باونتي",
+      "description": "احتفال بكل ما يحركك...",
+      "tags": ["تجارة إلكترونية"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "ريد كولار",
+      "description": "تصميم أسلوبك مع الملابس والإكسسوارات الفاخرة.",
+      "tags": ["تطبيق"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "احتياجات المسافرين",
+      "description": "رفيقك المثالي للسفر في مغامرات لا تُنسى.",
+      "tags": ["السفر والسياحة"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "تشوب تشوب ميت",
+      "description": "توصيل اللحوم الطازجة من خلال موقع عالي الجودة.",
+      "tags": ["تصميم مواقع", "لحوم"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "تاكسي وان واي دروب سالم",
+      "seotitle": "تاكسي وان واي دروب سالم | بي إم تكس",
+      "description": "موقع سريع وموجه للهاتف لحجوزات تاكسي بدون متاعب.",
+      "tags": ["سفر", "تاكسي"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "أحلام الصيف - كوخ الإقامة المنزلية",
+      "description": "موقع حجز سلس لإقامة هادئة في كودايكانال.",
+      "tags": ["فندق", "غرف فاخرة"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "آر كي جلوبال أسوشيتس",
+      "description": "حلول استشارية للأعمال لمساعدتك على النمو.",
+      "tags": ["أعمال"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "تشينا كلينينغ",
+      "description": "سبارك يقود مستقبل التمويل اللامركزي.",
+      "tags": ["تنظيف", "تصميم مواقع"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "ليرن إنج",
+      "description": "تمكين رحلتك لإتقان اللغة الإنجليزية.",
+      "tags": ["تعليم"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "هانتس وورلد للعقارات",
+      "description": "شريكك الموثوق للعثور على العقار المثالي.",
+      "tags": ["تصميم مواقع", "عقارات"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "أكاديمية جي كي",
+      "description": "تشكيل المستقبل من خلال تعليم عالي الجودة وإرشاد محترف.",
+      "tags": ["تعليم"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "ماي جولد إنترناشونال",
+      "description": "فتح عالم استثمارات الذهب وحلول المعادن الثمينة.",
+      "tags": ["تصميم مواقع"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "أكاديمية بي إم",
+      "description": "حيث يلتقي التعلم بالتميز لتشكيل مستقبل مشرق.",
+      "tags": ["تعليم"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "ديزاين إنفو",
+      "description": "تحويل صورك إلى أعمال فنية مذهلة.",
+      "tags": ["تصميم مواقع"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "رين إنفو تك",
+      "description": "رفع جودة صورك بتحرير احترافي وتقنية متقدمة.",
+      "tags": ["تصميم مواقع"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "إن إس إيه هوليديز كودايكانال",
+      "description": "بوابتك إلى تجارب عطلات هادئة ولا تُنسى.",
+      "tags": ["تصميم مواقع", "السفر والسياحة"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "أكاديمية زهغارام للتعلم والتعليم",
+      "description": "إعادة تعريف التعليم بأساليب مبتكرة وفعالة.",
+      "tags": ["تصميم مواقع", "تعليم"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "طلاب الكلية",
+      "description": "تبسيط موقع تتبع الحضور والدرجات للجامعات.",
+      "tags": ["تصميم مواقع", "تعليم"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "بيزوز",
+      "description": "ثورة في التعليم من خلال أدوات حديثة وتعلم تفاعلي.",
+      "tags": ["تعليم"]
+    }
+  ]
+}

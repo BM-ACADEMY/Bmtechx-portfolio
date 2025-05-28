@@ -1,0 +1,30 @@
+{
+  "testimonialTitle": "Que disent nos partenaires ?",
+  "testimonials": [
+    {
+      "text": "J’ai récemment fait concevoir mon site e-commerce, Fresh Bounty, et BM Techx a fait un travail exceptionnel ! Ils ont ajouté 15 images de haute qualité, parfaitement optimisées pour une expérience utilisateur fluide. Le design est élégant, professionnel et visuellement attrayant. Leur souci du détail et leur expertise dans la création de sites web ont vraiment fait la différence. Fresh Bounty se charge rapidement, est magnifique et facile à naviguer. Je recommande vivement BM Techx à tous ceux qui recherchent un site e-commerce de premier ordre.",
+      "name": "Kalid Fayaz",
+      "rating": "5.0"
+    },
+    {
+      "text": "Je gère un service de nettoyage à Coimbatore. J’ai décidé de concevoir un site web pour cela et je les ai contactés. BM Techx a conçu un site web avec la meilleure technologie d’une manière que j’ai appréciée.",
+      "name": "Chinna Cleaning Facility",
+      "rating": "5.0"
+    },
+    {
+      "text": "J’ai reçu un excellent service de BM Techx. Entreprise fiable, travail de qualité, merci beaucoup.",
+      "name": "LEARNENG EDUCATION (TAITTAN)",
+      "rating": "5.0"
+    },
+    {
+      "text": "Je suis Kavitha, directrice générale de JK Coaching Academy. Depuis le début jusqu’à la livraison, mon expérience avec BM Techx a été fluide et sans accroc. Les designs étaient fantastiques et les couleurs vibrantes et positives ressortaient vraiment. Chaque fois que j’avais besoin de corrections ou de modifications, j’étais toujours accueillie chaleureusement avec un sourire. J’apprécie vraiment tout le soutien apporté. Je souhaite beaucoup de succès à tous pour l’avenir !",
+      "name": "JK Academy (Kavitha J)",
+      "rating": "5.0"
+    },
+    {
+      "text": "Travail dévoué. Content de leurs résultats.",
+      "name": "Raininfo tech",
+      "rating": "5.0"
+    }
+  ]
+}

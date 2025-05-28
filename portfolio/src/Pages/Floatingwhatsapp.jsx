@@ -3,6 +3,7 @@ import React from 'react'; // Update this path to your icon
 const WhatsAppFloat = () => {
   return (
     <>
+    
       <a
         href="https://wa.me/919944940051?text=Hi%20BM%20TechX,%20I%20would%20like%20to%20connect%20with%20you."
         className="whatsapp-float"

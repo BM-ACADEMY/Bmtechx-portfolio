@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "Это празднование всего, что вдохновляет вас...",
+      "tags": ["Электронная коммерция"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "Мода и стиль с премиальной одеждой и аксессуарами.",
+      "tags": ["Приложение"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "Ваш идеальный попутчик для незабываемых путешествий.",
+      "tags": ["Туры и путешествия"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "Доставка свежего мяса с качественным веб-сайтом.",
+      "tags": ["Веб-дизайн", "Мясо"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "Быстрый и удобный мобильный сайт для заказа такси.",
+      "tags": ["Путешествия", "Такси"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - Дом для отпуска",
+      "description": "Удобный сайт бронирования для уютного отдыха в Кодаиканале.",
+      "tags": ["Отель", "Премиум номера"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "Профессиональные консультационные решения для вашего бизнеса.",
+      "tags": ["Бизнес"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "Spark — это будущее децентрализованных финансов.",
+      "tags": ["Уборка", "Веб-дизайн"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "Путь к мастерству в английском языке.",
+      "tags": ["Образование"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "Ваш надежный партнёр в поиске недвижимости.",
+      "tags": ["Веб-дизайн", "Недвижимость"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "Формирование будущего через качественное образование и наставничество.",
+      "tags": ["Образование"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "Открывая мир инвестиций в золото и драгметаллы.",
+      "tags": ["Веб-дизайн"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "Место, где обучение ведёт к совершенству.",
+      "tags": ["Образование"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "Преобразуем ваши фотографии в настоящие произведения искусства.",
+      "tags": ["Веб-дизайн"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "Улучшение фотографий с помощью технологий и профессионального редактирования.",
+      "tags": ["Веб-дизайн"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikanal",
+      "description": "Ваш путь к спокойному и незабываемому отдыху.",
+      "tags": ["Веб-дизайн", "Туры и путешествия"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "Переосмысление образования с инновационным подходом.",
+      "tags": ["Веб-дизайн", "Образование"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "College Students",
+      "description": "Упрощённый учёт посещаемости и оценок для студентов.",
+      "tags": ["Веб-дизайн", "Образование"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "Современные инструменты и интерактивное обучение для новой эпохи образования.",
+      "tags": ["Образование"]
+    }
+  ]
+}

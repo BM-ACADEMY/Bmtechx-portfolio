@@ -1,0 +1,55 @@
+{
+  "title": "आपका सबसे अच्छा विकल्प",
+  "buttonText": "हमें चुनें",
+  "headers": [
+    "ऑनबोर्डिंग समय",
+    "अनुरोध हैंडलिंग",
+    "प्रोजेक्ट पूरा होने का समय",
+    "लचीले संसाधन",
+    "विशेषज्ञ पर्यवेक्षण",
+    "सदस्यता लचीलापन",
+    "टीम विशेषज्ञता"
+  ],
+  "rows": {
+    "main": {
+      "brand": "बीएमटेकएक्स",
+      "onboarding": "1 दिन के भीतर तेजी से ऑनबोर्डिंग",
+      "requestHandling": "असिंक्रोनस या संक्षिप्त कॉल के माध्यम से त्वरित प्रतिक्रिया",
+      "completionTime": "2-3 कार्यदिवसों के भीतर पूरा",
+      "flexibleResources": "आवश्यकतानुसार उपलब्ध",
+      "expertSupervision": "कला निर्देशक और तकनीकी लीड शामिल",
+      "subscriptionFlexibility": "किसी भी समय रद्द या रोक सकते हैं",
+      "teamExpertise": "लंबे समय तक विकास के साथ पेशेवर और अनुभवी टीम"
+    },
+    "agency": {
+      "brand": "एजेंसी",
+      "onboarding": "लगभग 5-15 दिन लगते हैं",
+      "requestHandling": "कई बैठकों और समझौतों की आवश्यकता होती है",
+      "completionTime": "आम तौर पर 3-15 कार्यदिवस लगते हैं",
+      "flexibleResources": "सीमित उपलब्धता",
+      "expertSupervision": "हमेशा प्रदान नहीं किया जाता",
+      "subscriptionFlexibility": "निश्चित अवधि का समझौता",
+      "teamExpertise": "लागू नहीं"
+    },
+    "freelancer": {
+      "brand": "फ्रीलांसर",
+      "onboarding": "लगभग 2-4 दिन लगते हैं",
+      "requestHandling": "आवागमन संचार शामिल है",
+      "completionTime": "लगभग 3-7 कार्यदिवस लगते हैं",
+      "flexibleResources": "कोई लचीलापन नहीं",
+      "expertSupervision": "गारंटी नहीं",
+      "subscriptionFlexibility": "कोई लचीलापन नहीं",
+      "teamExpertise": "लागू नहीं"
+    },
+    "hiring": {
+      "brand": "भर्ती",
+      "onboarding": "1-2 सप्ताह लग सकते हैं",
+      "requestHandling": "विस्तृत स्पष्टीकरण के साथ समय लेने वाला",
+      "completionTime": "3-7 कार्यदिवसों के भीतर पूरा",
+      "flexibleResources": "सीमित विकल्प",
+      "expertSupervision": "शामिल नहीं",
+      "subscriptionFlexibility": "कोई लचीलापन नहीं",
+      "teamExpertise": "लागू नहीं"
+    }
+  }
+}

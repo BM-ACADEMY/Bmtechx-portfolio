@@ -1,0 +1,45 @@
+{
+  "title": "Our services",
+  "cards": [
+    {
+      "id": 1,
+      "image": "Banners/UI_UX.png",
+      "logo": "image/s1.1.png",
+      "heading": "UI/UX Design",
+      "text": "We create intuitive and engaging designs that enhance user experience, improve usability, and boost conversions. Our expert team ensures a seamless, visually appealing digital presence.",
+      "buttonText": "Contact Us"
+    },
+    {
+      "id": 2,
+      "image": "Banners/3dmotion.png",
+      "logo": "image/s2.2.png",
+      "heading": "Product Design",
+      "text": "Transform your ideas into market-ready products with our innovative and scalable design solutions. We blend technology and creativity to deliver high-performance products.",
+      "buttonText": "Contact Us"
+    },
+    {
+      "id": 3,
+      "image": "Banners/Productdesign.png",
+      "logo": "image/s3.3.png",
+      "heading": "Web Design",
+      "text": "We craft visually stunning and user-friendly websites that captivate audiences and drive engagement. Our designs blend creativity with functionality for a seamless digital experience.",
+      "buttonText": "Contact Us"
+    },
+    {
+      "id": 4,
+      "image": "Banners/WebDevelpment.png",
+      "logo": "image/s4.4.png",
+      "heading": "3D & Motion",
+      "text": "Bring your ideas to life with dynamic 3D motion graphics that captivate and engage. Our animations add depth, realism, and energy to your brand's storytelling.",
+      "buttonText": "Contact Us"
+    },
+    {
+      "id": 5,
+      "image": "Banners/Coding.png",
+      "logo": "image/s5.5.png",
+      "heading": "Web Development",
+      "text": "We build high-performance, responsive websites tailored to your business needs. From front-end to back-end, our development solutions ensure speed, security, and scalability.",
+      "buttonText": "Contact Us"
+    }
+  ]
+}

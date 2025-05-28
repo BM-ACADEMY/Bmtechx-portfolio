@@ -1,0 +1,56 @@
+{
+  "processStep": [
+    {
+      "id": 1,
+      "title": "Paso 1 - Investigación y Planificación",
+      "description": "Recopilación de requisitos y comprensión del alcance del proyecto.",
+      "image": "Banners/work1.png"
+    },
+    {
+      "id": 2,
+      "title": "Paso 2 - Creación de Wireframes",
+      "description": "Creación de wireframes iniciales para la estructura del diseño.",
+      "image": "image/birth2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Paso 3 - Prototipado",
+      "description": "Construcción de un prototipo interactivo para validar ideas.",
+      "image": "Banners/work3.png"
+    },
+    {
+      "id": 4,
+      "title": "Paso 4 - Diseño UI/UX",
+      "description": "Diseño de maquetas de alta fidelidad y componentes de interfaz de usuario.",
+      "image": "Banners/work4.png"
+    },
+    {
+      "id": 5,
+      "title": "Paso 5 - Diseño de pantallas clave",
+      "description": "Creación de pantallas principales que definen el aspecto y la sensación del proyecto.",
+      "image": "Banners/work5.png"
+    },
+    {
+      "id": 6,
+      "title": "Paso 6 - Desarrollo",
+      "description": "Escribir código limpio y eficiente para frontend y backend.",
+      "image": "image/birth6.svg"
+    },
+    {
+      "id": 7,
+      "title": "Paso 7 - Pruebas",
+      "description": "Realización de pruebas de aseguramiento de calidad para garantizar la calidad y el rendimiento.",
+      "image": "Banners/finalpic.png"
+    },
+    {
+      "id": 8,
+      "title": "Paso 8 - Despliegue",
+      "description": "Lanzamiento del proyecto a producción con optimizaciones.",
+      "image": "Banners/work8.png"
+    }
+  ],
+  "processTag": "¿Cómo trabajamos?",
+  "processTitle": "Nuestros procesos dan origen a estrellas",
+  "processDescription": "Todos los pasos son acordados con el cliente; aquí se demuestran los pasos más básicos en la implementación del proceso de diseño.",
+  "bookFreeCall": "Reserva una llamada gratuita"
+}

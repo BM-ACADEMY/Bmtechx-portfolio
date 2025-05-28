@@ -1,0 +1,119 @@
+{
+  "cases": [
+    {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "Una celebración de todo lo que te mueve...",
+      "tags": ["Comercio electrónico"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "Estilizando tu forma de vestir con ropa y accesorios premium.",
+      "tags": ["Aplicación"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "Tu compañero de viaje ideal para aventuras inolvidables.",
+      "tags": ["Turismo y Viajes"]
+    },
+    {
+      "image": "Banners/ChopChopMeat.png",
+      "title": "Chop Chop Meat",
+      "description": "Carne fresca con calidad premium entregada a través de un sitio web profesional.",
+      "tags": ["Diseño web", "Carne"]
+    },
+    {
+      "image": "Banners/OneWayDropTaxiSalem.png",
+      "title": "One Way Drop Taxi Salem",
+      "seotitle": "One Way Drop Taxi Salem | Bm Techx",
+      "description": "Sitio web rápido y enfocado en móviles para reservas de taxis sin complicaciones.",
+      "tags": ["Viajes", "Taxi"]
+    },
+    {
+      "image": "Banners/SummerDreams.png",
+      "title": "Summer Dreams - Casa Rural",
+      "description": "Sitio web de reservas sencillo para una estancia serena en Kodaikanal.",
+      "tags": ["Hotel", "Habitaciones Premium"]
+    },
+    {
+      "image": "Banners/RkGlobalAssociatees.png",
+      "title": "Rk Global Associatees",
+      "description": "Soluciones expertas de consultoría empresarial para tu crecimiento.",
+      "tags": ["Negocios"]
+    },
+    {
+      "image": "Banners/Chinnacleaning.png",
+      "title": "Chinna Cleaning",
+      "description": "Spark lidera el futuro de las finanzas descentralizadas.",
+      "tags": ["Limpieza", "Diseño web"]
+    },
+    {
+      "image": "Banners/Learnengeducation.png",
+      "title": "LearnEng",
+      "description": "Impulsando tu camino hacia el dominio del idioma inglés.",
+      "tags": ["Educación"]
+    },
+    {
+      "image": "Banners/HuntsWorldProperties.png",
+      "title": "Hunts World Properties",
+      "description": "Tu socio de confianza para encontrar la propiedad perfecta.",
+      "tags": ["Diseño web", "Bienes raíces"]
+    },
+    {
+      "image": "Banners/JKCoachingAcademy.png",
+      "title": "JK Coaching Academy",
+      "description": "Formando futuros con educación de calidad y orientación experta.",
+      "tags": ["Educación"]
+    },
+    {
+      "image": "Banners/MyGoldInternational.png",
+      "title": "MyGoldInternational",
+      "description": "Abriendo el mundo de las inversiones en oro y soluciones en metales preciosos.",
+      "tags": ["Diseño web"]
+    },
+    {
+      "image": "Banners/BMAcademy.png",
+      "title": "BM Academy",
+      "description": "Donde el aprendizaje se une con la excelencia para forjar futuros brillantes.",
+      "tags": ["Educación"]
+    },
+    {
+      "image": "Banners/DesignInfo.png",
+      "title": "Design Info",
+      "description": "Transformando tus fotos en impresionantes obras de arte.",
+      "tags": ["Diseño web"]
+    },
+    {
+      "image": "Banners/RainInfoTech.png",
+      "title": "Rain Info Tech",
+      "description": "Mejorando tus fotos con edición experta y tecnología.",
+      "tags": ["Diseño web"]
+    },
+    {
+      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "title": "NSA Holidays Kodaikanal",
+      "description": "Tu puerta a experiencias vacacionales tranquilas e inolvidables.",
+      "tags": ["Diseño web", "Turismo y Viajes"]
+    },
+    {
+      "image": "Banners/ZhagaramAcademy.png",
+      "title": "Zhagaram Academy of Learning and Teaching",
+      "description": "Redefiniendo la educación con un aprendizaje innovador e impactante.",
+      "tags": ["Diseño web", "Educación"]
+    },
+    {
+      "image": "Banners/CollegeStudentsProject.png",
+      "title": "College Students",
+      "description": "Simplificando el seguimiento de asistencias y calificaciones para universidades.",
+      "tags": ["Diseño web", "Educación"]
+    },
+    {
+      "image": "Banners/Bezooz.png",
+      "title": "Bezooz",
+      "description": "Revolucionando la educación con herramientas modernas y aprendizaje interactivo.",
+      "tags": ["Educación"]
+    }
+  ]
+}
