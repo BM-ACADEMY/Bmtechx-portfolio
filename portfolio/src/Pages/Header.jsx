@@ -135,7 +135,7 @@ const Header = () => {
   const [show, setShow] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
-   const [showModal, setShowModal] = useState(false);
+  const [showModal, setShowModal] = useState(false);
 
   const { i18n, t } = useTranslation('header');
 
@@ -160,7 +160,7 @@ const Header = () => {
     <div className="navbar-section1">
       {/* Dynamic page title from i18n */}
       <Helmet>
-        <title>{t('title')}</title>
+        <title>{t("title")}</title>
       </Helmet>
 
       <Navbar expand="lg" className="custom-navbar">
@@ -193,12 +193,17 @@ const Header = () => {
             </Offcanvas.Header>
             <Offcanvas.Body>
               <Nav className="nav-links">
-                <Nav.Link as={Link} to="/About" className="custom-nav-link" onClick={() => setShow(false)}>
-                  {t('nav.about')}
+                <Nav.Link
+                  as={Link}
+                  to="/About"
+                  className="custom-nav-link"
+                  onClick={() => setShow(false)}
+                >
+                  {t("nav.about")}
                 </Nav.Link>
 
                 <NavDropdown
-                  title={t('nav.services')}
+                  title={t("nav.services")}
                   id="services-dropdown"
                   className="custom-dropdown"
                   show={dropdownOpen}
@@ -209,39 +214,53 @@ const Header = () => {
                     <span className="icon-box">
                       <FaLaptopCode className="dropdown-icon" />
                     </span>
-                    {t('nav.web_design')}
+                    {t("nav.web_design")}
                   </NavDropdown.Item>
                   <NavDropdown.Item onClick={handleNavigate}>
                     <span className="icon-box">
                       <FaPaintBrush className="dropdown-icon" />
                     </span>
-                    {t('nav.ui_ux_design')}
+                    {t("nav.ui_ux_design")}
                   </NavDropdown.Item>
                   <NavDropdown.Item onClick={handleNavigate}>
                     <span className="icon-box">
                       <FaCube className="dropdown-icon" />
                     </span>
-                    {t('nav.product_design')}
+                    {t("nav.product_design")}
                   </NavDropdown.Item>
                 </NavDropdown>
 
-                <Nav.Link as={Link} to="/cases" className="custom-nav-link" onClick={() => setShow(false)}>
-                  {t('nav.cases')}
+                <Nav.Link
+                  as={Link}
+                  to="/cases"
+                  className="custom-nav-link"
+                  onClick={() => setShow(false)}
+                >
+                  {t("nav.cases")}
                 </Nav.Link>
+
+                {/* LanguageSelector inside Offcanvas for mobile/tablet
+                <div className="language-selector-mobile">
+                  <LanguageSelector onChange={changeLang} />
+                </div> */}
               </Nav>
             </Offcanvas.Body>
           </Navbar.Offcanvas>
 
           <Button className="contact-btn ms-auto" onClick={bookFreeCall}>
-            {t('nav.contact_us')}
+            {t("nav.contact_us")}
             <span className="icon-circle">
               <GiFeather className="feather-icon" />
             </span>
           </Button>
+
+          {/* LanguageSelector for desktop */}
+          <div className="language-selector-desktop">
+            <LanguageSelector className="form-select-sm" onChange={changeLang} />
+          </div>
         </div>
-        <LanguageSelector className="form-select-sm" onChange={changeLang} />
       </Navbar>
-      <ContactModal  show={showModal} handleClose={handleCloseModal} />
+      <ContactModal show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };
