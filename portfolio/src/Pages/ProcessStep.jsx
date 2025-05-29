@@ -124,11 +124,19 @@ import { useTranslation } from "react-i18next";
 import "./css/ProcessStep.css";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
 import FAQ from "./Questionandanswer";
+import ContactModal from "./ModalComponent";
 
 const ProcessStep = () => {
   const { t, i18n } = useTranslation('processStep');
   const steps = t('processStep', { returnObjects: true });
+ const [showModal, setShowModal] = useState(false);
+   const bookFreeCall = () => {
+    setShowModal(true);
+  };
 
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
   const [currentStep, setCurrentStep] = useState(0);
 
   useEffect(() => {
@@ -185,6 +193,7 @@ const ProcessStep = () => {
       <div>
         <FAQ />
       </div>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

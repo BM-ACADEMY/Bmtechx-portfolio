@@ -64,16 +64,26 @@
 
 // export default Imagemarquee;
 
-import React from "react";
+import React,{useState} from "react";
 import { Container, Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/imagemarqueeslide.css";
 import Marquee from "react-fast-marquee";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
 import { useTranslation } from "react-i18next";
+import ContactModal from "./ModalComponent";
+
 
 const Imagemarquee = () => {
   const { t } = useTranslation("imageMarquee");
+   const [showModal, setShowModal] = useState(false);
+     const bookFreeCall = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
 
   // Get the images array from translations (pass { returnObjects: true } to get array)
   const images = t("images", { returnObjects: true });
@@ -104,6 +114,7 @@ const Imagemarquee = () => {
           ))}
         </Marquee>
       </Container>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

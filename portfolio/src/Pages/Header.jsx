@@ -129,11 +129,13 @@ import { bookFreeCall } from "../Whatsapp/whatsappUtils";
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import LanguageSelector from "./LanguageSelector";
+import ContactModal from "./ModalComponent";
 
 const Header = () => {
   const [show, setShow] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
+   const [showModal, setShowModal] = useState(false);
 
   const { i18n, t } = useTranslation('header');
 
@@ -142,6 +144,13 @@ const Header = () => {
     localStorage.setItem('i18nextLng', lng);
   };
 
+  const bookFreeCall = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
   const handleNavigate = () => {
     navigate("/cases");
     setShow(false);
@@ -232,6 +241,7 @@ const Header = () => {
         </div>
         <LanguageSelector className="form-select-sm" onChange={changeLang} />
       </Navbar>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

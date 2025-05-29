@@ -32,7 +32,7 @@ const ContactModal = ({ show, handleClose }) => {
         </div>
 
         <p className="text-start">
-          Share your idea with U1CORE, and we’ll transform it into a
+          Share your idea with BMTECHX, and we’ll transform it into a
           powerful design that drives real business results.
         </p>
         <Form onSubmit={handleSubmit}>
@@ -86,7 +86,7 @@ const ContactModal = ({ show, handleClose }) => {
         <div className="mt-3 d-flex justify-content-between">
           <div>
             <p className="mb-0 text-white">Email:</p>
-            <strong className="text-white">hello@u1core.com</strong>
+            <strong className="text-white">admin@bmtechx.in</strong>
           </div>
           
         </div>

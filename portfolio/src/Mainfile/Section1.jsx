@@ -9,7 +9,7 @@ import Testimonial from '../Pages/Testimonial'
 import ProcessStep from '../Pages/ProcessStep'
 import Imagemarquee from '../Pages/imagemarqueeslide'
 import FloatingVideo from '../Pages/floatingvideo'
-import WhatsAppFloat from '../Pages/Floatingwhatsapp'
+// import WhatsAppFloat from '../Pages/Floatingwhatsapp'
 
 export default function Section1() {
   return (
@@ -24,7 +24,7 @@ export default function Section1() {
       <Imagemarquee/>
       <ProcessStep/>
       <FloatingVideo/>
-      <WhatsAppFloat/>   
+      {/* <WhatsAppFloat/>    */}
     </div>
   )
 }

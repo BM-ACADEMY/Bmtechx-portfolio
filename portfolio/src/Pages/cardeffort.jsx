@@ -86,15 +86,23 @@
 // export default ZigzagCards;
 
 import "./css/cardeffort.css";
-import React from "react";
+import React,{useState} from "react";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
+import ContactModal from "./ModalComponent";
 
 const ZigzagCards = () => {
   const { t } = useTranslation("ourServices");
-
+   const [showModal, setShowModal] = useState(false);
   const cards = t("cards", { returnObjects: true });
+    const bookFreeCall = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
 
   return (
     <div className="cardeffort">
@@ -128,6 +136,7 @@ const ZigzagCards = () => {
           </motion.div>
         ))}
       </div>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

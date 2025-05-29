@@ -95,11 +95,20 @@ import VideoSection from "./videosection";
 import MarqueeSlider from "./Marquee";
 import { useTranslation } from "react-i18next";
 import { Helmet } from "react-helmet-async";
+import ContactModal from "./ModalComponent";
 
 export default function HeroSection() {
   const [isToggled, setIsToggled] = useState(false);
   const { t } = useTranslation('home');  // 'common' namespace
+ const [showModal, setShowModal] = useState(false);
 
+   const bookFreeCall = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
   return (
     <div className="home-sectin-full">
       {/* <Helmet>
@@ -167,6 +176,7 @@ export default function HeroSection() {
 
       <VideoSection />
       <MarqueeSlider />
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 }

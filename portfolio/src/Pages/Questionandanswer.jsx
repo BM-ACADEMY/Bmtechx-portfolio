@@ -58,16 +58,24 @@
 // export default FAQ;
 
 
-import React from "react";
+import React,{useState} from "react";
 import { Accordion, Container, Button } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/Questionandanswer.css";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
+import ContactModal from "./ModalComponent";
 
 const FAQ = () => {
   const { t } = useTranslation("questionAnswer");
+ const [showModal, setShowModal] = useState(false);
+   const bookFreeCall = () => {
+    setShowModal(true);
+  };
 
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
   const faqItems = t("faqItems", { returnObjects: true });
 
   return (
@@ -91,6 +99,7 @@ const FAQ = () => {
           </Button>
         </div>
       </Container>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

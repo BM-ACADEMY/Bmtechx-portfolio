@@ -138,10 +138,18 @@ import { Container, Row, Col } from "react-bootstrap";
 import { bookFreeCall } from "../../Whatsapp/whatsappUtils";
 import "../css/About.css";
 import { useTranslation } from "react-i18next";
+import ContactModal from "../../Pages/ModalComponent";
 
 const Aboutpage = () => {
   const { t } = useTranslation("aboutPage");
+   const [showModal, setShowModal] = useState(false);
+     const bookFreeCall = () => {
+    setShowModal(true);
+  };
 
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
   const logoRef = useRef(null);
   const textRef = useRef(null);
   const buttonRef = useRef(null);
@@ -243,6 +251,7 @@ const Aboutpage = () => {
           </Col>
         </Row>
       </Container>
+        <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>
   );
 };

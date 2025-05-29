@@ -94,19 +94,26 @@
 
 // export default Footer;
 
-import React from "react";
+import React,{useState} from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { Link, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import './css/footer.css';
-import { bookFreeCall } from "../Whatsapp/whatsappUtils";
+// import { bookFreeCall } from "../Whatsapp/whatsappUtils";
+import ContactModal from "./ModalComponent";
 
 const Footer = () => {
   const navigate = useNavigate();
   const { t, i18n } = useTranslation("footer");
+ const [showModal, setShowModal] = useState(false);
+   const bookFreeCall = () => {
+    setShowModal(true);
+  };
 
-  const isRTL = i18n.language === 'ar'; // Add more RTL languages if needed
-
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
+  const isRTL = i18n.language === 'ar'; 
   const handleNavigation = (e, path, id) => {
     e.preventDefault();
     navigate(path);
@@ -181,6 +188,7 @@ const Footer = () => {
           </div>
         </Container>
       </div>
+      <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </footer>
   );
 };
