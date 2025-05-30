@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema(
+const ContactFormSchema = new mongoose.Schema(
   {
     username: {
       type: String,
@@ -25,10 +25,14 @@ const userSchema = new mongoose.Schema(
       default: '',
       trim: true,
     },
+    isRead:{
+      type:Boolean,
+      default:false
+    }
   },
   {
-    timestamps: true, // adds createdAt and updatedAt
+    timestamps: true, 
   }
 );
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model('ContactForm', ContactFormSchema);

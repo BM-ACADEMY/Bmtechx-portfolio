@@ -1,23 +1,37 @@
 import React, { useState } from "react";
 import { Modal, Button, Form, Row, Col } from "react-bootstrap";
-import { X } from "react-bootstrap-icons"; // Import close icon
+import { X } from "react-bootstrap-icons";
 import './css/ModalComponent.css';
-import Avatar from "@mui/material/Avatar";
+import axios from "axios";
+import { toast } from "react-toastify";
 
 const ContactModal = ({ show, handleClose }) => {
   const [formData, setFormData] = useState({
-    name: "",
+    username: "",
     email: "",
-    projectDetails: "",
+    phoneNumber: "",
+    description: ""
   });
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("Form Submitted:", formData);
+    console.log(formData, 'form');
+
+    try {
+      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/contact-form/create-contact-form`, formData);
+      console.log("✅ Form submitted successfully:", response.data);
+      toast.success(response.message || "Contact submitted successfully");
+      // Optionally reset form or close modal
+      setFormData({ username: "", email: "", phoneNumber: "", description: "" });
+      handleClose();
+    } catch (error) {
+      toast.error(error.data.message || "Something went wrong")
+      console.error("❌ Error submitting form:", error.response?.data || error.message);
+    }
   };
 
   return (
@@ -27,7 +41,7 @@ const ContactModal = ({ show, handleClose }) => {
         <div className="d-flex justify-content-between align-items-center">
           <h2 className="mb-3">From Vision to Victory</h2>
           <Button variant="light" className="border-0" onClick={handleClose}>
-            <X size={44} color="white"/>
+            <X size={44} color="white" />
           </Button>
         </div>
 
@@ -41,8 +55,8 @@ const ContactModal = ({ show, handleClose }) => {
               <Form.Control
                 type="text"
                 placeholder="What is your name?"
-                name="name"
-                value={formData.name}
+                name="username"
+                value={formData.username}
                 onChange={handleChange}
                 required
               />
@@ -58,13 +72,27 @@ const ContactModal = ({ show, handleClose }) => {
               />
             </Col>
           </Row>
+          <Row className="mb-3">
+            <Col md={12}>
+              <Form.Control
+                type="tel"
+                placeholder="Phone Number (10 digits)"
+                name="phoneNumber"
+                value={formData.phoneNumber}
+                onChange={handleChange}
+                pattern="\d{10}"
+                maxLength={10}
+                required
+              />
+            </Col>
+          </Row>
           <Form.Group className="mb-3">
             <Form.Control
               as="textarea"
               rows={3}
               placeholder="Project details"
-              name="projectDetails"
-              value={formData.projectDetails}
+              name="description"
+              value={formData.description}
               onChange={handleChange}
               required
             />
@@ -88,7 +116,7 @@ const ContactModal = ({ show, handleClose }) => {
             <p className="mb-0 text-white">Email:</p>
             <strong className="text-white">admin@bmtechx.in</strong>
           </div>
-          
+
         </div>
       </Modal.Body>
     </Modal>

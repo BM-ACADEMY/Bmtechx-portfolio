@@ -114,7 +114,7 @@ const LanguageSelector = ({ className, onChange }) => {
             >
               {lang.name}
               {i18n.language.split("-")[0] === lang.code && (
-                <Check size={16} className="check-icon" />
+                <Check size={16}  className="check-icon" />
               )}
             </li>
           ))}
