@@ -1,5 +1,5 @@
 {
-    "title":"BM Techx | Our Works",
+  "title": "BM Techx | Our Works",
   "projects": [
     {
       "name": "FreshBounty",
@@ -20,6 +20,111 @@
       "description": "BM Techx has successfully developed a cutting-edge tour package planning website tailored for travel enthusiasts. This platform streamlines trip planning by offering personalized itineraries, seamless bookings, and destination guides, all in one place. With user-friendly navigation and advanced features, it provides a hassle-free experience, ensuring every traveler can plan their dream vacation effortlessly.",
       "image": "Banners/TravellersNeed.png",
       "link": "https://travellersneed-client.onrender.com"
+    },
+      {
+    "name": "Single Tea India",
+    "title": "Single Tea India",
+    "description": "Single Tea India is a franchise-focused tea brand website with a dynamic menu system and a powerful admin panel. It allows seamless management of products, pricing, and content across multiple outlets. The platform ensures brand consistency while supporting easy scalability for growing franchises.",
+    "image": "Banners/singletea.png",
+    "link": "https://www.singleteaindia.com/"
+  },
+  {
+    "name": "Alpha",
+    "title": "Alpha",
+    "description": "Alpha is an investment trading platform where investors can lock their funds for a predefined period. The system allows admins to manage investment plans and allocate returns based on the locked duration. The platform ensures structured investment tracking with transparent admin-controlled returns management.",
+    "image": "Banners/alpha.png",
+    "link": "https://alphareturns.in/"
+  },
+  {
+    "name": "Credaro Loan",
+    "title": "Credaro Loan",
+    "description": "Credaro Loan is an online platform designed for seamless loan application and loan disbursement management. It enables users to apply for loans digitally while allowing admins to manage approvals and lending workflows. The system simplifies the end-to-end loan process for both borrowers and lenders.",
+    "image": "Banners/credaro.png",
+    "link": "https://credaroindia.com/"
+  },
+  {
+    "name": "Loan Guru",
+    "title": "Loan Guru",
+    "description": "Loan Guru is an online loan platform similar to Credaro, designed to streamline loan applications and approvals. It enables users to easily apply for loans while providing admins with full control over loan processing and disbursement. The platform ensures a smooth and transparent lending experience.",
+    "image": "Banners/loanguru.png",
+    "link": "http://loanguru4u.com/"
+  },
+  {
+    "name": "Azhagappa",
+    "title": "Azhagappa",
+    "description": "Azhagappa is a dedicated university sub-branch platform empowering distance learners through structured digital access. The platform supports admissions, course details, and student engagement in one centralized system.",
+    "image": "Banners/pravishraj.png",
+    "link": "https://pravishrajacademy.com/"
+  },
+  {
+    "name": "Rearline",
+    "title": "Rearline",
+    "description": "Rearline is a corporate website for a solar panel manufacturer and installation service provider. The platform showcases solar products, project capabilities, and end-to-end solar setup services. It highlights the company’s expertise in delivering efficient and sustainable energy solutions.",
+    "image": "Banners/rearline.png",
+    "link": "https://rearline.in"
+  },
+  {
+    "name": "Online KIET",
+    "title": "Online KIET",
+    "description": "Online KIET is a social community platform focused on helping society through organized team initiatives. The website highlights community activities, volunteer engagement, and social support programs. It serves as a digital space to connect members and promote collective social responsibility.",
+    "image": "Banners/kiet.png",
+    "link": "https://onlinekiet.com/"
+  },
+  {
+    "name": "Battle Fitness",
+    "title": "Battle Fitness",
+    "description": "Battle Fitness is a professional gym portfolio website designed to showcase training programs, facilities, and brand identity. The platform highlights fitness services, class offerings, and business credibility to attract new members. It delivers a strong online presence tailored for fitness-focused businesses.",
+    "image": "Banners/battle.png",
+    "link": "https://battlefitnessgym.com"
+  },
+  {
+    "name": "PUTSF",
+    "title": "PUTSF",
+    "description": "PUTSF is an MLA-focused platform designed to showcase public initiatives, announcements, and constituency activities. The website serves as a communication bridge between the MLA and citizens, promoting transparency and public engagement. It provides a structured space for updates, outreach, and community interaction.",
+    "image": "Banners/putsf.png",
+    "link": "http://putsf.com/"
+  },
+  {
+    "name": "HuntsWorld",
+    "title": "HuntsWorld",
+    "description": "HuntsWorld is a B2B website designed to facilitate seamless business-to-business interactions. The platform showcases products and services while enabling efficient communication between vendors and buyers. It helps businesses expand reach, build partnerships, and streamline operations.",
+    "image": "Banners/huntsworld.png",
+    "link": "https://huntsworld.com/"
+  },
+  {
+    "name": "Iyyan Alli",
+    "title": "Iyyan Alli",
+    "description": "Iyyan Alli is a corporate portfolio website representing an organization with multiple branches across various industries. The platform highlights its business verticals, services, and brand presence under a unified identity. It showcases the organization’s scale, expertise, and multi-industry impact.",
+    "image": "Banners/iyyanalli.png",
+    "link": "https://iyyanalligroups.com"
+  },
+    {
+      "name": "Pegasus",
+      "title": "Pegasus",
+      "description": "Pegasus is a smart food court software connecting master admin, admins, restaurants, and users. It streamlines management and payments with clear role-based access. Users can order and pay directly to restaurants through a secure system. Fast, cashless, and efficient—Pegasus powers modern food courts.",
+      "image": "Banners/pegasus.png",
+      "link": "https://pegasus2025.com/"
+    },
+   {
+  "name": "PegasusTix",
+  "title": "PegasusTix",
+  "description": "PegasusTix is a smart ticket booking software for events, shows, and entertainment. It simplifies event management with real-time booking and seat selection. Organizers can manage schedules, tickets, and payments effortlessly. Users enjoy a smooth, secure, and hassle-free booking experience.",
+  "image": "Banners/pegasustix.png",
+  "link": "https://pegasustix.com/"
+},
+    {
+      "name": "Digitokmedia",
+      "title": "Digitokmedia",
+      "description": "Digitokmedia is your digital partner, dedicated to branding your brand with impact.Our experienced team blends strategy and creativity to boost your online presence. We craft innovative marketing solutions tailored for maximum visibility and engagement. Let us help your brand connect, grow, and thrive in the digital world.",
+      "image": "Banners/digitok.png",
+      "link": "https://digitokmedia.com"
+    },
+    {
+      "name": "GNR Dentistry",
+      "title": "GNR Dentistry",
+      "description": "At BM TechX, we built the GNR Dentistry website to reflect the clinic’s commitment to modern, compassionate dental care. The site features a clean, professional design with user-friendly navigation, ensuring patients can easily explore services, book appointments, and access essential information. Optimized for SEO and responsive across all devices, the website delivers both performance and visibility.",
+      "image": "Banners/dental.png",
+      "link": "https://gnrdentistry.in/"
     },
     {
       "name": "Chop Chop Meat",

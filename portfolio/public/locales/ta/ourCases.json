@@ -19,6 +19,24 @@
       "tags": ["பயணங்கள் மற்றும் சுற்றுலா"]
     },
     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia உங்கள் பிராண்டை படைப்பாற்றலான யுக்தி மற்றும் தாக்கமான டிஜிட்டல் மார்க்கெட்டிங் மூலம் வளர்க்கிறது.",
+      "tags": ["டிஜிட்டல் மார்க்கெட்டிங்", "வலை வடிவமைப்பு"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus என்பது சிறப்பான நிர்வாகம் மற்றும் பாதுகாப்பான பணமில்லா கட்டணத்திற்கான ஸ்மார்ட் உணவகம் மேலாண்மை மென்பொருள்.",
+      "tags": ["மென்பொருள்", "உணவகம்"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix என்பது எளிய நிகழ்வு முன்பதிவு மற்றும் மேலாண்மைக்கான ஸ்மார்ட் டிக்கெட் மென்பொருள்.",
+      "tags": ["மென்பொருள்", "டிக்கெட் முன்பதிவு"]
+    },
+    {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",
       "description": "தரமான இணையதளத்துடன் புதிதான இறைச்சி விநியோகம்.",

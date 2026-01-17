@@ -18,6 +18,24 @@
       "description": "Ваш идеальный попутчик для незабываемых путешествий.",
       "tags": ["Туры и путешествия"]
     },
+     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia развивает ваш бренд с помощью креативной стратегии и эффективного цифрового маркетинга.",
+      "tags": ["Цифровой маркетинг", "Веб-дизайн"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus — это умная система фуд-корта для эффективного управления и безопасных безналичных платежей.",
+      "tags": ["Программное обеспечение", "Фуд-корт"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix — это умное программное обеспечение для лёгкого бронирования и управления мероприятиями.",
+      "tags": ["Программное обеспечение", "Бронирование билетов"]
+    },
     {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",

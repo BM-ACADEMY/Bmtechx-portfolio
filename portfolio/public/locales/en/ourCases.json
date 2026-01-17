@@ -16,7 +16,111 @@
       "image": "Banners/TravellersNeed.png",
       "title": "TravellersNeed",
       "description": "Your ultimate travel companion for unforgettable adventures.",
-      "tags": ["Tours and Travels"]
+      "tags": ["Tours" ,"Travels"]
+    },
+    
+
+    {
+    "image": "Banners/singletea.png",
+    "title": "Single Tea India",
+    "description": "Single Tea India – A smart franchise platform with centralized control and dynamic menu management.",
+    "tags": ["Franchise", "Food Tech"]
+  },
+  {
+    "image": "Banners/alpha.png",
+    "title": "Alpha",
+    "description": "Alpha – A secure trading platform enabling time-locked investments with managed returns.",
+    "tags": ["Trading", "Software"]
+  },
+  {
+    "image": "Banners/credaro.png",
+    "title": "Credaro Loan",
+    "description": "Credaro Loan – A digital platform connecting borrowers and lenders with ease and transparency.",
+    "tags": ["Finance", "Loans"]
+  },
+  {
+    "image": "Banners/loanguru.png",
+    "title": "Loan Guru",
+    "description": "Loan Guru – A smart digital platform simplifying loan access and lending management.",
+    "tags": ["Finance", "Digital"]
+  },
+  {
+    "image": "Banners/pravishraj.png",
+    "title": "Azhagappa",
+    "description": "Azhagappa – Empowering distance learners through a dedicated university sub-branch platform.",
+    "tags": ["Education", "Platform"]
+  },
+  {
+    "image": "Banners/rearline.png",
+    "title": "Rearline",
+    "description": "Rearline – Powering a sustainable future through advanced solar solutions.",
+    "tags": ["Solar", "Energy"]
+  },
+  {
+    "image": "Banners/kiet.png",
+    "title": "Online KIET",
+    "description": "Online KIET – Connecting communities through service, support, and social impact.",
+    "tags": ["Community", "Service"]
+  },
+  {
+    "image": "Banners/battle.png",
+    "title": "Battle Fitness",
+    "description": "Battle Fitness – A high-impact digital presence built to energize fitness businesses.",
+    "tags": ["Fitness", "Branding"]
+  },
+  {
+    "image": "Banners/putsf.png",
+    "title": "PUTSF",
+    "description": "PUTSF – A digital platform connecting public representatives with the people.",
+    "tags": ["Public", "Platform"]
+  },
+  {
+    "image": "Banners/huntsworld.png",
+    "title": "HuntsWorld",
+    "description": "HuntsWorld – A powerful B2B platform built to connect businesses and drive growth.",
+    "tags": ["B2B", "E-Commerce"]
+  },
+  {
+    "image": "Banners/iyyanalli.png",
+    "title": "Iyyan Alli",
+    "description": "Iyyan Alli – A diversified organization driving growth across multiple industries.",
+    "tags": ["Business", "Enterprise"]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia builds your brand through creative strategy and impactful digital marketing.",
+      "tags": ["Digital Marketing","Web design"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus is a smart food court system for seamless management and secure, cashless payments.",
+      "tags": ["Software","Food Court "]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix is a smart ticketing software for easy event booking and management.",
+      "tags": ["Software","Ticket Booking"]
+    },
+    {
+      "image": "Banners/dental.png",
+      "title": "GNR Dentistry",
+      "description": "Modern dental care, delivered through a sleek website.",
+      "tags": ["Web design", "Dental"]
     },
     {
       "image": "Banners/ChopChopMeat.png",

@@ -19,6 +19,24 @@
       "tags": ["Turismo y Viajes"]
     },
     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia construye tu marca con estrategia creativa y marketing digital impactante.",
+      "tags": ["Marketing Digital", "Diseño Web"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus es un sistema inteligente de patio de comidas para gestión fluida y pagos seguros sin efectivo.",
+      "tags": ["Software", "Patio de Comidas"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix es un software inteligente de boletos para reservas y gestión de eventos fáciles.",
+      "tags": ["Software", "Reservas de Entradas"]
+    },
+    {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",
       "description": "Carne fresca con calidad premium entregada a través de un sitio web profesional.",

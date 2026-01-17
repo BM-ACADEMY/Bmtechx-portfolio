@@ -18,6 +18,24 @@
       "description": "忘れられない冒険のための究極の旅のパートナー。",
       "tags": ["旅行・ツアー"]
     },
+     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia は、創造的な戦略と効果的なデジタルマーケティングであなたのブランドを構築します。",
+      "tags": ["デジタルマーケティング", "ウェブデザイン"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus は、スムーズな管理と安全なキャッシュレス決済を可能にするスマートなフードコートシステムです。",
+      "tags": ["ソフトウェア", "フードコート"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix は、イベントの予約と管理を簡単にするスマートなチケットソフトウェアです。",
+      "tags": ["ソフトウェア", "チケット予約"]
+    },
     {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",

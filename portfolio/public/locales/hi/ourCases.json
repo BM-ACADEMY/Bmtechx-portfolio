@@ -19,6 +19,24 @@
       "tags": ["टूर और ट्रैवल्स"]
     },
     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "Digitokmedia आपकी ब्रांड को रचनात्मक रणनीति और प्रभावशाली डिजिटल मार्केटिंग से बनाता है।",
+      "tags": ["डिजिटल मार्केटिंग", "वेब डिज़ाइन"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus एक स्मार्ट फूड कोर्ट सिस्टम है जो आसान प्रबंधन और सुरक्षित, कैशलेस भुगतान प्रदान करता है।",
+      "tags": ["सॉफ्टवेयर", "फूड कोर्ट"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix एक स्मार्ट टिकटिंग सॉफ्टवेयर है जो इवेंट बुकिंग और प्रबंधन को आसान बनाता है।",
+      "tags": ["सॉफ्टवेयर", "टिकट बुकिंग"]
+    },
+    {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",
       "description": "प्रीमियम गुणवत्ता वाली वेबसाइट के साथ ताज़ा मांस की डिलीवरी।",

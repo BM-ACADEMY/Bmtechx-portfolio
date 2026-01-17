@@ -22,6 +22,27 @@
             "link": "https://travellersneed-client.onrender.com"
         },
         {
+      "name": "Pegasus",
+      "title": "Pegasus",
+      "description": "Pegasus est un logiciel intelligent pour les food courts, reliant les super-administrateurs, administrateurs, restaurants et utilisateurs. Il facilite la gestion et les paiements grâce à un accès par rôle. Les utilisateurs peuvent commander et payer directement aux restaurants via un système sécurisé. Rapide, sans espèces et efficace — Pegasus propulse les food courts modernes.",
+      "image": "Banners/pegasus.png",
+      "link": "https://pegasus2025.com/"
+    },
+    {
+      "name": "PegasusTix",
+      "title": "PegasusTix",
+      "description": "PegasusTix est un logiciel de billetterie intelligent pour les événements, spectacles et divertissements. Il simplifie la gestion des événements avec une réservation en temps réel et une sélection des sièges. Les organisateurs peuvent gérer les horaires, les billets et les paiements facilement. Les utilisateurs profitent d'une expérience fluide, sécurisée et sans tracas.",
+      "image": "Banners/pegasustix.png",
+      "link": "https://pegasustix.com/"
+    },
+    {
+      "name": "Digitokmedia",
+      "title": "Digitokmedia",
+      "description": "Digitokmedia est votre partenaire digital dédié à l’impact de votre marque. Notre équipe allie stratégie et créativité pour renforcer votre présence en ligne. Nous concevons des solutions marketing innovantes pour maximiser la visibilité et l’engagement. Faites grandir votre marque dans le monde numérique avec nous.",
+      "image": "Banners/digitok.png",
+      "link": "https://digitokmedia.com"
+    },
+        {
             "name": "Chop Chop Meat",
             "title": "Chop Chop Meat",
             "description": "Chez BM Techx, nous avons développé Chop Chop Meat exactement selon la vision du client : un site web moderne et convivial qui met en avant la qualité de leur viande d'agneau et de poulet de première qualité. Construit avec une structure optimisée pour le SEO et une navigation fluide, le site garantit d'excellentes performances et une visibilité sur tous les appareils et moteurs de recherche.",

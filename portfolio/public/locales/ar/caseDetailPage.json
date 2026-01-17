@@ -21,6 +21,27 @@
             "image": "Banners/TravellersNeed.png",
             "link": "https://travellersneed-client.onrender.com"
         },
+         {
+      "name": "Pegasus",
+      "title": "Pegasus",
+      "description": "Pegasus هو برنامج ذكي لساحة الطعام يربط بين المدير العام والمديرين والمطاعم والمستخدمين. يسهّل الإدارة والدفع من خلال صلاحيات وصول محددة. يمكن للمستخدمين الطلب والدفع مباشرةً للمطاعم عبر نظام آمن. سريع، بدون نقد، وفعال — Pegasus يدير ساحات الطعام الحديثة.",
+      "image": "Banners/pegasus.png",
+      "link": "https://pegasus2025.com/"
+    },
+    {
+      "name": "PegasusTix",
+      "title": "PegasusTix",
+      "description": "PegasusTix هو برنامج ذكي لحجز التذاكر للعروض والفعاليات. يبسط إدارة الفعاليات مع الحجز الفوري واختيار المقاعد. يمكن للمنظمين إدارة الجداول والتذاكر والمدفوعات بسهولة. يتمتع المستخدمون بتجربة حجز سلسة وآمنة وخالية من المتاعب.",
+      "image": "Banners/pegasustix.png",
+      "link": "https://pegasustix.com/"
+    },
+    {
+      "name": "Digitokmedia",
+      "title": "Digitokmedia",
+      "description": "Digitokmedia هي شريكك الرقمي المخصص لبناء علامتك التجارية بشكل مؤثر. يجمع فريقنا بين الاستراتيجية والإبداع لزيادة حضورك الرقمي. نقدم حلولاً مبتكرة لزيادة الظهور والتفاعل. دعنا نساعد علامتك على الاتصال والنمو والازدهار في العالم الرقمي.",
+      "image": "Banners/digitok.png",
+      "link": "https://digitokmedia.com"
+    },
         {
             "name": "تشوب تشوب ميت",
             "title": "تشوب تشوب ميت",

@@ -3,7 +3,22 @@
   "description": "BM Techx is your reliable technology partner, delivering cutting-edge solutions that drive growth, enhance efficiency, and maximize business potential.",
   "becomeClient": "Become a Client",
   "images": [
+    
+    { "src": "Banners/singletea.png", "title": "Single Tea India" },
+    { "src": "Banners/alpha.png", "title": "Alpha" },
+    { "src": "Banners/credaro.png", "title": "Credaro Loan" },
+    { "src": "Banners/loanguru.png", "title": "Loan Guru" },
+    { "src": "Banners/pravishraj.png", "title": "Azhagappa" },
+    { "src": "Banners/rearline.png", "title": "Rearline" },
+    { "src": "Banners/kiet.png", "title": "Online KIET" },
+    { "src": "Banners/battle.png", "title": "Battle Fitness" },
+    { "src": "Banners/putsf.png", "title": "PUTSF" },
+    { "src": "Banners/huntsworld.png", "title": "HuntsWorld" },
+    { "src": "Banners/iyyanalli.png", "title": "Iyyan Alli" },
     { "src": "Banners/Freshbounty.png", "title": "FreshBounty" },
+    { "src": "Banners/pegasus.png", "title": "Digitok Media" },
+    { "src": "Banners/pegasustix.png", "title": "Digitok Media" },
+    { "src": "Banners/digitok.png", "title": "Digitok Media" },
     { "src": "Banners/Chinnacleaning.png", "title": "Chinna Cleaning Facility" },
     { "src": "Banners/Learnengeducation.png", "title": "LearnEng" },
     { "src": "Banners/TravellersNeed.png", "title": "TravellersNeed" },
@@ -22,6 +37,7 @@
     { "src": "Banners/RkGlobalAssociatees.png", "title": "Rk Global Associatees" },
     { "src": "Banners/OneWayDropTaxiSalem.png", "title": "One Way Drop Taxi Salem" },
     { "src": "Banners/SummerDreams.png", "title": "Summer Dreams - Home Stay" },
-    { "src": "Banners/ChopChopMeat.png", "title": "Chop Chop Meat" }
+    { "src": "Banners/ChopChopMeat.png", "title": "Chop Chop Meat" },
+    { "src": "Banners/dental.png", "title": "GNR Dentistry" }
   ]
 }

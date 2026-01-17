@@ -22,6 +22,27 @@
             "link": "https://travellersneed-client.onrender.com"
         },
         {
+      "name": "Pegasus",
+      "title": "Pegasus",
+      "description": "Pegasus es un software inteligente para patios de comidas que conecta administradores, restaurantes y usuarios. Simplifica la gestión y los pagos con acceso por roles. Los usuarios pueden ordenar y pagar directamente a los restaurantes de forma segura. Rápido, sin efectivo y eficiente: Pegasus impulsa los patios de comida modernos.",
+      "image": "Banners/pegasus.png",
+      "link": "https://pegasus2025.com/"
+    },
+    {
+      "name": "PegasusTix",
+      "title": "PegasusTix",
+      "description": "PegasusTix es un software inteligente para reservar entradas a eventos, espectáculos y entretenimiento. Simplifica la gestión de eventos con reservas en tiempo real y selección de asientos. Los organizadores gestionan horarios, boletos y pagos con facilidad. Los usuarios disfrutan de una experiencia de reserva fluida y segura.",
+      "image": "Banners/pegasustix.png",
+      "link": "https://pegasustix.com/"
+    },
+    {
+      "name": "Digitokmedia",
+      "title": "Digitokmedia",
+      "description": "Digitokmedia es tu socio digital dedicado a fortalecer tu marca. Nuestro equipo combina estrategia y creatividad para impulsar tu presencia online. Creamos soluciones innovadoras para aumentar tu visibilidad y compromiso. Ayudamos a tu marca a conectar, crecer y prosperar en el mundo digital.",
+      "image": "Banners/digitok.png",
+      "link": "https://digitokmedia.com"
+    },
+        {
             "name": "Chop Chop Meat",
             "title": "Chop Chop Meat",
             "description": "En BM Techx, desarrollamos Chop Chop Meat exactamente según la visión del cliente: un sitio web moderno y fácil de usar que destaca la calidad de su carne de cordero y pollo premium. Construido con una estructura amigable para SEO y una navegación fluida, el sitio garantiza un excelente rendimiento y visibilidad en todos los dispositivos y motores de búsqueda.",

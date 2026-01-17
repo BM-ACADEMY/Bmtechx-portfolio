@@ -19,6 +19,24 @@
       "tags": ["السفر والسياحة"]
     },
     {
+      "image": "Banners/digitok.png",
+      "title": "Digitok Media",
+      "description": "تبني Digitokmedia علامتك التجارية من خلال الاستراتيجية الإبداعية والتسويق الرقمي المؤثر.",
+      "tags": ["التسويق الرقمي", "تصميم المواقع"]
+    },
+    {
+      "image": "Banners/pegasus.png",
+      "title": "Pegasus",
+      "description": "Pegasus هو نظام ذكي لإدارة ساحات الطعام، يوفر إدارة سلسة ومدفوعات آمنة بدون نقد.",
+      "tags": ["البرمجيات", "ساحة الطعام"]
+    },
+    {
+      "image": "Banners/pegasustix.png",
+      "title": "Pegasustix",
+      "description": "PegasusTix هو برنامج ذكي لحجز التذاكر لإدارة الأحداث بسهولة.",
+      "tags": ["البرمجيات", "حجز التذاكر"]
+    },
+    {
       "image": "Banners/ChopChopMeat.png",
       "title": "تشوب تشوب ميت",
       "description": "توصيل اللحوم الطازجة من خلال موقع عالي الجودة.",
