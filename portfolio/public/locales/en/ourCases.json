@@ -1,24 +1,11 @@
 {
   "cases": [
     {
-      "image": "Banners/Freshbounty.png",
-      "title": "FreshBounty",
-      "description": "This is a celebration of everything that moves you...",
-      "tags": ["E-Commerce"]
-    },
-    {
-      "image": "Banners/RedCollarAppDevelopment.png",
-      "title": "Red Collar",
-      "description": "Fashioning your style with premium clothing and accessories.",
-      "tags": ["App"]
-    },
-    {
-      "image": "Banners/TravellersNeed.png",
-      "title": "TravellersNeed",
-      "description": "Your ultimate travel companion for unforgettable adventures.",
-      "tags": ["Tours" ,"Travels"]
-    },
-    
+    "image": "Banners/hp.png",
+    "title": "HP Fitness Studio Unisex",
+    "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
+    "tags": ["Fitness", "Software"]
+  },   
 
     {
     "image": "Banners/singletea.png",
@@ -86,6 +73,26 @@
     "description": "Iyyan Alli – A diversified organization driving growth across multiple industries.",
     "tags": ["Business", "Enterprise"]
   },
+
+   {
+      "image": "Banners/Freshbounty.png",
+      "title": "FreshBounty",
+      "description": "This is a celebration of everything that moves you...",
+      "tags": ["E-Commerce"]
+    },
+    {
+      "image": "Banners/RedCollarAppDevelopment.png",
+      "title": "Red Collar",
+      "description": "Fashioning your style with premium clothing and accessories.",
+      "tags": ["App"]
+    },
+    {
+      "image": "Banners/TravellersNeed.png",
+      "title": "TravellersNeed",
+      "description": "Your ultimate travel companion for unforgettable adventures.",
+      "tags": ["Tours" ,"Travels"]
+    },
+  
 
 
 
