@@ -5,9 +5,13 @@
     "title": "HP Fitness Studio Unisex",
     "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
     "tags": ["Fitness", "Software"]
-  },   
-
-    {
+  },
+  {
+    "image": "Banners/multiverse.png",
+    "title": "Multiverse International",
+    "description": "Multiverse International delivers reliable commercial, industrial, and infrastructure projects across Qatar through strong planning, accountability, and expert execution.",
+    "tags": ["Construction", "Qatar"]
+  },    {
     "image": "Banners/singletea.png",
     "title": "Single Tea India",
     "description": "Single Tea India – A smart franchise platform with centralized control and dynamic menu management.",
@@ -92,7 +96,7 @@
       "description": "Your ultimate travel companion for unforgettable adventures.",
       "tags": ["Tours" ,"Travels"]
     },
-  
+
 
 
 

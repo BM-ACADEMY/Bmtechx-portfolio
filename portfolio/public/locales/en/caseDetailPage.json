@@ -8,6 +8,28 @@
       "image": "Banners/huntsworld.png",
       "link": "https://huntsworld.com/"
     },
+     {
+      "name": "Multiverse International",
+      "title": "Multiverse International",
+      "description": "Multiverse International delivers reliable commercial, industrial, and infrastructure projects across Qatar through strong planning, accountability, and expert execution.",
+      "image": "Banners/multiverse.png",
+      "link": "https://multiverseint.com/"
+    },
+    {
+      "name": "Iyyan Alli",
+      "title": "Iyyan Alli",
+      "description": "Iyyan Alli is a corporate portfolio website representing an organization with multiple branches across various industries. The platform highlights its business verticals, services, and brand presence under a unified identity. It showcases the organization’s scale, expertise, and multi-industry impact.",
+      "image": "Banners/iyyanalli.png",
+      "link": "https://iyyanalligroups.com"
+    },
+
+    {
+  "name": "HP Fitness Studio",
+  "title": "HP Fitness Studio Unisex",
+  "description": "HP Fitness Studio is a modern unisex fitness center focused on strength training, weight management, and overall wellness. The studio offers professional trainers, advanced workout equipment, and personalized fitness programs for both men and women. Along with fitness services, HP Fitness Studio is powered by smart gym management software that helps streamline memberships, attendance tracking, trainer scheduling, and performance monitoring, ensuring a seamless digital fitness experience.",
+  "image": "Banners/hp.png",
+  "link": "https://hpfitnessstudiounisex.com"
+},
     {
       "name": "Single Tea India",
       "title": "Single Tea India",
@@ -22,20 +44,7 @@
       "image": "Banners/alpha.png",
       "link": "https://alphareturns.in/"
     },
-    {
-      "name": "Iyyan Alli",
-      "title": "Iyyan Alli",
-      "description": "Iyyan Alli is a corporate portfolio website representing an organization with multiple branches across various industries. The platform highlights its business verticals, services, and brand presence under a unified identity. It showcases the organization’s scale, expertise, and multi-industry impact.",
-      "image": "Banners/iyyanalli.png",
-      "link": "https://iyyanalligroups.com"
-    },
-    {
-  "name": "HP Fitness Studio",
-  "title": "HP Fitness Studio Unisex",
-  "description": "HP Fitness Studio is a modern unisex fitness center focused on strength training, weight management, and overall wellness. The studio offers professional trainers, advanced workout equipment, and personalized fitness programs for both men and women. Along with fitness services, HP Fitness Studio is powered by smart gym management software that helps streamline memberships, attendance tracking, trainer scheduling, and performance monitoring, ensuring a seamless digital fitness experience.",
-  "image": "Banners/hp.png",
-  "link": "https://hpfitnessstudiounisex.com"
-},
+
      {
       "name": "Battle Fitness",
       "title": "Battle Fitness",
@@ -50,7 +59,7 @@
       "image": "Banners/putsf.png",
       "link": "http://putsf.com/"
     },
-   
+
     {
       "name": "Credaro Loan",
       "title": "Credaro Loan",
@@ -86,8 +95,8 @@
       "image": "Banners/kiet.png",
       "link": "https://onlinekiet.com/"
     },
-   
-  
+
+
     {
       "name": "Pegasus",
       "title": "Pegasus",

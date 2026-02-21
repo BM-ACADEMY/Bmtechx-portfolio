@@ -3,7 +3,7 @@
   "description": "BM Techx is your reliable technology partner, delivering cutting-edge solutions that drive growth, enhance efficiency, and maximize business potential.",
   "becomeClient": "Become a Client",
   "images": [
-    
+
     { "src": "Banners/singletea.png", "title": "Single Tea India" },
     { "src": "Banners/alpha.png", "title": "Alpha" },
     { "src": "Banners/credaro.png", "title": "Credaro Loan" },
@@ -16,6 +16,7 @@
     { "src": "Banners/huntsworld.png", "title": "HuntsWorld" },
     { "src": "Banners/iyyanalli.png", "title": "Iyyan Alli" },
     { "src": "Banners/hp.png", "title": "HP Fitness Studio unisex" },
+    { "src": "Banners/multiverse.png", "title": "Multiverse International" },
     { "src": "Banners/Freshbounty.png", "title": "FreshBounty" },
     { "src": "Banners/pegasus.png", "title": "Digitok Media" },
     { "src": "Banners/pegasustix.png", "title": "Digitok Media" },
