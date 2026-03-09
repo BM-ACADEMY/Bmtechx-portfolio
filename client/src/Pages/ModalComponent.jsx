@@ -14,7 +14,15 @@ const ContactModal = ({ show, handleClose }) => {
   });
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
+    const { name, value } = e.target;
+    
+    // If the field is phoneNumber, replace any non-digit character with an empty string
+    if (name === "phoneNumber") {
+      const numericValue = value.replace(/\D/g, "");
+      setFormData({ ...formData, [name]: numericValue });
+    } else {
+      setFormData({ ...formData, [name]: value });
+    }
   };
 
   const handleSubmit = async (e) => {
@@ -22,14 +30,15 @@ const ContactModal = ({ show, handleClose }) => {
     console.log(formData, 'form');
 
     try {
-      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/contact-form/create-contact-form`, formData);
+      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}/bmtechx-port/send-email-bmtechxport`, formData);
       console.log("✅ Form submitted successfully:", response.data);
-      toast.success(response.message || "Contact submitted successfully");
+      toast.success(response.data.message || "Contact submitted successfully");
+      
       // Optionally reset form or close modal
       setFormData({ username: "", email: "", phoneNumber: "", description: "" });
       handleClose();
     } catch (error) {
-      toast.error(error.data.message || "Something went wrong")
+      toast.error(error.response?.data?.message || "Something went wrong");
       console.error("❌ Error submitting form:", error.response?.data || error.message);
     }
   };
@@ -75,7 +84,7 @@ const ContactModal = ({ show, handleClose }) => {
           <Row className="mb-3">
             <Col md={12}>
               <Form.Control
-                type="tel"
+                type="tel" // 'tel' is better for mobile keyboards than 'text'
                 placeholder="Phone Number (10 digits)"
                 name="phoneNumber"
                 value={formData.phoneNumber}
@@ -116,7 +125,6 @@ const ContactModal = ({ show, handleClose }) => {
             <p className="mb-0 text-white">Email:</p>
             <strong className="text-white">admin@bmtechx.in</strong>
           </div>
-
         </div>
       </Modal.Body>
     </Modal>
