@@ -6,6 +6,13 @@
     "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
     "tags": ["Fitness", "Software"]
   },
+    {
+    "image": "Banners/arasi.png",
+    "title": "Arasi Soap",
+    "description": "Arasi Soap produces quality detergents, liquid cleaners, and soaps for everyday cleaning needs.",
+    "tags": ["E-Commerce", "Cleaning"]
+  },
+    
   {
     "image": "Banners/multiverse.png",
     "title": "Multiverse International",
