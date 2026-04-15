@@ -1,241 +1,337 @@
 {
   "cases": [
     {
-    "image": "Banners/hp.png",
-    "title": "HP Fitness Studio Unisex",
-    "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
-    "tags": ["Fitness", "Software"]
-  },
+      "image": "Banners/hp.png",
+      "title": "HP Fitness Studio Unisex",
+      "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
+      "tags": [
+        "Fitness",
+        "Software"
+      ]
+    },
     {
-    "image": "Banners/arasi.png",
-    "title": "Arasi Soap",
-    "description": "Arasi Soap produces quality detergents, liquid cleaners, and soaps for everyday cleaning needs.",
-    "tags": ["E-Commerce", "Cleaning"]
-  },
-    
-  {
-    "image": "Banners/multiverse.png",
-    "title": "Multiverse International",
-    "description": "Multiverse International delivers reliable commercial, industrial, and infrastructure projects across Qatar through strong planning, accountability, and expert execution.",
-    "tags": ["Construction", "Qatar"]
-  },    {
-    "image": "Banners/singletea.png",
-    "title": "Single Tea India",
-    "description": "Single Tea India – A smart franchise platform with centralized control and dynamic menu management.",
-    "tags": ["Franchise", "Food Tech"]
-  },
-  {
-    "image": "Banners/alpha.png",
-    "title": "Alpha",
-    "description": "Alpha – A secure trading platform enabling time-locked investments with managed returns.",
-    "tags": ["Trading", "Software"]
-  },
-  {
-    "image": "Banners/credaro.png",
-    "title": "Credaro Loan",
-    "description": "Credaro Loan – A digital platform connecting borrowers and lenders with ease and transparency.",
-    "tags": ["Finance", "Loans"]
-  },
-  {
-    "image": "Banners/loanguru.png",
-    "title": "Loan Guru",
-    "description": "Loan Guru – A smart digital platform simplifying loan access and lending management.",
-    "tags": ["Finance", "Digital"]
-  },
-  {
-    "image": "Banners/pravishraj.png",
-    "title": "Azhagappa",
-    "description": "Azhagappa – Empowering distance learners through a dedicated university sub-branch platform.",
-    "tags": ["Education", "Platform"]
-  },
-  {
-    "image": "Banners/rearline.png",
-    "title": "Rearline",
-    "description": "Rearline – Powering a sustainable future through advanced solar solutions.",
-    "tags": ["Solar", "Energy"]
-  },
-  {
-    "image": "Banners/kiet.png",
-    "title": "Online KIET",
-    "description": "Online KIET – Connecting communities through service, support, and social impact.",
-    "tags": ["Community", "Service"]
-  },
-  {
-    "image": "Banners/battle.png",
-    "title": "Battle Fitness",
-    "description": "Battle Fitness – A high-impact digital presence built to energize fitness businesses.",
-    "tags": ["Fitness", "Branding"]
-  },
-  {
-    "image": "Banners/putsf.png",
-    "title": "PUTSF",
-    "description": "PUTSF – A digital platform connecting public representatives with the people.",
-    "tags": ["Public", "Platform"]
-  },
-  {
-    "image": "Banners/huntsworld.png",
-    "title": "HuntsWorld",
-    "description": "HuntsWorld – A powerful B2B platform built to connect businesses and drive growth.",
-    "tags": ["B2B", "E-Commerce"]
-  },
-  {
-    "image": "Banners/iyyanalli.png",
-    "title": "Iyyan Alli",
-    "description": "Iyyan Alli – A diversified organization driving growth across multiple industries.",
-    "tags": ["Business", "Enterprise"]
-  },
-
-   {
+      "image": "Banners/alg.png",
+      "title": "ALG Ladies Hostel",
+      "description": "Safe, affordable ladies hostel in Puducherry with modern amenities and secure, comfortable stay.",
+      "tags": [
+        "Ladies Hostel",
+        "Accommodation"
+      ]
+    },
+    {
+      "image": "Banners/arasi.png",
+      "title": "Arasi Soap",
+      "description": "Arasi Soap produces quality detergents, liquid cleaners, and soaps for everyday cleaning needs.",
+      "tags": [
+        "E-Commerce",
+        "Cleaning"
+      ]
+    },
+    {
+      "image": "Banners/multiverse.png",
+      "title": "Multiverse International",
+      "description": "Multiverse International delivers reliable commercial, industrial, and infrastructure projects across Qatar through strong planning, accountability, and expert execution.",
+      "tags": [
+        "Construction",
+        "Qatar"
+      ]
+    },
+    {
+      "image": "Banners/singletea.png",
+      "title": "Single Tea India",
+      "description": "Single Tea India – A smart franchise platform with centralized control and dynamic menu management.",
+      "tags": [
+        "Franchise",
+        "Food Tech"
+      ]
+    },
+    {
+      "image": "Banners/alpha.png",
+      "title": "Alpha",
+      "description": "Alpha – A secure trading platform enabling time-locked investments with managed returns.",
+      "tags": [
+        "Trading",
+        "Software"
+      ]
+    },
+    {
+      "image": "Banners/credaro.png",
+      "title": "Credaro Loan",
+      "description": "Credaro Loan – A digital platform connecting borrowers and lenders with ease and transparency.",
+      "tags": [
+        "Finance",
+        "Loans"
+      ]
+    },
+    {
+      "image": "Banners/loanguru.png",
+      "title": "Loan Guru",
+      "description": "Loan Guru – A smart digital platform simplifying loan access and lending management.",
+      "tags": [
+        "Finance",
+        "Digital"
+      ]
+    },
+    {
+      "image": "Banners/pravishraj.png",
+      "title": "Azhagappa",
+      "description": "Azhagappa – Empowering distance learners through a dedicated university sub-branch platform.",
+      "tags": [
+        "Education",
+        "Platform"
+      ]
+    },
+    {
+      "image": "Banners/rearline.png",
+      "title": "Rearline",
+      "description": "Rearline – Powering a sustainable future through advanced solar solutions.",
+      "tags": [
+        "Solar",
+        "Energy"
+      ]
+    },
+    {
+      "image": "Banners/kiet.png",
+      "title": "Online KIET",
+      "description": "Online KIET – Connecting communities through service, support, and social impact.",
+      "tags": [
+        "Community",
+        "Service"
+      ]
+    },
+    {
+      "image": "Banners/battle.png",
+      "title": "Battle Fitness",
+      "description": "Battle Fitness – A high-impact digital presence built to energize fitness businesses.",
+      "tags": [
+        "Fitness",
+        "Branding"
+      ]
+    },
+    {
+      "image": "Banners/putsf.png",
+      "title": "PUTSF",
+      "description": "PUTSF – A digital platform connecting public representatives with the people.",
+      "tags": [
+        "Public",
+        "Platform"
+      ]
+    },
+    {
+      "image": "Banners/huntsworld.png",
+      "title": "HuntsWorld",
+      "description": "HuntsWorld – A powerful B2B platform built to connect businesses and drive growth.",
+      "tags": [
+        "B2B",
+        "E-Commerce"
+      ]
+    },
+    {
+      "image": "Banners/iyyanalli.png",
+      "title": "Iyyan Alli",
+      "description": "Iyyan Alli – A diversified organization driving growth across multiple industries.",
+      "tags": [
+        "Business",
+        "Enterprise"
+      ]
+    },
+    {
       "image": "Banners/Freshbounty.png",
       "title": "FreshBounty",
       "description": "This is a celebration of everything that moves you...",
-      "tags": ["E-Commerce"]
+      "tags": [
+        "E-Commerce"
+      ]
     },
     {
       "image": "Banners/RedCollarAppDevelopment.png",
       "title": "Red Collar",
       "description": "Fashioning your style with premium clothing and accessories.",
-      "tags": ["App"]
+      "tags": [
+        "App"
+      ]
     },
     {
       "image": "Banners/TravellersNeed.png",
       "title": "TravellersNeed",
       "description": "Your ultimate travel companion for unforgettable adventures.",
-      "tags": ["Tours" ,"Travels"]
+      "tags": [
+        "Tours",
+        "Travels"
+      ]
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
       "image": "Banners/digitok.png",
       "title": "Digitok Media",
       "description": "Digitokmedia builds your brand through creative strategy and impactful digital marketing.",
-      "tags": ["Digital Marketing","Web design"]
+      "tags": [
+        "Digital Marketing",
+        "Web design"
+      ]
     },
     {
       "image": "Banners/pegasus.png",
       "title": "Pegasus",
       "description": "Pegasus is a smart food court system for seamless management and secure, cashless payments.",
-      "tags": ["Software","Food Court "]
+      "tags": [
+        "Software",
+        "Food Court "
+      ]
     },
     {
       "image": "Banners/pegasustix.png",
       "title": "Pegasustix",
       "description": "PegasusTix is a smart ticketing software for easy event booking and management.",
-      "tags": ["Software","Ticket Booking"]
+      "tags": [
+        "Software",
+        "Ticket Booking"
+      ]
     },
     {
       "image": "Banners/dental.png",
       "title": "GNR Dentistry",
       "description": "Modern dental care, delivered through a sleek website.",
-      "tags": ["Web design", "Dental"]
+      "tags": [
+        "Web design",
+        "Dental"
+      ]
     },
     {
       "image": "Banners/ChopChopMeat.png",
       "title": "Chop Chop Meat",
       "description": "Delivering fresh meat with premium quality website.",
-      "tags": ["Web design", "Meat"]
+      "tags": [
+        "Web design",
+        "Meat"
+      ]
     },
     {
       "image": "Banners/OneWayDropTaxiSalem.png",
       "title": "One Way Drop Taxi Salem",
       "seotitle": "One Way Drop Taxi Salem | Bm Techx",
       "description": "Quick, mobile-first website for hassle-free taxi bookings.",
-      "tags": ["Travel", "Taxi"]
+      "tags": [
+        "Travel",
+        "Taxi"
+      ]
     },
     {
       "image": "Banners/SummerDreams.png",
       "title": "Summer Dreams - Home Stay Cottage",
       "description": "Seamless booking website for a serene Kodaikanal homestay.",
-      "tags": ["Hotel", "Premium Rooms"]
+      "tags": [
+        "Hotel",
+        "Premium Rooms"
+      ]
     },
     {
       "image": "Banners/RkGlobalAssociatees.png",
       "title": "Rk Global Associatees",
       "description": "Expert business consulting solutions for your growth.",
-      "tags": ["Business"]
+      "tags": [
+        "Business"
+      ]
     },
     {
       "image": "Banners/Chinnacleaning.png",
       "title": "Chinna Cleaning",
       "description": "Spark is pioneering the future of decentralized finance.",
-      "tags": ["Cleaning", "Web design"]
+      "tags": [
+        "Cleaning",
+        "Web design"
+      ]
     },
     {
       "image": "Banners/Learnengeducation.png",
       "title": "LearnEng",
       "description": "Empowering your journey to mastery in the English language.",
-      "tags": ["Education"]
+      "tags": [
+        "Education"
+      ]
     },
     {
       "image": "Banners/HuntsWorldProperties.png",
       "title": "Hunts World Properties",
       "description": "Your trusted partner in finding the perfect real estate.",
-      "tags": ["Web Design", "Real estate"]
+      "tags": [
+        "Web Design",
+        "Real estate"
+      ]
     },
     {
       "image": "Banners/JKCoachingAcademy.png",
       "title": "JK Coaching Academy",
       "description": "Shaping futures with quality education and expert guidance.",
-      "tags": ["Education"]
+      "tags": [
+        "Education"
+      ]
     },
     {
       "image": "Banners/MyGoldInternational.png",
       "title": "MyGoldInternational",
       "description": "Unlocking the world of gold investments and precious metal solutions.",
-      "tags": ["Web Design"]
+      "tags": [
+        "Web Design"
+      ]
     },
     {
       "image": "Banners/BMAcademy.png",
       "title": "BM Academy",
       "description": "Where learning meets excellence to shape bright futures.",
-      "tags": ["Education"]
+      "tags": [
+        "Education"
+      ]
     },
     {
       "image": "Banners/DesignInfo.png",
       "title": "Design Info",
       "description": "Transforming your photos into stunning works of art.",
-      "tags": ["Web design"]
+      "tags": [
+        "Web design"
+      ]
     },
     {
       "image": "Banners/RainInfoTech.png",
       "title": "Rain Info Tech",
       "description": "Elevating your photos with expert editing and technology.",
-      "tags": ["Web design"]
+      "tags": [
+        "Web design"
+      ]
     },
     {
       "image": "Banners/NSAHolidaysKodaikannal.png",
       "title": "NSA Holidays Kodaikannal",
       "description": "Your gateway to serene and unforgettable holiday experiences.",
-      "tags": ["Web design", "Tours and Travels"]
+      "tags": [
+        "Web design",
+        "Tours and Travels"
+      ]
     },
     {
       "image": "Banners/ZhagaramAcademy.png",
       "title": "Zhagaram Academy of Learning and Teaching",
       "description": "Redefining education with innovative and impactful learning.",
-      "tags": ["Web design", "Education"]
+      "tags": [
+        "Web design",
+        "Education"
+      ]
     },
     {
       "image": "Banners/CollegeStudentsProject.png",
       "title": "College Students",
       "description": "Simplifying attendance and marks tracking website for college.",
-      "tags": ["Web design", "Education"]
+      "tags": [
+        "Web design",
+        "Education"
+      ]
     },
     {
       "image": "Banners/Bezooz.png",
       "title": "Bezooz",
       "description": "Revolutionizing education with modern tools and interactive learning.",
-      "tags": ["Education"]
+      "tags": [
+        "Education"
+      ]
     }
   ]
 }
