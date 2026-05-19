@@ -1,6 +1,13 @@
 {
   "title": "BM Techx | Our Works",
   "projects": [
+    {
+      "name": "The Open Room",
+      "title": "The Open Room",
+      "description": "The Open Room is a pioneering design practice based in Chennai that bridges the gap between professional architectural execution and design education. Operating simultaneously as a full-service architecture firm and educational platform, we create a dynamic environment where real-world projects inspire learning, and education fuels sharper design thinking.",
+      "image": "Banners/openroom.jpeg",
+      "link": "https://theopenroom.in/"
+    },
       {
       "name": "HuntsWorld",
       "title": "HuntsWorld",
@@ -146,37 +153,32 @@
       "name": "Digitokmedia",
       "title": "Digitokmedia",
       "description": "Digitokmedia is your digital partner, dedicated to branding your brand with impact.Our experienced team blends strategy and creativity to boost your online presence. We craft innovative marketing solutions tailored for maximum visibility and engagement. Let us help your brand connect, grow, and thrive in the digital world.",
-      "image": "Banners/digitok.png",
-      "link": "https://digitokmedia.com"
+      "image": "Banners/digitok.png"
     },
     {
       "name": "GNR Dentistry",
       "title": "GNR Dentistry",
       "description": "At BM TechX, we built the GNR Dentistry website to reflect the clinic’s commitment to modern, compassionate dental care. The site features a clean, professional design with user-friendly navigation, ensuring patients can easily explore services, book appointments, and access essential information. Optimized for SEO and responsive across all devices, the website delivers both performance and visibility.",
-      "image": "Banners/dental.png",
-      "link": "https://gnrdentistry.in/"
+      "image": "Banners/dental.png"
     },
     {
       "name": "Chop Chop Meat",
       "title": "Chop Chop Meat",
       "description": "At BM TechX, we developed Chop Chop Meat exactly as per the client’s vision – a modern, user-friendly website that highlights the quality of their premium mutton and chicken. Built with an SEO-friendly structure and smooth navigation, the site ensures great performance and visibility across devices and search engines.",
-      "image": "Banners/ChopChopMeat.png",
-      "link": "https://chopchopmeat.com/"
+      "image": "Banners/ChopChopMeat.png"
     },
     {
       "name": "One Way Drop Taxi Salem",
       "title": "One Way Drop Taxi Salem",
       "seotitle": "One Way Drop Taxi Salem | Bm Techx",
       "description": "BM Techx has crafted a serene and intuitive website for Kodai Summer Dreams, a premium homestay experience in Kodaikanal. This platform offers a seamless way for travelers to explore the property, check amenities, and send booking inquiries—all through a clean, nature-inspired interface. With mobile optimization, fast loading, and WhatsApp integration, this website ensures a smooth user journey from browsing to booking.",
-      "image": "Banners/OneWayDropTaxiSalem.png",
-      "link": "https://onewaydroptaxisalem.com/"
+      "image": "Banners/OneWayDropTaxiSalem.png"
     },
     {
       "name": "Summer Dreams - Home Stay Cottage",
       "title": "Summer Dreams - Home Stay Cottage",
       "description": "BM Techx developed a fast and responsive website for One Way Drop Taxi Salem, catering to travelers looking for quick and reliable taxi booking across Tamil Nadu. The website features city-wise routing options, one-click call functionality, and a mobile-first layout designed for users on the go. Built with performance and accessibility in mind, the platform simplifies booking while enhancing trust and visibility for the brand.",
-      "image": "Banners/SummerDreams.png",
-      "link": "https://www.kodaisummerdreams.com/"
+      "image": "Banners/SummerDreams.png"
     },
     {
       "name": "Rk Global Associatees",
@@ -189,7 +191,8 @@
       "name": "Chinna Cleaning Facility",
       "title": "Chinna Cleaning Facility",
       "description": "BM Techx presents the Professional Cleaning Website, a comprehensive platform designed to optimize cleaning operations for residential, commercial, and industrial spaces. Enhance your cleaning services with streamlined processes, improved productivity, and exceptional client satisfaction.",
-      "image": "Banners/Chinnacleaning.png"
+      "image": "Banners/Chinnacleaning.png",
+      "link": "https://www.chinnacleaningfacility.com"
     },
     {
       "name": "LearnEng",

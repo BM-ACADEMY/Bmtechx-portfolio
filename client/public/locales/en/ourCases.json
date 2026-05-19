@@ -1,6 +1,15 @@
 {
   "cases": [
     {
+      "image": "Banners/openroom.jpeg",
+      "title": "The Open Room",
+      "description": "The Open Room is a pioneering design practice based in Chennai that uniquely bridges the gap between professional architectural execution and design education.",
+      "tags": [
+        "Architecture",
+        "Education"
+      ]
+    },
+    {
       "image": "Banners/hp.png",
       "title": "HP Fitness Studio Unisex",
       "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
