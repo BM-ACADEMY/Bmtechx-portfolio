@@ -4,6 +4,9 @@
   "becomeClient": "Become a Client",
   "images": [
     { "src": "Banners/openroom.jpeg", "title": "The Open Room" },
+    { "src": "Banners/nppweb.png", "title": "Namma Pondy Properties Website" },
+    { "src": "Banners/nppapp.png", "title": "Namma Pondy Properties App" },
+    { "src": "Banners/coretalents.png", "title": "Core Talents" },
     { "src": "Banners/singletea.png", "title": "Single Tea India" },
     { "src": "Banners/alpha.png", "title": "Alpha" },
     { "src": "Banners/credaro.png", "title": "Credaro Loan" },

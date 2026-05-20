@@ -10,6 +10,7 @@ import './App.css'
 import Aboutsection from "./Mainfile/Aboutpage";
 import ContactModal from "./Pages/ModalComponent";
 import WhatsAppFloat from "./Pages/Floatingwhatsapp";
+import GoogleTranslate from "./Pages/GoogleTranslate";
 import { ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 import ContactFormTable from "./Pages/ContactFormTable";
@@ -32,6 +33,7 @@ export default function App() {
       <Router>
         <ScrollToTop />
         <WhatsAppFloat />
+        <GoogleTranslate />
         <div>
           <Header />
           <Routes>

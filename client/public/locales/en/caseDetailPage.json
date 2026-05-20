@@ -8,6 +8,26 @@
       "image": "Banners/openroom.jpeg",
       "link": "https://theopenroom.in/"
     },
+    {
+      "name": "Namma Pondy Properties Website",
+      "title": "Namma Pondy Properties Website",
+      "description": "Namma Pondy Properties is a trusted real estate platform in Pondicherry offering reliable property buying and selling services. We help clients find the right residential and commercial properties with expert guidance, verified listings, and transparent support throughout the process.",
+      "image": "Banners/nppweb.png",
+      "link": "https://nammapondyproperties.com/"
+    },
+    {
+      "name": "Namma Pondy Properties App",
+      "title": "Namma Pondy Properties App",
+      "description": "The Namma Pondy Properties mobile app makes property searching simple and convenient with verified listings, easy navigation, and direct support for buying and selling properties across Pondicherry.",
+      "image": "Banners/nppapp.png"
+    },
+    {
+      "name": "Core Talents",
+      "title": "Core Talents",
+      "description": "Core Talents is an AI-powered recruitment platform designed to help businesses hire verified talent quickly and efficiently. Serving companies across Pondicherry and Tamil Nadu, the platform simplifies recruitment through smart hiring solutions, candidate screening, and access to job-ready professionals across multiple industries.",
+      "image": "Banners/coretalents.png",
+      "link":"https://coretalents.in/"
+    },
       {
       "name": "HuntsWorld",
       "title": "HuntsWorld",

@@ -17,10 +17,7 @@
     background-color: none;
   }
   
-  .case-row:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  }
+ 
   
   .case-img {
     width: 100%; /* Ensure the image is always full width */

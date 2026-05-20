@@ -10,6 +10,33 @@
       ]
     },
     {
+      "image": "Banners/nppweb.png",
+      "title": "Namma Pondy Properties Website",
+      "description": "Namma Pondy Properties helps individuals and families buy, sell, and find properties across Pondicherry with trusted real estate services.",
+      "tags": [
+        "Web Design",
+        "Real estate"
+      ]
+    },
+    {
+      "image": "Banners/nppapp.png",
+      "title": "Namma Pondy Properties App",
+      "description": "The Namma Pondy Properties mobile app makes property searching, buying, and selling simple and convenient anytime, anywhere.",
+      "tags": [
+        "App",
+        "Real estate"
+      ]
+    },
+    {
+      "image": "Banners/coretalents.png",
+      "title": "Core Talents",
+      "description": "Core Talents is an AI-powered recruitment platform designed to help businesses hire verified talent quickly and efficiently. Serving companies across Pondicherry and Tamil Nadu, the platform simplifies recruitment through smart hiring solutions, candidate screening, and access to job-ready professionals across multiple industries.",
+      "tags": [
+        "AI",
+        "Recruitment"
+      ]
+    },
+    {
       "image": "Banners/hp.png",
       "title": "HP Fitness Studio Unisex",
       "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",

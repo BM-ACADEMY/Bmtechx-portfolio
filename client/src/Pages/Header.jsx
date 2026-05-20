@@ -128,7 +128,6 @@ import { FaLaptopCode, FaPaintBrush, FaCube } from "react-icons/fa";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
-import LanguageSelector from "./LanguageSelector";
 import ContactModal from "./ModalComponent";
 
 const Header = () => {
@@ -253,11 +252,6 @@ const Header = () => {
               <GiFeather className="feather-icon" />
             </span>
           </Button>
-
-          {/* LanguageSelector for desktop */}
-          <div className="language-selector-desktop">
-            <LanguageSelector className="form-select-sm" onChange={changeLang} />
-          </div>
         </div>
       </Navbar>
       <ContactModal show={showModal} handleClose={handleCloseModal} />
