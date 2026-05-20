@@ -10,9 +10,11 @@
   "faq": "FAQ",
 
   "services": "Services",
-  "productDesign": "Product Design",
-  "webDesign": "Web Design",
-  "uiuxDesign": "UI/UX Design",
+  "seoServices": "SEO Services",
+  "socialMedia": "Social Media Management",
+  "ppcServices": "PPC Services",
+  "webDev": "Web Development Services",
+  "software": "Software",
 
   "followUs": "Follow Us",
   "copyright": "All Rights Reserved"

@@ -124,7 +124,7 @@ import { Link, useNavigate } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/Header.css";
 import { GiFeather } from "react-icons/gi";
-import { FaLaptopCode, FaPaintBrush, FaCube } from "react-icons/fa";
+import { FaLaptopCode, FaSearch, FaShareAlt, FaDollarSign, FaCogs } from "react-icons/fa";
 import { bookFreeCall } from "../Whatsapp/whatsappUtils";
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
@@ -211,21 +211,33 @@ const Header = () => {
                 >
                   <NavDropdown.Item onClick={handleNavigate}>
                     <span className="icon-box">
+                      <FaSearch className="dropdown-icon" />
+                    </span>
+                    {t("nav.seo_services")}
+                  </NavDropdown.Item>
+                  <NavDropdown.Item onClick={handleNavigate}>
+                    <span className="icon-box">
+                      <FaShareAlt className="dropdown-icon" />
+                    </span>
+                    {t("nav.social_media")}
+                  </NavDropdown.Item>
+                  <NavDropdown.Item onClick={handleNavigate}>
+                    <span className="icon-box">
+                      <FaDollarSign className="dropdown-icon" />
+                    </span>
+                    {t("nav.ppc_services")}
+                  </NavDropdown.Item>
+                  <NavDropdown.Item onClick={handleNavigate}>
+                    <span className="icon-box">
                       <FaLaptopCode className="dropdown-icon" />
                     </span>
-                    {t("nav.web_design")}
+                    {t("nav.web_dev")}
                   </NavDropdown.Item>
                   <NavDropdown.Item onClick={handleNavigate}>
                     <span className="icon-box">
-                      <FaPaintBrush className="dropdown-icon" />
+                      <FaCogs className="dropdown-icon" />
                     </span>
-                    {t("nav.ui_ux_design")}
-                  </NavDropdown.Item>
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaCube className="dropdown-icon" />
-                    </span>
-                    {t("nav.product_design")}
+                    {t("nav.software")}
                   </NavDropdown.Item>
                 </NavDropdown>
 

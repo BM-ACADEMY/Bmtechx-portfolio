@@ -3,9 +3,11 @@
   "nav": {
     "about": "About",
     "services": "Services",
-    "web_design": "Web Design",
-    "ui_ux_design": "UI/UX Design",
-    "product_design": "Product Design",
+    "seo_services": "SEO Services",
+    "social_media": "Social Media Management",
+    "ppc_services": "PPC Services",
+    "web_dev": "Web Development Services",
+    "software": "Software",
     "cases": "Cases",
     "contact_us": "Contact Us"
   }

@@ -158,9 +158,11 @@ const Footer = () => {
             <Col xs={12} md={3} className="text-center text-md-start ps-lg-4">
               <h4 className="heading-footer">{t('services')}</h4>
               <ul className="list-unstyled">
-                <li><Link to="/cases" className="text-light">{t('productDesign')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('webDesign')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('uiuxDesign')}</Link></li>
+                <li><Link to="/cases" className="text-light">{t('seoServices')}</Link></li>
+                <li><Link to="/cases" className="text-light">{t('socialMedia')}</Link></li>
+                <li><Link to="/cases" className="text-light">{t('ppcServices')}</Link></li>
+                <li><Link to="/cases" className="text-light">{t('webDev')}</Link></li>
+                <li><Link to="/cases" className="text-light">{t('software')}</Link></li>
               </ul>
             </Col>
 
