@@ -193,7 +193,7 @@
 
 
 .proceed {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
   color: black;
   font-weight: bold;
   border: none;
@@ -209,7 +209,7 @@
 }
 
 .proceed:hover {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #c49f0c !important;
   color: black !important;
 }
 

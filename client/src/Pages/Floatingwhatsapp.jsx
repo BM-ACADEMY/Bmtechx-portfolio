@@ -11,7 +11,7 @@ const WhatsAppFloat = () => {
         rel="noopener noreferrer"
         aria-label="Chat on WhatsApp"
       >
-        <img src='/image/whatsapp.png' alt="WhatsApp" />
+        <img src='/common/whatsapp.png' alt="WhatsApp" />
       </a>
 
       <style jsx>{`

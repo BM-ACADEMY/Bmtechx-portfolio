@@ -89,10 +89,10 @@
 //                     max={4}
 //                     sx={{ "& .MuiAvatar-root": { width: 70, height: 70 } }}
 //                   >
-//                     <Avatar alt="Profile 1" src="/profiles/person1.jpg" />
-//                     <Avatar alt="Profile 2" src="/profiles/person2.jpg" />
-//                     <Avatar alt="Profile 3" src="/profiles/person3.jpg" />
-//                     <Avatar alt="Profile 4" src="/profiles/person4.jpg" />
+//                     <Avatar alt="Profile 1" src="/testimonials/person1.jpg" />
+//                     <Avatar alt="Profile 2" src="/testimonials/person2.jpg" />
+//                     <Avatar alt="Profile 3" src="/testimonials/person3.jpg" />
+//                     <Avatar alt="Profile 4" src="/testimonials/person4.jpg" />
 //                   </AvatarGroup>
 //                   <p
 //                     className="text-secondary-video text-end mt-2"
@@ -147,7 +147,7 @@
 //           </Card.Body>
 
 //           <img
-//             src="/image/dotbutton.png"
+//             src="/common/dotbutton.png"
 //             alt="Decorative"
 //             className="bottom-left-image"
 //           />
@@ -247,10 +247,10 @@ const Aboutinfosection = () => {
                     max={4}
                     sx={{ "& .MuiAvatar-root": { width: 70, height: 70 } }}
                   >
-                    <Avatar alt="Profile 1" src="/profiles/person1.jpg" />
-                    <Avatar alt="Profile 2" src="/profiles/person2.jpg" />
-                    <Avatar alt="Profile 3" src="/profiles/person3.jpg" />
-                    <Avatar alt="Profile 4" src="/profiles/person4.jpg" />
+                    <Avatar alt="Profile 1" src="/testimonials/person1.jpg" />
+                    <Avatar alt="Profile 2" src="/testimonials/person2.jpg" />
+                    <Avatar alt="Profile 3" src="/testimonials/person3.jpg" />
+                    <Avatar alt="Profile 4" src="/testimonials/person4.jpg" />
                   </AvatarGroup>
                   <p className="text-secondary-video text-end mt-2 fw-medium">
                     {t("professionals")}
@@ -306,7 +306,7 @@ const Aboutinfosection = () => {
           </Card.Body>
 
           <img
-            src="/image/dotbutton.png"
+            src="/common/dotbutton.png"
             alt="Decorative"
             className="bottom-left-image"
           />

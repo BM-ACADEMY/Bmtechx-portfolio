@@ -3,40 +3,40 @@
   "cards": [
     {
       "id": 1,
-      "image": "Banners/Productdesign.png",
-      "logo": "image/seo.png",
+      "image": "services/Productdesign.png",
+      "logo": "common/seo.png",
       "heading": "SEO Services",
       "text": "We improve your website’s visibility on search engines through strategic SEO techniques, keyword optimization, technical improvements, and content strategies that help drive organic traffic, quality leads, and long-term business growth.",
       "buttonText": "Contact Us"
     },
     {
       "id": 2,
-      "image": "Banners/UI_UX.png",
-      "logo": "image/social.png",
+      "image": "services/UI_UX.png",
+      "logo": "common/social.png",
       "heading": "Social Media Management",
       "text": "We manage and grow your social media presence with creative content, post scheduling, audience engagement, branding strategies, and performance-driven campaigns across platforms like Facebook, Instagram, and LinkedIn.",
       "buttonText": "Contact Us"
     },
     {
       "id": 3,
-      "image": "Banners/3dmotion.png",
-      "logo": "image/s3.3.png",
+      "image": "services/3dmotion.png",
+      "logo": "services/s3.3.png",
       "heading": "PPC Services",
       "text": "Our PPC advertising solutions help businesses generate instant traffic, leads, and conversions through highly targeted paid campaigns on Google, YouTube, and social media platforms with optimized ad performance and ROI-focused strategies.",
       "buttonText": "Contact Us"
     },
     {
       "id": 4,
-      "image": "Banners/WebDevelpment.png",
-      "logo": "image/s4.4.png",
+      "image": "services/WebDevelpment.png",
+      "logo": "services/s4.4.png",
       "heading": "Web Development Services",
       "text": "We develop responsive, modern, and high-performance websites tailored to your business needs, including single-page websites, dynamic business websites, and admin panel solutions with user-friendly design and scalable functionality.",
       "buttonText": "Contact Us"
     },
     {
       "id": 5,
-      "image": "Banners/Coding.png",
-      "logo": "image/software.png",
+      "image": "services/Coding.png",
+      "logo": "common/software.png",
       "heading": "Software",
       "text": "We build custom software solutions designed to streamline operations, automate workflows, and improve business efficiency with secure, scalable, and user-friendly systems tailored to your business requirements.",
       "buttonText": "Contact Us"

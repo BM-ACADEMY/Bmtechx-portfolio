@@ -85,19 +85,19 @@
 //                                     <AvatarGroup max={4} sx={{ '& .MuiAvatar-root': { width: 70, height: 70 } }}>
 //                                         <Avatar
 //                                             alt="Profile 1"
-//                                             src="/profiles/person1.jpg"
+//                                             src="/testimonials/person1.jpg"
 //                                         />
 //                                         <Avatar
 //                                             alt="Profile 2"
-//                                             src="/profiles/person2.jpg"
+//                                             src="/testimonials/person2.jpg"
 //                                         />
 //                                         <Avatar
 //                                             alt="Profile 3"
-//                                             src="/profiles/person3.jpg"
+//                                             src="/testimonials/person3.jpg"
 //                                         />
 //                                         <Avatar
 //                                             alt="Profile 4"
-//                                             src="/profiles/person4.jpg"
+//                                             src="/testimonials/person4.jpg"
 //                                         />
 //                                     </AvatarGroup>
 //                                     <p className="text-secondary-video text-end mt-2" style={{color:'#',fontWeight:'500'}}>16 professionals</p>
@@ -121,7 +121,7 @@
 //                         </Container>
 //                     </Card.Body>
 //                     <img
-//                         src="/image/dotbutton.png"
+//                         src="/common/dotbutton.png"
 //                         alt="Decorative"
 //                         className="bottom-left-image"
 //                     />
@@ -241,7 +241,7 @@ const VideoSection = () => {
                             </Row>
                         </Container>
                     </Card.Body>
-                    <img src="/image/dotbutton.png" alt="Decorative" className="bottom-left-image" />
+                    <img src="/common/dotbutton.png" alt="Decorative" className="bottom-left-image" />
                 </Card>
             </Container>
         </div>

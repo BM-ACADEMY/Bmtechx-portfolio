@@ -22,10 +22,20 @@ const ZigzagCards = () => {
     <div className="cardeffort">
       <h2 className="text-center card-top-text fw-bold pb-3">{t("title")}</h2>
       <div className="container px-md-4 px-lg-5">
-        {cards.map((card, index) => (
-          <motion.div
-            key={card.id}
-            className={`row gx-md-4 mb-4 align-items-center ${index % 2 === 0 ? "" : "flex-row-reverse"}`}
+        {cards.map((card, index) => {
+          const slugs = {
+            1: "seo-services",
+            2: "social-media",
+            3: "ppc-services",
+            4: "web-development",
+            5: "software"
+          };
+          const slug = slugs[card.id] || `service-${card.id}`;
+          return (
+            <motion.div
+              key={card.id}
+              id={slug}
+              className={`row gx-md-4 mb-4 align-items-center ${index % 2 === 0 ? "" : "flex-row-reverse"}`}
             initial={{ opacity: 0, x: index % 2 === 0 ? -100 : 100 }}
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1, ease: "easeOut" }}
@@ -48,7 +58,8 @@ const ZigzagCards = () => {
               </button>
             </div>
           </motion.div>
-        ))}
+        );
+      })}
       </div>
       <ContactModal  show={showModal} handleClose={handleCloseModal} />
     </div>

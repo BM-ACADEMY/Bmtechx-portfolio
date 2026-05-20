@@ -153,7 +153,7 @@
 }
 
 .cardeffort .btn-primary {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
   color: black;
   font-weight: bold;
   border: none;
@@ -168,7 +168,7 @@
 }
 
 .cardeffort .btn-primary:hover {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #c49f0c !important;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }

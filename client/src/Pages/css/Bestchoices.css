@@ -144,7 +144,7 @@
 
 /* Button Styles */
 .best-choice__li-body-cell .best-choice__li-body-cell-btn {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #f4cb00ef !important;
   color: black;
   font-weight: bold;
   border: none;
@@ -159,7 +159,7 @@
 }
 
 .best-choice__li-body-cell .best-choice__li-body-cell-btn:hover {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #c49f0c !important;
   color: black !important;
 }
 

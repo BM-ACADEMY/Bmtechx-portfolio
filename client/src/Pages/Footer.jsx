@@ -26,7 +26,7 @@
 //      <div className="footer-section-one">
 //      <Container className="footer-container" >
 //         <div className="text-center mb-4">
-//           <img src="Banners/Logo.png" alt="Illustration" className="illustration mb-3" />
+//           <img src="common/Logo.png" alt="Illustration" className="illustration mb-3" />
 //           <h2>Have a big idea?</h2>
 //           <h6 className="footer-text-h6 text-center">Let's bring it to life together!</h6>
 //           <Button variant="warning"  onClick={bookFreeCall}>Get started</Button>
@@ -38,7 +38,7 @@
 //         {/* Logo and Tagline */}
 //         <Col xs={12} md={3} className="text-center text-md-start mb-4 mb-md-0">
 //           <Link to="/">
-//             <img src="Banners/Bmtech.png" alt="Logo" className="mb-2" width={200} />
+//             <img src="common/Bmtech.png" alt="Logo" className="mb-2" width={200} />
 //           </Link>
 //           <p className="text-center text-md-start">Your reliable design partner</p>
 //         </Col>
@@ -69,12 +69,12 @@
 //           <ul className="list-unstyled d-flex gap-3 justify-content-center justify-content-md-start">
 //             <li>
 //               <a href="https://www.instagram.com/bmtechxpondy_/" target="_blank" rel="noopener noreferrer">
-//                 <img src="/image/instagram.png" alt="Instagram" width="30" />
+//                 <img src="/common/instagram.png" alt="Instagram" width="30" />
 //               </a>
 //             </li>
 //             <li>
 //               <a href="https://www.linkedin.com/in/samsudeen-bm-5a3a72359/" target="_blank" rel="noopener noreferrer">
-//                 <img src="/image/linkedin.png" alt="LinkedIn" width="30" />
+//                 <img src="/common/linkedin.png" alt="LinkedIn" width="30" />
 //               </a>
 //             </li>      
 //           </ul>
@@ -130,7 +130,7 @@ const Footer = () => {
       <div className="footer-section-one">
         <Container className="footer-container">
           <div className="text-center mb-4">
-            <img src="Banners/Logo.png" alt="Illustration" className="illustration mb-3" />
+            <img src="common/Logo.png" alt="Illustration" className="illustration mb-3" />
             <h2>{t('haveBigIdea')}</h2>
             <h6 className="footer-text-h6 text-center">{t('bringToLife')}</h6>
             <Button variant="warning" onClick={bookFreeCall}>{t('getStarted')}</Button>
@@ -141,7 +141,7 @@ const Footer = () => {
           <Row className="w-100">
             <Col xs={12} md={3} className="text-center text-md-start mb-4 mb-md-0">
               <Link to="/">
-                <img src="Banners/Bmtech.png" alt="Logo" className="mb-2" width={200} />
+                <img src="common/Bmtech.png" alt="Logo" className="mb-2" width={200} />
               </Link>
               <p className="text-center text-md-start">{t('reliablePartner')}</p>
             </Col>
@@ -158,11 +158,11 @@ const Footer = () => {
             <Col xs={12} md={3} className="text-center text-md-start ps-lg-4">
               <h4 className="heading-footer">{t('services')}</h4>
               <ul className="list-unstyled">
-                <li><Link to="/cases" className="text-light">{t('seoServices')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('socialMedia')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('ppcServices')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('webDev')}</Link></li>
-                <li><Link to="/cases" className="text-light">{t('software')}</Link></li>
+                <li><Link to="/#seo-services" className="text-light">{t('seoServices')}</Link></li>
+                <li><Link to="/#social-media" className="text-light">{t('socialMedia')}</Link></li>
+                <li><Link to="/#ppc-services" className="text-light">{t('ppcServices')}</Link></li>
+                <li><Link to="/#web-development" className="text-light">{t('webDev')}</Link></li>
+                <li><Link to="/#software" className="text-light">{t('software')}</Link></li>
               </ul>
             </Col>
 
@@ -171,12 +171,12 @@ const Footer = () => {
               <ul className="list-unstyled d-flex gap-3 justify-content-center justify-content-md-start">
                 <li>
                   <a href="https://www.instagram.com/bmtechxpondy_/" target="_blank" rel="noopener noreferrer">
-                    <img src="/image/instagram.png" alt="Instagram" width="30" />
+                    <img src="/common/instagram.png" alt="Instagram" width="30" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/in/samsudeen-bm-5a3a72359/" target="_blank" rel="noopener noreferrer">
-                    <img src="/image/linkedin.png" alt="LinkedIn" width="30" />
+                    <img src="/common/linkedin.png" alt="LinkedIn" width="30" />
                   </a>
                 </li>
               </ul>

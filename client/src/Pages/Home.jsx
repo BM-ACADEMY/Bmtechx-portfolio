@@ -15,7 +15,7 @@
 //         <div>
 //           {/* Logo Image */}
 //           <img
-//             src="Banners/Logo.png"
+//             src="common/Logo.png"
 //             alt="Top Logo"
 //             className={`mb-1 top-image transition-all ${
 //               isToggled ? "grayscale" : ""
@@ -68,10 +68,10 @@
 
 //             {/* Brand Logos */}
 //             <div className="brand-logos flex justify-center items-center gap-4">
-//               <img src="/Brand/logo1.png" alt="Logo 1" width={100} />
-//               <img src="/Brand/logo2.png" alt="Logo 2" width={100} />
-//               <img src="/Brand/logo10.png" alt="Logo 3" width={100} />
-//               <img src="/Brand/logo5.png" alt="Logo 4" width={100} />
+//               <img src="/brands/logo1.png" alt="Logo 1" width={100} />
+//               <img src="/brands/logo2.png" alt="Logo 2" width={100} />
+//               <img src="/brands/logo10.png" alt="Logo 3" width={100} />
+//               <img src="/brands/logo5.png" alt="Logo 4" width={100} />
 //             </div>
 //           </div>
 //         </div>
@@ -118,7 +118,7 @@ export default function HeroSection() {
         <div>
           {/* Logo Image */}
           <img
-            src="Banners/Logo.png"
+            src="common/Logo.png"
             alt="Top Logo"
             className={`mb-1 top-image transition-all ${isToggled ? "grayscale" : ""
               }`}
@@ -165,10 +165,10 @@ export default function HeroSection() {
             </div>
 
             <div className="brand-logos flex justify-center items-center gap-4">
-              <img src="/Brand/logo1.png" alt="Logo 1" width={100} />
-              <img src="/Brand/logo2.png" alt="Logo 2" width={100} />
-              <img src="/Brand/logo10.png" alt="Logo 3" width={100} />
-              <img src="/Brand/logo5.png" alt="Logo 4" width={100} />
+              <img src="/brands/logo1.png" alt="Logo 1" width={100} />
+              <img src="/brands/logo2.png" alt="Logo 2" width={100} />
+              <img src="/brands/logo10.png" alt="Logo 3" width={100} />
+              <img src="/brands/logo5.png" alt="Logo 4" width={100} />
             </div>
           </div>
         </div>

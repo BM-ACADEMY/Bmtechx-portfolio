@@ -83,7 +83,7 @@
 //           >
 //             <div className="logo-box" ref={logoRef}>
 //               <img
-//                 src="/Banners/abouticon.png"
+//                 src="/about/abouticon.png"
 //                 alt="About Us Logo"
 //                 className="img-fluid"
 //                 style={{ maxHeight: "100px" }}
@@ -223,7 +223,7 @@ const Aboutpage = () => {
           >
             <div className="logo-box" ref={logoRef}>
               <img
-                src="/Banners/abouticon.png"
+                src="/about/abouticon.png"
                 alt="About Us Logo"
                 className="img-fluid"
                 style={{ maxHeight: "100px" }}

@@ -34,7 +34,7 @@
 //               <li className="best-choice__li best-choice__li--main">
 //                 <div className="best-choice__li-body">
 //                   <div className="best-choice__li-body-cell">
-//                     <img src="image/bmtechx.png" alt="Logo" />
+//                     <img src="common/bmtechx.png" alt="Logo" />
 //                   </div>
 //                   <div className="best-choice__li-body-cell">Fast onboarding within 1 day</div>
 //                   <div className="best-choice__li-body-cell">Quick turnaround via async or brief call</div>
@@ -199,7 +199,7 @@ const BestChoice = () => {
               <li className="best-choice__li best-choice__li--main">
                 <div className="best-choice__li-body">
                   <div className="best-choice__li-body-cell">
-                    <img src="image/bmtechx.png" alt="Logo" />
+                    <img src="common/bmtechx.png" alt="Logo" />
                   </div>
                   <div className="best-choice__li-body-cell">{t('rows.main.onboarding')}</div>
                   <div className="best-choice__li-body-cell">{t('rows.main.requestHandling')}</div>

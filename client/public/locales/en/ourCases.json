@@ -1,7 +1,7 @@
 {
   "cases": [
     {
-      "image": "Banners/openroom.jpeg",
+      "image": "cases/openroom.jpeg",
       "title": "The Open Room",
       "description": "The Open Room is a pioneering design practice based in Chennai that uniquely bridges the gap between professional architectural execution and design education.",
       "tags": [
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "image": "Banners/nppweb.png",
+      "image": "cases/nppweb.png",
       "title": "Namma Pondy Properties Website",
       "description": "Namma Pondy Properties helps individuals and families buy, sell, and find properties across Pondicherry with trusted real estate services.",
       "tags": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "image": "Banners/nppapp.png",
+      "image": "cases/nppapp.png",
       "title": "Namma Pondy Properties App",
       "description": "The Namma Pondy Properties mobile app makes property searching, buying, and selling simple and convenient anytime, anywhere.",
       "tags": [
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "image": "Banners/coretalents.png",
+      "image": "cases/coretalents.png",
       "title": "Core Talents",
       "description": "Core Talents is an AI-powered recruitment platform designed to help businesses hire verified talent quickly and efficiently. Serving companies across Pondicherry and Tamil Nadu, the platform simplifies recruitment through smart hiring solutions, candidate screening, and access to job-ready professionals across multiple industries.",
       "tags": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "image": "Banners/huntsworld.png",
+      "image": "cases/huntsworld.png",
       "title": "HuntsWorld",
       "description": "HuntsWorld – A powerful B2B platform built to connect businesses and drive growth.",
       "tags": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "image": "Banners/alg.png",
+      "image": "cases/alg.png",
       "title": "ALG Ladies Hostel",
       "description": "Safe, affordable ladies hostel in Puducherry with modern amenities and secure, comfortable stay.",
       "tags": [
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "image": "Banners/arasi.png",
+      "image": "cases/arasi.png",
       "title": "Arasi Soap",
       "description": "Arasi Soap produces quality detergents, liquid cleaners, and soaps for everyday cleaning needs.",
       "tags": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "image": "Banners/multiverse.png",
+      "image": "cases/multiverse.png",
       "title": "Multiverse International",
       "description": "Multiverse International delivers reliable commercial, industrial, and infrastructure projects across Qatar through strong planning, accountability, and expert execution.",
       "tags": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "image": "Banners/iyyanalli.png",
+      "image": "cases/iyyanalli.png",
       "title": "Iyyan Alli",
       "description": "Iyyan Alli – A diversified organization driving growth across multiple industries.",
       "tags": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "image": "Banners/hp.png",
+      "image": "cases/hp.png",
       "title": "HP Fitness Studio Unisex",
       "description": "HP Fitness Studio is a modern unisex gym with expert training and smart fitness management.",
       "tags": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "image": "Banners/singletea.png",
+      "image": "cases/singletea.png",
       "title": "Single Tea India",
       "description": "Single Tea India – A smart franchise platform with centralized control and dynamic menu management.",
       "tags": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "image": "Banners/alpha.png",
+      "image": "cases/alpha.png",
       "title": "Alpha",
       "description": "Alpha – A secure trading platform enabling time-locked investments with managed returns.",
       "tags": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "image": "Banners/battle.png",
+      "image": "cases/battle.png",
       "title": "Battle Fitness",
       "description": "Battle Fitness – A high-impact digital presence built to energize fitness businesses.",
       "tags": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "image": "Banners/putsf.png",
+      "image": "cases/putsf.png",
       "title": "PUTSF",
       "description": "PUTSF – A digital platform connecting public representatives with the people.",
       "tags": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "image": "Banners/credaro.png",
+      "image": "cases/credaro.png",
       "title": "Credaro Loan",
       "description": "Credaro Loan – A digital platform connecting borrowers and lenders with ease and transparency.",
       "tags": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "image": "Banners/loanguru.png",
+      "image": "cases/loanguru.png",
       "title": "Loan Guru",
       "description": "Loan Guru – A smart digital platform simplifying loan access and lending management.",
       "tags": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "image": "Banners/pravishraj.png",
+      "image": "cases/pravishraj.png",
       "title": "Azhagappa",
       "description": "Azhagappa – Empowering distance learners through a dedicated university sub-branch platform.",
       "tags": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "image": "Banners/rearline.png",
+      "image": "cases/rearline.png",
       "title": "Rearline",
       "description": "Rearline – Powering a sustainable future through advanced solar solutions.",
       "tags": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "image": "Banners/kiet.png",
+      "image": "cases/kiet.png",
       "title": "Online KIET",
       "description": "Online KIET – Connecting communities through service, support, and social impact.",
       "tags": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "image": "Banners/pegasus.png",
+      "image": "cases/pegasus.png",
       "title": "Pegasus",
       "description": "Pegasus is a smart food court system for seamless management and secure, cashless payments.",
       "tags": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "image": "Banners/pegasustix.png",
+      "image": "cases/pegasustix.png",
       "title": "Pegasustix",
       "description": "PegasusTix is a smart ticketing software for easy event booking and management.",
       "tags": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "image": "Banners/Freshbounty.png",
+      "image": "cases/Freshbounty.png",
       "title": "FreshBounty",
       "description": "At BM Techx, we developed a dynamic e-commerce website designed to revolutionize online shopping.",
       "tags": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "image": "Banners/RedCollarAppDevelopment.png",
+      "image": "cases/RedCollarAppDevelopment.png",
       "title": "Red Collar",
       "description": "Building efficient, user-friendly, and scalable mobile applications is our specialty.",
       "tags": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "image": "Banners/TravellersNeed.png",
+      "image": "cases/TravellersNeed.png",
       "title": "TravellersNeed",
       "description": "Your ultimate travel companion for unforgettable adventures.",
       "tags": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "image": "Banners/digitok.png",
+      "image": "cases/digitok.png",
       "title": "Digitok Media",
       "description": "Digitokmedia builds your brand through creative strategy and impactful digital marketing.",
       "tags": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "image": "Banners/dental.png",
+      "image": "cases/dental.png",
       "title": "GNR Dentistry",
       "description": "Modern dental care, delivered through a sleek website.",
       "tags": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "image": "Banners/ChopChopMeat.png",
+      "image": "cases/ChopChopMeat.png",
       "title": "Chop Chop Meat",
       "description": "Delivering fresh meat with premium quality website.",
       "tags": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "image": "Banners/OneWayDropTaxiSalem.png",
+      "image": "cases/OneWayDropTaxiSalem.png",
       "title": "One Way Drop Taxi Salem",
       "seotitle": "One Way Drop Taxi Salem | Bm Techx",
       "description": "Quick, mobile-first website for hassle-free taxi bookings.",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "image": "Banners/SummerDreams.png",
+      "image": "cases/SummerDreams.png",
       "title": "Summer Dreams - Home Stay Cottage",
       "description": "Seamless booking website for a serene Kodaikanal homestay.",
       "tags": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "image": "Banners/RkGlobalAssociatees.png",
+      "image": "cases/RkGlobalAssociatees.png",
       "title": "Rk Global Associatees",
       "description": "Expert business consulting solutions for your growth.",
       "tags": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "image": "Banners/Chinnacleaning.png",
+      "image": "cases/Chinnacleaning.png",
       "title": "Chinna Cleaning",
       "description": "Professional cleaning solutions and facilities for residential and commercial spaces.",
       "tags": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "image": "Banners/Learnengeducation.png",
+      "image": "cases/Learnengeducation.png",
       "title": "LearnEng",
       "description": "Empowering your journey to mastery in the English language.",
       "tags": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "image": "Banners/HuntsWorldProperties.png",
+      "image": "cases/HuntsWorldProperties.png",
       "title": "Hunts World Properties",
       "description": "Your trusted partner in finding the perfect real estate.",
       "tags": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "image": "Banners/JKCoachingAcademy.png",
+      "image": "cases/JKCoachingAcademy.png",
       "title": "JK Coaching Academy",
       "description": "Shaping futures with quality education and expert guidance.",
       "tags": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "image": "Banners/ZhagaramAcademy.png",
+      "image": "cases/ZhagaramAcademy.png",
       "title": "Zhagaram Academy of Learning and Teaching",
       "description": "Redefining education with innovative and impactful learning.",
       "tags": [
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "image": "Banners/RainInfoTech.png",
+      "image": "cases/RainInfoTech.png",
       "title": "Rain Info Tech",
       "description": "Elevating your photos with expert editing and technology.",
       "tags": [
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "image": "Banners/NSAHolidaysKodaikannal.png",
+      "image": "cases/NSAHolidaysKodaikannal.png",
       "title": "NSA Holidays Kodaikannal",
       "description": "Your gateway to serene and unforgettable holiday experiences.",
       "tags": [
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "image": "Banners/MyGoldInternational.png",
+      "image": "cases/MyGoldInternational.png",
       "title": "MyGoldInternational",
       "description": "Unlocking the world of gold investments and precious metal solutions.",
       "tags": [
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "image": "Banners/Poclane.png",
+      "image": "cases/Poclane.png",
       "title": "Poclane",
       "description": "Top-notch website development services, including the dynamic Poclane website.",
       "tags": [
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "image": "Banners/DesignInfo.png",
+      "image": "cases/DesignInfo.png",
       "title": "Design Info",
       "description": "Transforming your photos into stunning works of art.",
       "tags": [
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "image": "Banners/BMAcademy.png",
+      "image": "cases/BMAcademy.png",
       "title": "BM Academy",
       "description": "Where learning meets excellence to shape bright futures.",
       "tags": [
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "image": "Banners/CollegeStudentsProject.png",
+      "image": "cases/CollegeStudentsProject.png",
       "title": "College Students",
       "description": "Simplifying attendance and marks tracking website for college.",
       "tags": [
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "image": "Banners/Bezooz.png",
+      "image": "cases/Bezooz.png",
       "title": "Bezooz",
       "description": "Revolutionizing education with modern tools and interactive learning.",
       "tags": [

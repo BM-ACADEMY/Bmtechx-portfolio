@@ -67,7 +67,7 @@
 
 //           {/* Right Side - Image */}
 //           <Col lg={6} md={6} sm={12} className="image-section">
-//             <img src="/Banners/dotimage.png" alt="Dotted Logo" className="hero-image" />
+//             <img src="/about/dotimage.png" alt="Dotted Logo" className="hero-image" />
 //           </Col>
 //         </Row>
 //       </Container>
@@ -152,7 +152,7 @@ const Textimage = () => {
 
           {/* Right Side - Image */}
           <Col lg={6} md={6} sm={12} className="image-section">
-            <img src="/Banners/dotimage.png" alt="Dotted Logo" className="hero-image" />
+            <img src="/about/dotimage.png" alt="Dotted Logo" className="hero-image" />
           </Col>
         </Row>
       </Container>

@@ -33,7 +33,7 @@
   right: 150px;
   width: 38%;
   height: 100%;
-  background-image: url("/Banners/download.png") !important;
+  background-image: url("/cases/download.png") !important;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center right;
@@ -167,7 +167,7 @@
 }
 
 .book-button {
-  background: url("/image/dotbutton.png") no-repeat center/cover, #f4cb00ef !important;
+  background: url("/common/dotbutton.png") no-repeat center/cover, #f4cb00ef !important;
   color: black;
   font-weight: bold;
   border: none;
@@ -183,7 +183,7 @@
 }
 
 .book-button:hover {
-  background: url("/image/dotbutton.png") no-repeat center/cover, #c49f0c !important;
+  background: url("/common/dotbutton.png") no-repeat center/cover, #c49f0c !important;
   color: black !important;
 }
 

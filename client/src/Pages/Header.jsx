@@ -35,7 +35,7 @@
 //         <div className="container-fluid">
 //           <Navbar.Brand as={Link} to="/" className="logo" onClick={() => setShow(false)}>
 //             <img
-//               src="/image/Bm Techx logo.png" // Make sure the path is correct (e.g. /assets/logo.png or from public folder)
+//               src="/common/Bm Techx logo.png" // Make sure the path is correct (e.g. /assets/logo.png or from public folder)
 //               alt="BM Techx"
 //               className="navbar-logo"
 //             />
@@ -166,7 +166,7 @@ const Header = () => {
         <div className="container-fluid">
           <Navbar.Brand as={Link} to="/" className="logo" onClick={() => setShow(false)}>
             <img
-              src="/image/Bm Techx logo.png"
+              src="/common/Bm Techx logo.png"
               alt="BM Techx"
               className="navbar-logo"
             />
@@ -209,34 +209,19 @@ const Header = () => {
                   onMouseEnter={() => setDropdownOpen(true)}
                   onMouseLeave={() => setDropdownOpen(false)}
                 >
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaSearch className="dropdown-icon" />
-                    </span>
+                  <NavDropdown.Item as={Link} to="/#seo-services" onClick={() => setShow(false)}>
                     {t("nav.seo_services")}
                   </NavDropdown.Item>
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaShareAlt className="dropdown-icon" />
-                    </span>
+                  <NavDropdown.Item as={Link} to="/#social-media" onClick={() => setShow(false)}>
                     {t("nav.social_media")}
                   </NavDropdown.Item>
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaDollarSign className="dropdown-icon" />
-                    </span>
+                  <NavDropdown.Item as={Link} to="/#ppc-services" onClick={() => setShow(false)}>
                     {t("nav.ppc_services")}
                   </NavDropdown.Item>
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaLaptopCode className="dropdown-icon" />
-                    </span>
+                  <NavDropdown.Item as={Link} to="/#web-development" onClick={() => setShow(false)}>
                     {t("nav.web_dev")}
                   </NavDropdown.Item>
-                  <NavDropdown.Item onClick={handleNavigate}>
-                    <span className="icon-box">
-                      <FaCogs className="dropdown-icon" />
-                    </span>
+                  <NavDropdown.Item as={Link} to="/#software" onClick={() => setShow(false)}>
                     {t("nav.software")}
                   </NavDropdown.Item>
                 </NavDropdown>

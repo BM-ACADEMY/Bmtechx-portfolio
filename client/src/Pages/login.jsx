@@ -83,7 +83,7 @@ const SignInForm = () => {
       {/* Right: Image section */}
       <div className="d-none d-md-flex align-items-center justify-content-center w-50 bg-light">
         <img
-          src="Banners/download.png"
+          src="cases/download.png"
           alt="Sign In Visual"
           className="img-fluid"
           style={{ maxHeight: '80%', objectFit: 'cover' }}

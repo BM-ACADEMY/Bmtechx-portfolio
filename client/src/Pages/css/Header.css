@@ -83,7 +83,7 @@
   cursor: not-allowed;
 }
 .contact-btn {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #f4cb00ef !important; /* Background image with fallback color */
+  background: url('/common/dotbutton.png') no-repeat center/cover, #f4cb00ef !important; /* Background image with fallback color */
   color: black; /* Text color */
   font-weight: bold;
   border: none;
@@ -100,7 +100,7 @@
 
 
 .contact-btn:hover {
-  background: url('/image/dotbutton.png') no-repeat center/cover, #c49f0c !important;
+  background: url('/common/dotbutton.png') no-repeat center/cover, #c49f0c !important;
   color: black !important;
 }
 

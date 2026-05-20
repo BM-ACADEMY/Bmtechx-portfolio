@@ -42,7 +42,7 @@ const FullScreenImage = () => {
       <Container fluid className="iamge-section fullscreen-container d-flex justify-content-center align-items-center">
         <img
           ref={imageRef}
-          src="/Banners/maclogo.png"
+          src="/about/maclogo.png"
           alt="Full Screen"
           className="fullscreen-image"
         />

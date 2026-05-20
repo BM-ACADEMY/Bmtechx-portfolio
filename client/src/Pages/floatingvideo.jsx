@@ -6,7 +6,7 @@ const FloatingVideoPlayer = () => {
   const [isMuted, setIsMuted] = useState(true);
   const videoRef = useRef(null);
 
-  const videoUrl = "Banners/floatingvideo.mp4"; // Replace with your actual video path
+  const videoUrl = "testimonials/floatingvideo.mp4"; // Replace with your actual video path
 
   const handleClose = () => {
     setIsFading(true);

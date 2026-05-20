@@ -17,9 +17,9 @@
     }
   },
   "avatars": [
-    { "alt": "Profile 1", "src": "/profiles/person1.jpg" },
-    { "alt": "Profile 2", "src": "/profiles/person2.jpg" },
-    { "alt": "Profile 3", "src": "/profiles/person3.jpg" },
-    { "alt": "Profile 4", "src": "/profiles/person4.jpg" }
+    { "alt": "Profile 1", "src": "/testimonials/person1.jpg" },
+    { "alt": "Profile 2", "src": "/testimonials/person2.jpg" },
+    { "alt": "Profile 3", "src": "/testimonials/person3.jpg" },
+    { "alt": "Profile 4", "src": "/testimonials/person4.jpg" }
   ]
 }
