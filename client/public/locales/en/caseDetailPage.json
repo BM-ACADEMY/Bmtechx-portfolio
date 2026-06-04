@@ -2,6 +2,13 @@
   "title": "BM Techx | Our Works",
   "projects": [
     {
+      "name": "Graha Builders",
+      "title": "Graha Builders",
+      "description": "Graha Builders is a leading construction company in Tiruvannamalai, crafting modern landmarks and dream homes with a perfect balance of design, quality, and structural excellence.",
+      "image": "cases/graha.png",
+      "link": "https://grahabuilders.com"
+    },
+    {
       "name": "The Open Room",
       "title": "The Open Room",
       "description": "The Open Room is a pioneering design practice based in Chennai that bridges the gap between professional architectural execution and design education. Operating simultaneously as a full-service architecture firm and educational platform, we create a dynamic environment where real-world projects inspire learning, and education fuels sharper design thinking.",

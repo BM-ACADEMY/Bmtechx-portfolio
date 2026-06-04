@@ -3,6 +3,7 @@
   "description": "BM Techx is your reliable technology partner, delivering cutting-edge solutions that drive growth, enhance efficiency, and maximize business potential.",
   "becomeClient": "Become a Client",
   "images": [
+    { "src": "cases/graha.png", "title": "Graha Builders" },
     { "src": "cases/openroom.jpeg", "title": "The Open Room" },
     { "src": "cases/nppweb.png", "title": "Namma Pondy Properties Website" },
     { "src": "cases/nppapp.png", "title": "Namma Pondy Properties App" },

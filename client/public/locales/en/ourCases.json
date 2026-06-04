@@ -1,6 +1,14 @@
 {
   "cases": [
     {
+      "image": "cases/graha.png",
+      "title": "Graha Builders",
+      "description": "Graha Builders is a leading construction company in Tiruvannamalai, crafting modern landmarks and dream homes with a perfect balance of design, quality, and structural excellence.",
+      "tags": [
+        "Construction"
+      ]
+    },
+    {
       "image": "cases/openroom.jpeg",
       "title": "The Open Room",
       "description": "The Open Room is a pioneering design practice based in Chennai that uniquely bridges the gap between professional architectural execution and design education.",
