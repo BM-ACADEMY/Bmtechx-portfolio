@@ -2,6 +2,13 @@
   "title": "BM Techx | Our Works",
   "projects": [
     {
+      "name": "The Balified Villa",
+      "title": "The Balified Villa",
+      "description": "The Balified Villa is a premium room booking application designed to offer a seamless and luxurious stay experience. With easy navigation and secure bookings, it ensures your vacation planning is as relaxing as your stay.",
+      "image": "cases/balifiedvilla.png",
+      "link": "https://thebalifiedvilla.com/"
+    },
+    {
       "name": "Graha Builders",
       "title": "Graha Builders",
       "description": "Graha Builders is a leading construction company in Tiruvannamalai, crafting modern landmarks and dream homes with a perfect balance of design, quality, and structural excellence.",
